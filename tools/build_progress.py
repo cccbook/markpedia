@@ -6,6 +6,7 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
+SITE = os.path.join(ROOT, "site")
 sys.path.insert(0, os.path.join(HERE, "data"))
 
 from concepts import DATA  # noqa: E402
@@ -17,7 +18,7 @@ BRANCH_LABEL = {k: DATA[k][0] for k in DATA}
 
 
 def status(concept):
-    folder = os.path.join(ROOT, concept)
+    folder = os.path.join(SITE, concept)
     levels = LEVELS.get(concept, [])
     planned = [f"{concept}.md"]
     for third, fourths in levels:
@@ -58,7 +59,7 @@ def main():
                 bdoing += d
             ns = len(LEVELS.get(c, []))
             ns4 = sum(len(x[1]) for x in LEVELS.get(c, []))
-            out.append(f"| [{c}]({c}/README.md) | {ns} | {ns4} | {t} | {d}/{t} | {st} |")
+            out.append(f"| [{c}](site/{c}/README.md) | {ns} | {ns4} | {t} | {d}/{t} | {st} |")
         bt = sum(1 + len(LEVELS.get(c, [])) + sum(len(x[1]) for x in LEVELS.get(c, []))
                  for c in concepts)
         out.append(f"| **分支小計** |  |  | **{bt}** | **{bdone}/{bt}** |  |")
@@ -69,7 +70,7 @@ def main():
     out.append("| --- | --- |")
     etotal = 0
     for br in BRANCH_ORDER:
-        folder = os.path.join(ROOT, br)
+        folder = os.path.join(SITE, br)
         n = len([f for f in os.listdir(folder)
                  if f.endswith(".md") and f != "README.md"]) if os.path.isdir(folder) else 0
         etotal += n

@@ -39,7 +39,7 @@ def wiki_line(keys, disp):
             parts.append(f"[English Wikipedia: {r['en_canon']}](https://en.wikipedia.org/wiki/{enc(r['en_canon'])})")
     return "> 對應維基百科：" + "　·　".join(parts)
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "site")
 
 owners = {}
 for pk, (disp, intro, subs) in DATA.items():

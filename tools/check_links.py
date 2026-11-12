@@ -11,6 +11,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SITE = os.path.join(ROOT, "site") if os.path.isdir(os.path.join(ROOT, "site")) else ROOT
 
 
 def planned_articles():
@@ -51,7 +52,7 @@ def check_file(path):
     with open(path, encoding="utf-8") as f:
         raw = f.read()
 
-    rel_dir = os.path.dirname(os.path.relpath(path, ROOT))
+    rel_dir = os.path.dirname(os.path.relpath(path, SITE))
     is_entry = (
         os.path.basename(path) == "README.md" and os.path.abspath(path) != os.path.join(ROOT, "README.md")
     ) or (
@@ -72,7 +73,7 @@ def check_file(path):
     for label, target in defs.items():
         if target.startswith(("http://", "https://", "#")):
             continue
-        rel_target = os.path.relpath(os.path.normpath(os.path.join(base, target)), ROOT)
+        rel_target = os.path.relpath(os.path.normpath(os.path.join(base, target)), SITE)
         if not os.path.exists(os.path.normpath(os.path.join(base, target))) and rel_target not in PLANNED:
             problems.append(f"連結目標不存在：[{label}] -> {target}")
 
@@ -87,8 +88,11 @@ def check_file(path):
         problems.append("缺少對應維基百科連結")
 
     lines = raw.rstrip("\n").split("\n")
-    if len(lines) < MIN_LINES and not is_entry:
-        problems.append(f"行數不足：{len(lines)} < {MIN_LINES}")
+    # 實體條目（人名／地名／事件／年份／物品）放寬至 40 行
+    is_entity = "分類/實體" in raw
+    floor = 40 if is_entity else MIN_LINES
+    if len(lines) < floor and not is_entry:
+        problems.append(f"行數不足：{len(lines)} < {floor}")
 
     # TeX 行內公式的 $ 前後需有空格
     for m in re.finditer(r"(?<!\$)\$([^$\n]+)\$(?!\$)", raw):
@@ -126,7 +130,7 @@ def main():
     targets = []
     if len(sys.argv) > 1:
         for arg in sys.argv[1:]:
-            p = os.path.join(ROOT, arg)
+            p = os.path.join(SITE, arg)
             if os.path.isdir(p):
                 targets.append(p)
             elif os.path.isfile(p):
@@ -134,7 +138,7 @@ def main():
             else:
                 targets.append(p)
     else:
-        targets.append(ROOT)
+        targets.append(SITE)
 
     total = 0
     for target in targets:
