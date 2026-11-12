@@ -1,0 +1,38 @@
+{
+  "行為科學.md": {
+    "zh_disp": "行為科學",
+    "zh_canon": "行为科学",
+    "en_disp": "Behavioral science",
+    "en_canon": "Behavioural sciences"
+  },
+  "行為主義.md": {
+    "zh_disp": "行為主義",
+    "zh_canon": "行为主义",
+    "en_disp": "Behaviorism",
+    "en_canon": "Behaviorism"
+  },
+  "行為塑造.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "制約學習.md": {
+    "zh_disp": "古典制約",
+    "zh_canon": "古典制約",
+    "en_disp": "Classical conditioning",
+    "en_canon": "Classical conditioning"
+  },
+  "動機理論.md": {
+    "zh_disp": "动机理论",
+    "zh_canon": "动机",
+    "en_disp": "Motivation theory",
+    "en_canon": "Motivation"
+  },
+  "行為觀測方法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Naturalistic observation",
+    "en_canon": "Naturalistic observation"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "巴甫洛夫.md": {
+    "zh_disp": "巴甫洛夫",
+    "zh_canon": "伊萬·巴甫洛夫",
+    "en_disp": "Ivan Pavlov",
+    "en_canon": "Ivan Pavlov"
+  },
+  "華生.md": {
+    "zh_disp": "约翰·华生",
+    "zh_canon": "约翰·华生",
+    "en_disp": "John B. Watson",
+    "en_canon": "John B. Watson"
+  },
+  "桑代克.md": {
+    "zh_disp": "桑代克",
+    "zh_canon": "愛德華·桑代克",
+    "en_disp": "Edward Thorndike",
+    "en_canon": "Edward Thorndike"
+  },
+  "班杜拉.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Albert Bandura",
+    "en_canon": "Albert Bandura"
+  },
+  "斯金納箱.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Skinner box",
+    "en_canon": "Operant conditioning chamber"
+  }
+}

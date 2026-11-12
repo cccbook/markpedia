@@ -18,6 +18,25 @@ for f in ("wiki_resolved.json", "wiki_resolved_fl.json"):
         WIKI.update(json.load(open(p_, encoding="utf-8")))
 
 
+ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "site")
+FILE_INDEX = {}
+for _r, _d, _fs in os.walk(ROOT):
+    for _f in _fs:
+        if _f.endswith(".md") and _f != "README.md":
+            FILE_INDEX.setdefault(_f, []).append(os.path.join(_r, _f))
+
+
+def resolve(name, base_dir, default=None):
+    """回傳 name 檔案相對於 base_dir 的路徑；找不到則回傳同名假設路徑。"""
+    cand = os.path.join(base_dir, name + ".md")
+    if os.path.exists(cand):
+        return name + ".md"
+    hits = FILE_INDEX.get(name + ".md", [])
+    if hits:
+        return os.path.relpath(hits[0], base_dir).replace(os.sep, "/")
+    return default if default else name + ".md" 
+
+
 def link_if_exists(label, path):
     """目標檔案存在時用參考式連結，否則以純文字呈現（尚未撰寫的條目）。"""
     return f"[{label}]" if os.path.exists(os.path.join(ROOT, path)) else label
@@ -47,6 +66,10 @@ for pk, (disp, intro, subs) in DATA.items():
         owners.setdefault(name, []).append(pk)
 
 disp_of = {pk: DATA[pk][0] for pk in DATA}
+CONCEPTS = set()
+for _pk, (_d, _i, _subs) in DATA.items():
+    for _n, _ in _subs:
+        CONCEPTS.add(_n)
 short = lambda pk: pk.split("-")[0]
 level_of = lambda c: LEVELS.get(c, [])
 
@@ -69,7 +92,11 @@ for pk, (disp, intro, subs) in DATA.items():
         L.append("| --- | --- |")
         if levels:
             for sub, subsub in levels:
-                cell = " · ".join(f"[{x}]" for x in subsub)
+                if sub in CONCEPTS:
+                    kids = level_of(sub)
+                    cell = " · ".join([f"[{sub}]"] + [f"[{x}]" for x, _ in kids]) if kids else f"[{sub}]"
+                else:
+                    cell = " · ".join(f"[{x}]" for x in subsub)
                 L.append(f"| [{sub}] | {cell} |")
         else:
             L.append("| （待建立） | （待建立） |")
@@ -77,9 +104,14 @@ for pk, (disp, intro, subs) in DATA.items():
         L.append("## 連結定義")
         L.append("")
         for sub, subsub in levels:
-            L.append(f"[{sub}]: {sub}.md")
-            for x in subsub:
-                L.append(f"[{x}]: {x}.md")
+            if sub in CONCEPTS:
+                L.append(f"[{sub}]: ../{sub}/README.md")
+                for x, _ in level_of(sub):
+                    L.append(f"[{x}]: ../{sub}/{x}.md")
+            else:
+                L.append(f"[{sub}]: {resolve(sub, ROOT + '/' + name)}")
+                for x in subsub:
+                    L.append(f"[{x}]: {resolve(x, ROOT + '/' + name)}")
         L.append("")
         with open(os.path.join(ROOT, name, "README.md"), "w", encoding="utf-8") as f:
             f.write("\n".join(L))
@@ -126,7 +158,14 @@ for s in order:
         for name, _ in DATA[pk][2]:
             levels = level_of(name)
             if levels:
-                cell = " · ".join(f"[{sub}]" for sub, _ in levels)
+                subs = []
+                for sub, _ in levels:
+                    if sub in CONCEPTS:
+                        subs.append(sub)
+                        subs.extend([x for x, _ in level_of(sub)])
+                    else:
+                        subs.append(sub)
+                cell = " · ".join(f"[{x}]" for x in subs) if subs else "（待建立）"
             else:
                 cell = "（待建立）"
             L.append(f"| [{name}] | {cell} |")
@@ -136,8 +175,13 @@ for s in order:
     for pk in branches:
         for name, _ in DATA[pk][2]:
             L.append(f"[{name}]: ../{name}/README.md")
-            for sub, _ in level_of(name):
-                L.append(f"[{sub}]: ../{name}/{sub}.md")
+            for sub, subsub in level_of(name):
+                if sub in CONCEPTS:
+                    L.append(f"[{sub}]: ../{sub}/README.md")
+                    for x, _ in level_of(sub):
+                        L.append(f"[{x}]: {resolve(x, ROOT + '/' + s, f'../{sub}/{x}.md')}")
+                else:
+                    L.append(f"[{sub}]: {resolve(sub, ROOT + '/' + s, f'../{name}/{sub}.md')}")
     L.append("")
     os.makedirs(os.path.join(ROOT, s), exist_ok=True)
     with open(os.path.join(ROOT, s, "README.md"), "w", encoding="utf-8") as f:
