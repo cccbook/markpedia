@@ -55,7 +55,7 @@ def check_file(path):
     is_entry = (
         os.path.basename(path) == "README.md" and os.path.abspath(path) != os.path.join(ROOT, "README.md")
     ) or (
-        rel_dir in ("", ".") and os.path.basename(path) not in ("README.md", "prompts.md", "AGENTS.md")
+        rel_dir in ("", ".") and os.path.basename(path) not in ("README.md", "prompts.md", "AGENTS.md", "PROGRESS.md")
     )
     defs = dict(DEFS_RE.findall(raw))
     body = DEFS_RE.sub("", raw)
@@ -76,13 +76,14 @@ def check_file(path):
         if not os.path.exists(os.path.normpath(os.path.join(base, target))) and rel_target not in PLANNED:
             problems.append(f"連結目標不存在：[{label}] -> {target}")
 
-    for match in INLINE_RE.finditer(body):
-        problems.append(f"請改用參考式連結：[{match.group(1)}]({match.group(2)})")
+    if os.path.basename(path) != "PROGRESS.md":
+        for match in INLINE_RE.finditer(body):
+            problems.append(f"請改用參考式連結：[{match.group(1)}]({match.group(2)})")
 
     if PLACEHOLDER_RE.search(plain):
         problems.append("含佔位文字（TODO／待撰寫／待補）")
 
-    if not is_entry and "對應維基百科" not in raw:
+    if not is_entry and os.path.basename(path) != "PROGRESS.md" and "對應維基百科" not in raw:
         problems.append("缺少對應維基百科連結")
 
     lines = raw.rstrip("\n").split("\n")

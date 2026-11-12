@@ -39,7 +39,7 @@ def wiki_line(keys, disp):
             parts.append(f"[English Wikipedia: {r['en_canon']}](https://en.wikipedia.org/wiki/{enc(r['en_canon'])})")
     return "> 對應維基百科：" + "　·　".join(parts)
 
-ROOT = "/Users/Shared/ccc/115a/markpedia"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 owners = {}
 for pk, (disp, intro, subs) in DATA.items():
@@ -135,11 +135,12 @@ for s in order:
     L.append("")
     for pk in branches:
         for name, _ in DATA[pk][2]:
-            L.append(f"[{name}]: {name}/README.md")
+            L.append(f"[{name}]: ../{name}/README.md")
             for sub, _ in level_of(name):
-                L.append(f"[{sub}]: {name}/{sub}.md")
+                L.append(f"[{sub}]: ../{name}/{sub}.md")
     L.append("")
-    with open(os.path.join(ROOT, f"{s}.md"), "w", encoding="utf-8") as f:
+    os.makedirs(os.path.join(ROOT, s), exist_ok=True)
+    with open(os.path.join(ROOT, s, "README.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(L))
 
 print("rebuilt concept README.md + first-layer pages")
