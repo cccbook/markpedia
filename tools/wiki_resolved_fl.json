@@ -1,0 +1,122 @@
+{
+  "人.md": {
+    "zh_disp": "人類",
+    "zh_canon": "人",
+    "en_disp": "Human",
+    "en_canon": "Human"
+  },
+  "事.md": {
+    "zh_disp": "事件",
+    "zh_canon": "事件",
+    "en_disp": "Event",
+    "en_canon": "Event"
+  },
+  "時.md": {
+    "zh_disp": "時間",
+    "zh_canon": "时间",
+    "en_disp": "Time",
+    "en_canon": "Time"
+  },
+  "地-空間": {
+    "zh_disp": "地理",
+    "zh_canon": "地理学",
+    "en_disp": "Geography",
+    "en_canon": "Geography"
+  },
+  "地-自然": {
+    "zh_disp": "自然",
+    "zh_canon": "自然",
+    "en_disp": "Natural environment",
+    "en_canon": "Natural environment"
+  },
+  "物.md": {
+    "zh_disp": "物質",
+    "zh_canon": "物质",
+    "en_disp": "Matter",
+    "en_canon": "Matter"
+  },
+  "天.md": {
+    "zh_disp": "天空",
+    "zh_canon": "天空",
+    "en_disp": "Sky",
+    "en_canon": "Sky"
+  },
+  "文.md": {
+    "zh_disp": "人文",
+    "zh_canon": "人文",
+    "en_disp": "Humanities",
+    "en_canon": "Humanities"
+  },
+  "法.md": {
+    "zh_disp": "法律",
+    "zh_canon": "法律",
+    "en_disp": "Law",
+    "en_canon": "Law"
+  },
+  "商.md": {
+    "zh_disp": "商業",
+    "zh_canon": "商业",
+    "en_disp": "Business",
+    "en_canon": "Business"
+  },
+  "理.md": {
+    "zh_disp": "科學",
+    "zh_canon": "科学",
+    "en_disp": "Science",
+    "en_canon": "Science"
+  },
+  "工.md": {
+    "zh_disp": "工程",
+    "zh_canon": "工程",
+    "en_disp": "Engineering",
+    "en_canon": "Engineering"
+  },
+  "醫.md": {
+    "zh_disp": "醫學",
+    "zh_canon": "医学",
+    "en_disp": "Medicine",
+    "en_canon": "Medicine"
+  },
+  "農.md": {
+    "zh_disp": "農業",
+    "zh_canon": "农业",
+    "en_disp": "Agriculture",
+    "en_canon": "Agriculture"
+  },
+  "食.md": {
+    "zh_disp": "食物",
+    "zh_canon": "食物",
+    "en_disp": "Food",
+    "en_canon": "Food"
+  },
+  "衣.md": {
+    "zh_disp": "服裝",
+    "zh_canon": "服装",
+    "en_disp": "Clothing",
+    "en_canon": "Clothing"
+  },
+  "住.md": {
+    "zh_disp": "居住",
+    "zh_canon": "定居",
+    "en_disp": "Housing",
+    "en_canon": "Housing"
+  },
+  "行.md": {
+    "zh_disp": "交通",
+    "zh_canon": "交通",
+    "en_disp": "Transportation",
+    "en_canon": "Transport"
+  },
+  "育.md": {
+    "zh_disp": "教育",
+    "zh_canon": "教育",
+    "en_disp": "Education",
+    "en_canon": "Education"
+  },
+  "樂.md": {
+    "zh_disp": "遊戲",
+    "zh_canon": "游戏",
+    "en_disp": "Game",
+    "en_canon": "Game"
+  }
+}

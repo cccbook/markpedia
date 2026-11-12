@@ -1,0 +1,350 @@
+{
+  "邏輯學.md": {
+    "zh_disp": "邏輯學",
+    "zh_canon": "逻辑",
+    "en_disp": "Logic",
+    "en_canon": "Logic"
+  },
+  "命題邏輯.md": {
+    "zh_disp": "命题逻辑",
+    "zh_canon": "命题逻辑",
+    "en_disp": "Propositional logic",
+    "en_canon": "Propositional logic"
+  },
+  "真值表.md": {
+    "zh_disp": "真值表",
+    "zh_canon": "真值表",
+    "en_disp": "Truth table",
+    "en_canon": "Truth table"
+  },
+  "等值式.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Logical equivalence",
+    "en_canon": "Logical equivalence"
+  },
+  "命題公式.md": {
+    "zh_disp": "命题公式",
+    "zh_canon": "公式 (数理逻辑)",
+    "en_disp": "Propositional formula",
+    "en_canon": "Propositional formula"
+  },
+  "范式.md": {
+    "zh_disp": "范式",
+    "zh_canon": "范式",
+    "en_disp": "Normal form",
+    "en_canon": "Normal form"
+  },
+  "三段論.md": {
+    "zh_disp": "三段論",
+    "zh_canon": "三段論",
+    "en_disp": "Syllogism",
+    "en_canon": "Syllogism"
+  },
+  "謂詞邏輯.md": {
+    "zh_disp": "谓词逻辑",
+    "zh_canon": "谓词逻辑",
+    "en_disp": "Predicate logic",
+    "en_canon": "First-order logic"
+  },
+  "一階邏輯.md": {
+    "zh_disp": "一階邏輯",
+    "zh_canon": "一阶逻辑",
+    "en_disp": "First-order logic",
+    "en_canon": "First-order logic"
+  },
+  "量詞.md": {
+    "zh_disp": "量詞",
+    "zh_canon": "量词",
+    "en_disp": "Quantifier (logic)",
+    "en_canon": "Quantifier (logic)"
+  },
+  "謂詞演算.md": {
+    "zh_disp": "謂詞演算",
+    "zh_canon": "一阶逻辑",
+    "en_disp": "Natural deduction",
+    "en_canon": "Natural deduction"
+  },
+  "模型語意.md": {
+    "zh_disp": "语义学",
+    "zh_canon": "语义学",
+    "en_disp": "Semantics (logic)",
+    "en_canon": "Semantics (logic)"
+  },
+  "變元消去.md": {
+    "zh_disp": "量詞消去",
+    "zh_canon": "量詞消去",
+    "en_disp": "Skolemization",
+    "en_canon": "Skolem normal form"
+  },
+  "模態邏輯.md": {
+    "zh_disp": "模態邏輯",
+    "zh_canon": "模态逻辑",
+    "en_disp": "Modal logic",
+    "en_canon": "Modal logic"
+  },
+  "必然性.md": {
+    "zh_disp": "必然性",
+    "zh_canon": "可能世界",
+    "en_disp": "Necessary",
+    "en_canon": "Necessary"
+  },
+  "可能性.md": {
+    "zh_disp": "可能世界",
+    "zh_canon": "可能世界",
+    "en_disp": "Possibility",
+    "en_canon": "Possibility"
+  },
+  "模態算子.md": {
+    "zh_disp": "模態邏輯",
+    "zh_canon": "模态逻辑",
+    "en_disp": "Modal logic",
+    "en_canon": "Modal logic"
+  },
+  "可能世界語意.md": {
+    "zh_disp": "可能世界",
+    "zh_canon": "可能世界",
+    "en_disp": "Possible world",
+    "en_canon": "Possible world"
+  },
+  "道義邏輯.md": {
+    "zh_disp": "道义逻辑",
+    "zh_canon": "道义逻辑",
+    "en_disp": "Deontic logic",
+    "en_canon": "Deontic logic"
+  },
+  "非古典邏輯.md": {
+    "zh_disp": "非古典邏輯",
+    "zh_canon": "非經典邏輯",
+    "en_disp": "Philosophical logic",
+    "en_canon": "Philosophical logic"
+  },
+  "直覺邏輯.md": {
+    "zh_disp": "直覺主義邏輯",
+    "zh_canon": "直觉主义逻辑",
+    "en_disp": "Intuitionistic logic",
+    "en_canon": "Intuitionistic logic"
+  },
+  "模糊邏輯.md": {
+    "zh_disp": "模糊邏輯",
+    "zh_canon": "模糊逻辑",
+    "en_disp": "Fuzzy logic",
+    "en_canon": "Fuzzy logic"
+  },
+  "相關邏輯.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Relevance logic",
+    "en_canon": "Relevance logic"
+  },
+  "悖論邏輯.md": {
+    "zh_disp": "悖論",
+    "zh_canon": "悖论",
+    "en_disp": "Paraconsistent logic",
+    "en_canon": "Paraconsistent logic"
+  },
+  "量子邏輯.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Quantum logic",
+    "en_canon": "Quantum logic"
+  },
+  "數理邏輯.md": {
+    "zh_disp": "數理邏輯",
+    "zh_canon": "数理逻辑",
+    "en_disp": "Model theory",
+    "en_canon": "Model theory"
+  },
+  "模型論.md": {
+    "zh_disp": "模型論",
+    "zh_canon": "模型论",
+    "en_disp": "Model theory",
+    "en_canon": "Model theory"
+  },
+  "證明論.md": {
+    "zh_disp": "證明論",
+    "zh_canon": "证明论",
+    "en_disp": "Proof theory",
+    "en_canon": "Proof theory"
+  },
+  "遞迴論.md": {
+    "zh_disp": "递归论",
+    "zh_canon": "递归论",
+    "en_disp": "Computability theory",
+    "en_canon": "Computability theory"
+  },
+  "可判定性.md": {
+    "zh_disp": "可判定性问题",
+    "zh_canon": "決定性問題",
+    "en_disp": "Decidability",
+    "en_canon": "Decidability"
+  },
+  "不完全性定理.md": {
+    "zh_disp": "不完全性定理",
+    "zh_canon": "哥德尔不完备定理",
+    "en_disp": "Gödel's incompleteness theorems",
+    "en_canon": "Gödel's incompleteness theorems"
+  },
+  "亞里士多德.md": {
+    "zh_disp": "亞里士多德",
+    "zh_canon": "亚里士多德",
+    "en_disp": "Aristotle",
+    "en_canon": "Aristotle"
+  },
+  "弗雷格.md": {
+    "zh_disp": "弗雷格",
+    "zh_canon": "戈特洛布·弗雷格",
+    "en_disp": "Gottlob Frege",
+    "en_canon": "Gottlob Frege"
+  },
+  "塔斯基.md": {
+    "zh_disp": "塔斯基",
+    "zh_canon": "阿尔弗雷德·塔斯基",
+    "en_disp": "Alfred Tarski",
+    "en_canon": "Alfred Tarski"
+  },
+  "哥德爾.md": {
+    "zh_disp": "庫爾特·哥德爾",
+    "zh_canon": "库尔特·哥德尔",
+    "en_disp": "Kurt Gödel",
+    "en_canon": "Kurt Gödel"
+  },
+  "希爾伯特.md": {
+    "zh_disp": "希爾伯特",
+    "zh_canon": "大卫·希尔伯特",
+    "en_disp": "David Hilbert",
+    "en_canon": "David Hilbert"
+  },
+  "SAT求解.md": {
+    "zh_disp": "SAT",
+    "zh_canon": "SAT",
+    "en_disp": "SAT solver",
+    "en_canon": "SAT solver"
+  },
+  "SMT.md": {
+    "zh_disp": "SMT",
+    "zh_canon": "SMT",
+    "en_disp": "Satisfiability modulo theories",
+    "en_canon": "Satisfiability modulo theories"
+  },
+  "邏輯程式語言.md": {
+    "zh_disp": "邏輯編程",
+    "zh_canon": "邏輯編程",
+    "en_disp": "Logic programming",
+    "en_canon": "Logic programming"
+  },
+  "自動定理證明.md": {
+    "zh_disp": "自動定理證明",
+    "zh_canon": "自動化定理證明",
+    "en_disp": "Automated theorem proving",
+    "en_canon": "Automated theorem proving"
+  },
+  "論證理論.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Argumentation theory",
+    "en_canon": "Argumentation theory"
+  },
+  "謬誤學.md": {
+    "zh_disp": "谬误",
+    "zh_canon": "謬誤",
+    "en_disp": "Fallacy",
+    "en_canon": "Fallacy"
+  },
+  "論證有效性.md": {
+    "zh_disp": "有效性",
+    "zh_canon": "有效性",
+    "en_disp": "Validity (logic)",
+    "en_canon": "Validity (logic)"
+  },
+  "辯論推理.md": {
+    "zh_disp": "辩论",
+    "zh_canon": "辯論",
+    "en_disp": "Argument",
+    "en_canon": "Argument"
+  },
+  "舉證責任.md": {
+    "zh_disp": "舉證責任",
+    "zh_canon": "举证责任",
+    "en_disp": "Burden of proof",
+    "en_canon": "Burden of proof"
+  },
+  "語意論.md": {
+    "zh_disp": "语义学",
+    "zh_canon": "语义学",
+    "en_disp": "Meaning (philosophy)",
+    "en_canon": "Meaning (philosophy)"
+  },
+  "蘊涵.md": {
+    "zh_disp": "蘊涵",
+    "zh_canon": "蕴涵",
+    "en_disp": "Textual entailment",
+    "en_canon": "Textual entailment"
+  },
+  "預設.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Presupposition",
+    "en_canon": "Presupposition"
+  },
+  "自然語言邏輯.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Textual entailment",
+    "en_canon": "Textual entailment"
+  },
+  "語用學.md": {
+    "zh_disp": "語用學",
+    "zh_canon": "语用学",
+    "en_disp": "Pragmatics",
+    "en_canon": "Pragmatics"
+  },
+  "計算邏輯.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Computational logic",
+    "en_canon": "Computational logic"
+  },
+  "定理證明器.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Theorem prover",
+    "en_canon": "Theorem prover"
+  },
+  "形式化驗證.md": {
+    "zh_disp": "形式验证",
+    "zh_canon": "形式验证",
+    "en_disp": "Formal verification",
+    "en_canon": "Formal verification"
+  },
+  "型別系統.md": {
+    "zh_disp": "型別系統",
+    "zh_canon": "類型系統",
+    "en_disp": "Type system",
+    "en_canon": "Type system"
+  },
+  "程式驗證.md": {
+    "zh_disp": "程序验证",
+    "zh_canon": "形式验证",
+    "en_disp": "Formal verification",
+    "en_canon": "Formal verification"
+  },
+  "邏輯與語言.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Meaning (philosophy)",
+    "en_canon": "Meaning (philosophy)"
+  },
+  "邏輯與電腦.md": {
+    "zh_disp": "計算機邏輯",
+    "zh_canon": "计算机逻辑",
+    "en_disp": "Formal verification",
+    "en_canon": "Formal verification"
+  },
+  "邏輯史.md": {
+    "zh_disp": "邏輯史",
+    "zh_canon": "逻辑史",
+    "en_disp": "History of logic",
+    "en_canon": "History of logic"
+  }
+}
