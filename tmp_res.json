@@ -1,0 +1,314 @@
+{
+  "數學.md": {
+    "zh_disp": "数学",
+    "zh_canon": "数学",
+    "en_disp": "Mathematics",
+    "en_canon": "Mathematics"
+  },
+  "數學的研究對象.md": {
+    "zh_disp": "数学",
+    "zh_canon": "数学",
+    "en_disp": "Mathematical object",
+    "en_canon": "Mathematical object"
+  },
+  "量.md": {
+    "zh_disp": "量",
+    "zh_canon": "量",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "序.md": {
+    "zh_disp": "序",
+    "zh_canon": "序",
+    "en_disp": "Order (mathematics)",
+    "en_canon": "Order (mathematics)"
+  },
+  "形.md": {
+    "zh_disp": "形",
+    "zh_canon": "形狀",
+    "en_disp": "Shape",
+    "en_canon": "Shape"
+  },
+  "結構.md": {
+    "zh_disp": "结构",
+    "zh_canon": "结构",
+    "en_disp": "Structure (mathematics)",
+    "en_canon": "Mathematical structure"
+  },
+  "數學的分支.md": {
+    "zh_disp": "数学",
+    "zh_canon": "数学",
+    "en_disp": "Branches of mathematics",
+    "en_canon": "Glossary of areas of mathematics"
+  },
+  "分析.md": {
+    "zh_disp": "分析学",
+    "zh_canon": "数学分析",
+    "en_disp": "Mathematical analysis",
+    "en_canon": "Mathematical analysis"
+  },
+  "拓樸.md": {
+    "zh_disp": "拓扑学",
+    "zh_canon": "拓扑学",
+    "en_disp": "Topology",
+    "en_canon": "Topology"
+  },
+  "數學方法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "證明.md": {
+    "zh_disp": "数学证明",
+    "zh_canon": "數學證明",
+    "en_disp": "Proof (mathematics)",
+    "en_canon": "Mathematical proof"
+  },
+  "反證.md": {
+    "zh_disp": "反证法",
+    "zh_canon": "反證法",
+    "en_disp": "Proof by contradiction",
+    "en_canon": "Reductio ad absurdum"
+  },
+  "數學歸納.md": {
+    "zh_disp": "数学归纳法",
+    "zh_canon": "数学归纳法",
+    "en_disp": "Mathematical induction",
+    "en_canon": "Mathematical induction"
+  },
+  "構造.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Constructive mathematics",
+    "en_canon": "Constructivism (philosophy of mathematics)"
+  },
+  "數學的發展.md": {
+    "zh_disp": "数学史",
+    "zh_canon": "数学史",
+    "en_disp": "History of mathematics",
+    "en_canon": "History of mathematics"
+  },
+  "古希臘.md": {
+    "zh_disp": "古希腊数学",
+    "zh_canon": "古希腊数学",
+    "en_disp": "Greek mathematics",
+    "en_canon": "Ancient Greek mathematics"
+  },
+  "伊斯蘭黃金時代.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Islamic Golden Age",
+    "en_canon": "Islamic Golden Age"
+  },
+  "近代分析.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "History of mathematical analysis",
+    "en_canon": "Mathematical analysis"
+  },
+  "電腦輔助.md": {
+    "zh_disp": "计算机辅助证明",
+    "zh_canon": "電腦協助證明",
+    "en_disp": "Computer-assisted proof",
+    "en_canon": "Computer-assisted proof"
+  },
+  "數學的應用.md": {
+    "zh_disp": "应用数学",
+    "zh_canon": "应用数学",
+    "en_disp": "Applied mathematics",
+    "en_canon": "Applied mathematics"
+  },
+  "物理.md": {
+    "zh_disp": "数学物理",
+    "zh_canon": "数学物理",
+    "en_disp": "Mathematical physics",
+    "en_canon": "Mathematical physics"
+  },
+  "工程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Engineering mathematics",
+    "en_canon": "Engineering mathematics"
+  },
+  "資訊.md": {
+    "zh_disp": "信息论",
+    "zh_canon": "信息论",
+    "en_disp": "Computer science",
+    "en_canon": "Computer science"
+  },
+  "金融.md": {
+    "zh_disp": "金融数学",
+    "zh_canon": "數理金融學",
+    "en_disp": "Mathematical finance",
+    "en_canon": "Mathematical finance"
+  },
+  "代數.md": {
+    "zh_disp": "代数",
+    "zh_canon": "代数",
+    "en_disp": "Algebra",
+    "en_canon": "Algebra"
+  },
+  "群與環.md": {
+    "zh_disp": "群论",
+    "zh_canon": "群论",
+    "en_disp": "Algebraic structure",
+    "en_canon": "Algebraic structure"
+  },
+  "群.md": {
+    "zh_disp": "群论",
+    "zh_canon": "群论",
+    "en_disp": "Group (mathematics)",
+    "en_canon": "Group (mathematics)"
+  },
+  "環.md": {
+    "zh_disp": "环 (代数)",
+    "zh_canon": "环 (代数)",
+    "en_disp": "Ring (mathematics)",
+    "en_canon": "Ring (mathematics)"
+  },
+  "域.md": {
+    "zh_disp": "域 (数学)",
+    "zh_canon": "域 (数学)",
+    "en_disp": "Field (mathematics)",
+    "en_canon": "Field (mathematics)"
+  },
+  "同態.md": {
+    "zh_disp": "同态",
+    "zh_canon": "同态",
+    "en_disp": "Homomorphism",
+    "en_canon": "Homomorphism"
+  },
+  "線性代數.md": {
+    "zh_disp": "线性代数",
+    "zh_canon": "线性代数",
+    "en_disp": "Linear algebra",
+    "en_canon": "Linear algebra"
+  },
+  "向量空間.md": {
+    "zh_disp": "向量空间",
+    "zh_canon": "向量空间",
+    "en_disp": "Vector space",
+    "en_canon": "Vector space"
+  },
+  "矩陣.md": {
+    "zh_disp": "矩阵",
+    "zh_canon": "矩阵",
+    "en_disp": "Matrix (mathematics)",
+    "en_canon": "Matrix (mathematics)"
+  },
+  "特徵值.md": {
+    "zh_disp": "特征值",
+    "zh_canon": "特征值和特征向量",
+    "en_disp": "Eigenvalues and eigenvectors",
+    "en_canon": "Eigenvalues and eigenvectors"
+  },
+  "線性映射.md": {
+    "zh_disp": "线性映射",
+    "zh_canon": "线性映射",
+    "en_disp": "Linear map",
+    "en_canon": "Linear map"
+  },
+  "交換代數.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Commutative algebra",
+    "en_canon": "Commutative algebra"
+  },
+  "理想.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Ideal (ring theory)",
+    "en_canon": "Ideal (ring theory)"
+  },
+  "商環.md": {
+    "zh_disp": "商环",
+    "zh_canon": "商环",
+    "en_disp": "Quotient ring",
+    "en_canon": "Quotient ring"
+  },
+  "因子分解.md": {
+    "zh_disp": "因式分解",
+    "zh_canon": "因式分解",
+    "en_disp": "Factorization of polynomials",
+    "en_canon": "Factorization of polynomials"
+  },
+  "代數幾何.md": {
+    "zh_disp": "代数几何",
+    "zh_canon": "代数几何",
+    "en_disp": "Algebraic geometry",
+    "en_canon": "Algebraic geometry"
+  },
+  "代數曲線.md": {
+    "zh_disp": "代数曲线",
+    "zh_canon": "代數曲線",
+    "en_disp": "Algebraic curve",
+    "en_canon": "Algebraic curve"
+  },
+  "曲面.md": {
+    "zh_disp": "曲面",
+    "zh_canon": "曲面",
+    "en_disp": "Surface (mathematics)",
+    "en_canon": "Surface (mathematics)"
+  },
+  "概形.md": {
+    "zh_disp": "概形",
+    "zh_canon": "概形",
+    "en_disp": "Scheme (mathematics)",
+    "en_canon": "Scheme (mathematics)"
+  },
+  "數論代數.md": {
+    "zh_disp": "代数数论",
+    "zh_canon": "代數數論",
+    "en_disp": "Algebraic number theory",
+    "en_canon": "Algebraic number theory"
+  },
+  "整數環.md": {
+    "zh_disp": "整数环",
+    "zh_canon": "整数",
+    "en_disp": "Ring of integers",
+    "en_canon": "Ring of integers"
+  },
+  "二次型.md": {
+    "zh_disp": "二次型",
+    "zh_canon": "二次型",
+    "en_disp": "Quadratic form",
+    "en_canon": "Quadratic form"
+  },
+  "二次擴張.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Quadratic extension",
+    "en_canon": "Field extension"
+  },
+  "歐拉.md": {
+    "zh_disp": "欧拉",
+    "zh_canon": "萊昂哈德·歐拉",
+    "en_disp": "Leonhard Euler",
+    "en_canon": "Leonhard Euler"
+  },
+  "笛卡兒.md": {
+    "zh_disp": "笛卡尔",
+    "zh_canon": "勒内·笛卡儿",
+    "en_disp": "René Descartes",
+    "en_canon": "René Descartes"
+  },
+  "費馬.md": {
+    "zh_disp": "费马",
+    "zh_canon": "皮埃爾·德·費馬",
+    "en_disp": "Pierre de Fermat",
+    "en_canon": "Pierre de Fermat"
+  },
+  "黎曼.md": {
+    "zh_disp": "黎曼",
+    "zh_canon": "伯恩哈德·黎曼",
+    "en_disp": "Bernhard Riemann",
+    "en_canon": "Bernhard Riemann"
+  },
+  "希爾伯特.md": {
+    "zh_disp": "希尔伯特",
+    "zh_canon": "大卫·希尔伯特",
+    "en_disp": "David Hilbert",
+    "en_canon": "David Hilbert"
+  }
+}

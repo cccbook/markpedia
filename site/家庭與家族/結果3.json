@@ -1,0 +1,74 @@
+{
+  "代際溝通.md": {
+    "zh_disp": "隔代教养",
+    "zh_canon": "隔代教養",
+    "en_disp": "Communication",
+    "en_canon": "Communication"
+  },
+  "家庭功能.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Family",
+    "en_canon": "Family"
+  },
+  "經濟支持.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Financial support",
+    "en_canon": "Financial support"
+  },
+  "教養支出.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Education",
+    "en_canon": "Education"
+  },
+  "代間轉移.md": {
+    "zh_disp": "代际传递",
+    "zh_canon": "代际传递",
+    "en_disp": "Intergenerational mobility",
+    "en_canon": "Social mobility"
+  },
+  "家庭經濟.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Household income",
+    "en_canon": "Household income"
+  },
+  "經濟控制.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Economic abuse",
+    "en_canon": "Economic abuse"
+  },
+  "家庭所得.md": {
+    "zh_disp": "可支配所得",
+    "zh_canon": "可支配所得",
+    "en_disp": "Household income",
+    "en_canon": "Household income"
+  },
+  "情感支持.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Emotional support",
+    "en_canon": "Sympathy"
+  },
+  "防治制度.md": {
+    "zh_disp": "避难所",
+    "zh_canon": "避难所",
+    "en_disp": "Protective order",
+    "en_canon": "Protective order"
+  },
+  "肢體暴力.md": {
+    "zh_disp": "家庭暴力",
+    "zh_canon": "家庭暴力",
+    "en_disp": "Physical abuse",
+    "en_canon": "Physical abuse"
+  },
+  "延伸家庭.md": {
+    "zh_disp": "大家庭",
+    "zh_canon": "大家庭",
+    "en_disp": "Extended family",
+    "en_canon": "Extended family"
+  }
+}

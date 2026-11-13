@@ -1,0 +1,14 @@
+{
+  "家庭結構.md": {"zh": ["家庭结构", "核心家庭"], "en": ["Household", "Family structure", "Nuclear family"]},
+  "家庭功能.md": {"zh": ["家庭职能", "家庭功能"], "en": ["Family", "Household"]},
+  "情感支持.md": {"zh": ["情感支持", "情緒支持", "社会支持"], "en": ["Emotional support", "Social support", "Sympathy"]},
+  "經濟支持.md": {"zh": ["经济支持", "经济援助"], "en": ["Economic support", "Financial support", "Social support"]},
+  "代際溝通.md": {"zh": ["代际沟通", "代际关系"], "en": ["Intergenerational communication", "Intergenerational relations"]},
+  "防治制度.md": {"zh": ["庇护所", "保护令"], "en": ["Domestic violence intervention", "Protective order", "Shelter (domestic violence)"]},
+  "肢體暴力.md": {"zh": ["身体暴力", "家庭暴力", "暴力伤害"], "en": ["Physical abuse", "Domestic violence"]},
+  "經濟控制.md": {"zh": ["经济控制", "经济胁迫", "经济虐待"], "en": ["Economic abuse", "Financial abuse"]},
+  "家庭經濟.md": {"zh": ["家庭经济", "家庭收入"], "en": ["Household income", "Household economics"]},
+  "家庭所得.md": {"zh": ["家庭所得", "可支配所得", "个人所得"], "en": ["Household income", "Disposable income"]},
+  "教養支出.md": {"zh": ["教育支出", "教育经费"], "en": ["Educational expenditure", "Education policy", "Household expenditure"]},
+  "代間轉移.md": {"zh": ["代际转移", "遗产继承", "财富传承"], "en": ["Intergenerational mobility", "Social mobility", "Inheritance"]}
+}
