@@ -1,0 +1,344 @@
+{
+  "軟體工程.md": {
+    "zh_disp": "軟體工程",
+    "zh_canon": "软件工程",
+    "en_disp": "Software engineering",
+    "en_canon": "Software engineering"
+  },
+  "軟體開發流程.md": {
+    "zh_disp": "軟體開發流程",
+    "zh_canon": "软件开发过程",
+    "en_disp": "Software development process",
+    "en_canon": "Software development process"
+  },
+  "瀑布式流程.md": {
+    "zh_disp": "瀑布模型",
+    "zh_canon": "瀑布模型",
+    "en_disp": "Waterfall model",
+    "en_canon": "Waterfall model"
+  },
+  "迭代.md": {
+    "zh_disp": "迭代法",
+    "zh_canon": "迭代法",
+    "en_disp": "Iterative development",
+    "en_canon": "Iterative and incremental development"
+  },
+  "敏捷.md": {
+    "zh_disp": "敏捷軟體開發",
+    "zh_canon": "敏捷软件开发",
+    "en_disp": "Agile software development",
+    "en_canon": "Agile software development"
+  },
+  "DevOps.md": {
+    "zh_disp": "DevOps",
+    "zh_canon": "DevOps",
+    "en_disp": "DevOps",
+    "en_canon": "DevOps"
+  },
+  "需求工程.md": {
+    "zh_disp": "需求工程",
+    "zh_canon": "需求工程",
+    "en_disp": "Requirements engineering",
+    "en_canon": "Requirements engineering"
+  },
+  "需求擷取.md": {
+    "zh_disp": "需求獲取",
+    "zh_canon": "需求获取",
+    "en_disp": "Requirements elicitation",
+    "en_canon": "Requirements elicitation"
+  },
+  "分析.md": {
+    "zh_disp": "需求分析",
+    "zh_canon": "需求分析",
+    "en_disp": "Systems analysis",
+    "en_canon": "Systems analysis"
+  },
+  "規格.md": {
+    "zh_disp": "軟體需求規格",
+    "zh_canon": "软件需求说明",
+    "en_disp": "Software requirements specification",
+    "en_canon": "Software requirements specification"
+  },
+  "驗證.md": {
+    "zh_disp": "驗證",
+    "zh_canon": "驗證",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "設計模式.md": {
+    "zh_disp": "設計模式",
+    "zh_canon": "设计模式",
+    "en_disp": "Design pattern",
+    "en_canon": "Design pattern"
+  },
+  "單例.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Singleton pattern",
+    "en_canon": "Singleton pattern"
+  },
+  "觀察者.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Observer pattern",
+    "en_canon": "Observer pattern"
+  },
+  "策略.md": {
+    "zh_disp": "策略模式",
+    "zh_canon": "策略模式",
+    "en_disp": "Strategy pattern",
+    "en_canon": "Strategy pattern"
+  },
+  "工廠.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Factory method",
+    "en_canon": "Factory method pattern"
+  },
+  "品質確保.md": {
+    "zh_disp": "品質保證",
+    "zh_canon": "品質保證",
+    "en_disp": "Software quality assurance",
+    "en_canon": "Software quality assurance"
+  },
+  "程式碼審查.md": {
+    "zh_disp": "程式碼審查",
+    "zh_canon": "代码审查",
+    "en_disp": "Code review",
+    "en_canon": "Code review"
+  },
+  "單元測試.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Unit testing",
+    "en_canon": "Unit testing"
+  },
+  "整合測試.md": {
+    "zh_disp": "整合測試",
+    "zh_canon": "集成测试",
+    "en_disp": "Integration testing",
+    "en_canon": "Integration testing"
+  },
+  "持續整合.md": {
+    "zh_disp": "持續整合",
+    "zh_canon": "持續整合",
+    "en_disp": "Continuous integration",
+    "en_canon": "Continuous integration"
+  },
+  "維護與演進.md": {
+    "zh_disp": "軟體維護",
+    "zh_canon": "軟體維護",
+    "en_disp": "Software maintenance",
+    "en_canon": "Software maintenance"
+  },
+  "技術債.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Technical debt",
+    "en_canon": "Technical debt"
+  },
+  "重構.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Code refactoring",
+    "en_canon": "Code refactoring"
+  },
+  "版本發布.md": {
+    "zh_disp": "版本控制",
+    "zh_canon": "版本控制",
+    "en_disp": "Software release",
+    "en_canon": "Software release life cycle"
+  },
+  "回滾.md": {
+    "zh_disp": "回滾",
+    "zh_canon": "回滚",
+    "en_disp": "Rollback",
+    "en_canon": "Rollback"
+  },
+  "資料科學.md": {
+    "zh_disp": "資料科學",
+    "zh_canon": "数据科学",
+    "en_disp": "Data science",
+    "en_canon": "Data science"
+  },
+  "資料流程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data pipeline",
+    "en_canon": "Pipeline (computing)"
+  },
+  "資料取得.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data collection",
+    "en_canon": "Data collection"
+  },
+  "清理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data cleaning",
+    "en_canon": "Data cleansing"
+  },
+  "特徵工程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Feature engineering",
+    "en_canon": "Feature engineering"
+  },
+  "建模.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Statistical model",
+    "en_canon": "Statistical model"
+  },
+  "探索性分析.md": {
+    "zh_disp": "探索性資料分析",
+    "zh_canon": "探索性資料分析",
+    "en_disp": "Exploratory data analysis",
+    "en_canon": "Exploratory data analysis"
+  },
+  "描述統計.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Descriptive statistics",
+    "en_canon": "Descriptive statistics"
+  },
+  "視覺化.md": {
+    "zh_disp": "資料視覺化",
+    "zh_canon": "数据可视化",
+    "en_disp": "Data visualization",
+    "en_canon": "Data and information visualization"
+  },
+  "相關性.md": {
+    "zh_disp": "相關性",
+    "zh_canon": "相關性",
+    "en_disp": "Correlation (statistics)",
+    "en_canon": "Correlation"
+  },
+  "假設檢驗.md": {
+    "zh_disp": "假設檢定",
+    "zh_canon": "假說檢定",
+    "en_disp": "Hypothesis testing",
+    "en_canon": "Statistical hypothesis test"
+  },
+  "資料視覺化.md": {
+    "zh_disp": "資料視覺化",
+    "zh_canon": "数据可视化",
+    "en_disp": "Data visualization",
+    "en_canon": "Data and information visualization"
+  },
+  "圖表選擇.md": {
+    "zh_disp": "統計圖表",
+    "zh_canon": "統計圖表",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "互動式視覺.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Interactive visualization",
+    "en_canon": "Visualization (graphics)"
+  },
+  "儀表板.md": {
+    "zh_disp": "儀表板",
+    "zh_canon": "汽車儀表",
+    "en_disp": "Dashboard",
+    "en_canon": "Dashboard"
+  },
+  "敘事.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data storytelling",
+    "en_canon": "Data and information visualization"
+  },
+  "實驗設計.md": {
+    "zh_disp": "實驗設計",
+    "zh_canon": "试验设计",
+    "en_disp": "Experimental design",
+    "en_canon": "Design of experiments"
+  },
+  "A/B測試.md": {
+    "zh_disp": "A/B測試",
+    "zh_canon": "A/B測試",
+    "en_disp": "A/B testing",
+    "en_canon": "A/B testing"
+  },
+  "因果推論.md": {
+    "zh_disp": "因果推論",
+    "zh_canon": "因果推斷",
+    "en_disp": "Causal inference",
+    "en_canon": "Causal inference"
+  },
+  "樣本偏差.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Sampling bias",
+    "en_canon": "Sampling bias"
+  },
+  "隨機化.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Randomization",
+    "en_canon": "Randomization"
+  },
+  "資料倫理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data ethics",
+    "en_canon": "Big data ethics"
+  },
+  "隱私.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Information privacy",
+    "en_canon": "Information privacy"
+  },
+  "偏差.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Statistical bias",
+    "en_canon": "Bias (statistics)"
+  },
+  "可解釋性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Explainable AI",
+    "en_canon": "Explainable artificial intelligence"
+  },
+  "資料治理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data governance",
+    "en_canon": "Data governance"
+  },
+  "湯姆林·湯姆森.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Tom Kilburn",
+    "en_canon": "Tom Kilburn"
+  },
+  "葛麗斯·霍普.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Grace Hopper",
+    "en_canon": "Grace Hopper"
+  },
+  "艾倫·凱.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Alan Kay",
+    "en_canon": "Alan Kay"
+  },
+  "巴巴拉·利斯科夫.md": {
+    "zh_disp": "芭芭拉·利斯科夫",
+    "zh_canon": "芭芭拉·利斯科夫",
+    "en_disp": "Barbara Liskov",
+    "en_canon": "Barbara Liskov"
+  },
+  "彼得·諾維格.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Peter Norvig",
+    "en_canon": "Peter Norvig"
+  }
+}

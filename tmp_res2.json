@@ -1,0 +1,170 @@
+{
+  "驗證.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Software verification",
+    "en_canon": "Software verification"
+  },
+  "敘事.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data storytelling",
+    "en_canon": "Data and information visualization"
+  },
+  "儀表板.md": {
+    "zh_disp": "儀表板",
+    "zh_canon": "汽車儀表",
+    "en_disp": "Dashboard",
+    "en_canon": "Dashboard"
+  },
+  "資料流程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data pipeline",
+    "en_canon": "Pipeline (computing)"
+  },
+  "互動式視覺.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Interactive visualization",
+    "en_canon": "Visualization (graphics)"
+  },
+  "視覺化.md": {
+    "zh_disp": "資料視覺化",
+    "zh_canon": "数据可视化",
+    "en_disp": "Data and information visualization",
+    "en_canon": "Data and information visualization"
+  },
+  "偏差.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Bias (statistics)",
+    "en_canon": "Bias (statistics)"
+  },
+  "可解釋性.md": {
+    "zh_disp": "可解釋人工智慧",
+    "zh_canon": "可解釋人工智慧",
+    "en_disp": "Explainable artificial intelligence",
+    "en_canon": "Explainable artificial intelligence"
+  },
+  "資料倫理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Big data ethics",
+    "en_canon": "Big data ethics"
+  },
+  "隱私.md": {
+    "zh_disp": "隱私",
+    "zh_canon": "隐私",
+    "en_disp": "Information privacy",
+    "en_canon": "Information privacy"
+  },
+  "樣本偏差.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Sampling bias",
+    "en_canon": "Sampling bias"
+  },
+  "隨機化.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Randomization",
+    "en_canon": "Randomization"
+  },
+  "描述統計.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Descriptive statistics",
+    "en_canon": "Descriptive statistics"
+  },
+  "建模.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Statistical model",
+    "en_canon": "Statistical model"
+  },
+  "特徵工程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Feature engineering",
+    "en_canon": "Feature engineering"
+  },
+  "清理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data cleansing",
+    "en_canon": "Data cleansing"
+  },
+  "資料取得.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data collection",
+    "en_canon": "Data collection"
+  },
+  "圖表選擇.md": {
+    "zh_disp": "統計圖表",
+    "zh_canon": "統計圖表",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "技術債.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Technical debt",
+    "en_canon": "Technical debt"
+  },
+  "重構.md": {
+    "zh_disp": "程式碼重構",
+    "zh_canon": "代码重构",
+    "en_disp": "Code refactoring",
+    "en_canon": "Code refactoring"
+  },
+  "單元測試.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Unit testing",
+    "en_canon": "Unit testing"
+  },
+  "單例.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Singleton pattern",
+    "en_canon": "Singleton pattern"
+  },
+  "觀察者.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Observer pattern",
+    "en_canon": "Observer pattern"
+  },
+  "工廠.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Factory method pattern",
+    "en_canon": "Factory method pattern"
+  },
+  "湯姆林·湯姆森.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Tom Kilburn",
+    "en_canon": "Tom Kilburn"
+  },
+  "葛麗斯·霍普.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Grace Hopper",
+    "en_canon": "Grace Hopper"
+  },
+  "艾倫·凱.md": {
+    "zh_disp": "艾伦·凯",
+    "zh_canon": "艾伦·凯",
+    "en_disp": "Alan Kay",
+    "en_canon": "Alan Kay"
+  },
+  "彼得·諾維格.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Peter Norvig",
+    "en_canon": "Peter Norvig"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "力覺.md": {"zh": ["六维力传感器", "力传感器"], "en": ["Six-axis force-torque sensor", "Force sensing", "Force sensor"]},
+  "奇異點.md": {"zh": ["奇点"], "en": ["Singularity (robotics)", "Singularity (mathematics)"]},
+  "深度藍.md": {"zh": ["深藍"], "en": ["Deep Blue"]},
+  "可解釋性.md": {"zh": ["可解釋人工智慧"], "en": ["Explainable artificial intelligence"]},
+  "混合方法.md": {"zh": ["混合式神經-符號人工智慧"], "en": ["Hybrid intelligent system"]},
+  "定位.md": {"zh": ["同时定位与地图构建"], "en": ["Simultaneous localization and mapping"]},
+  "機器人感知.md": {"zh": ["机器人学"], "en": ["Robotic sensing"]},
+  "服務.md": {"zh": ["机器人"], "en": ["Service robot"]},
+  "醫療.md": {"zh": ["达芬奇手术系统", "醫療用機器人"], "en": ["Robotic surgery"]},
+  "探索.md": {"zh": ["空间探测器"], "en": ["Mars rover"]},
+  "無監督式.md": {"zh": ["無監督學習"], "en": ["Unsupervised learning"]},
+  "推薦.md": {"zh": ["推薦系統"], "en": ["Recommender system"]},
+  "偏見與公平.md": {"zh": ["演算法偏見", "偏見與歧視"], "en": ["Algorithmic bias"]},
+  "符號主義.md": {"zh": ["人工智能"], "en": ["Symbolic artificial intelligence"]},
+  "路徑規劃.md": {"zh": ["运动规划"], "en": ["Motion planning"]}
+}
