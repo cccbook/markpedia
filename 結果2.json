@@ -1,26 +1,32 @@
 {
-  "行為塑造.md": {
-    "zh_disp": "制約",
-    "zh_canon": "制約",
-    "en_disp": "Shaping",
-    "en_canon": "Shaping"
+  "馮諾依曼.md": {
+    "zh_disp": "冯·诺伊曼结构",
+    "zh_canon": "冯·诺伊曼结构",
+    "en_disp": "Von Neumann architecture",
+    "en_canon": "Von Neumann architecture"
   },
-  "行為觀測方法.md": {
+  "資料表示.md": {
+    "zh_disp": "数据类型",
+    "zh_canon": "資料類型",
+    "en_disp": "Data type",
+    "en_canon": "Data type"
+  },
+  "規格.md": {
     "zh_disp": null,
     "zh_canon": null,
-    "en_disp": "Naturalistic observation",
-    "en_canon": "Naturalistic observation"
+    "en_disp": "Software requirements specification",
+    "en_canon": "Software requirements specification"
   },
-  "制約學習.md": {
-    "zh_disp": "操作制約",
-    "zh_canon": "操作制約",
-    "en_disp": "Operant conditioning",
-    "en_canon": "Operant conditioning"
-  },
-  "動機理論.md": {
+  "驗證.md": {
     "zh_disp": null,
     "zh_canon": null,
-    "en_disp": "Expectancy theory",
-    "en_canon": "Expectancy theory"
+    "en_disp": "Verification and validation",
+    "en_canon": "Verification and validation"
+  },
+  "維護與演進.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Software maintenance",
+    "en_canon": "Software maintenance"
   }
 }

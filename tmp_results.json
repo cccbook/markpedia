@@ -1,0 +1,332 @@
+{
+  "流體力學.md": {
+    "zh_disp": "流體力學",
+    "zh_canon": "流体力学",
+    "en_disp": "Fluid mechanics",
+    "en_canon": "Fluid mechanics"
+  },
+  "流體性質.md": {
+    "zh_disp": "流體",
+    "zh_canon": "流体",
+    "en_disp": "Fluid",
+    "en_canon": "Fluid"
+  },
+  "密度.md": {
+    "zh_disp": "密度",
+    "zh_canon": "密度",
+    "en_disp": "Density",
+    "en_canon": "Density"
+  },
+  "黏度.md": {
+    "zh_disp": "黏度",
+    "zh_canon": "黏度",
+    "en_disp": "Viscosity",
+    "en_canon": "Viscosity"
+  },
+  "可壓縮性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Compressibility",
+    "en_canon": "Compressibility"
+  },
+  "表面張力.md": {
+    "zh_disp": "表面張力",
+    "zh_canon": "表面张力",
+    "en_disp": "Surface tension",
+    "en_canon": "Surface tension"
+  },
+  "流體靜力學.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Fluid statics",
+    "en_canon": "Hydrostatics"
+  },
+  "壓力.md": {
+    "zh_disp": "壓力",
+    "zh_canon": "压强",
+    "en_disp": "Pressure",
+    "en_canon": "Pressure"
+  },
+  "浮力.md": {
+    "zh_disp": "浮力",
+    "zh_canon": "浮力",
+    "en_disp": "Buoyancy",
+    "en_canon": "Buoyancy"
+  },
+  "流體靜力學方程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Fluid statics",
+    "en_canon": "Hydrostatics"
+  },
+  "流體動力學.md": {
+    "zh_disp": "流體動力學",
+    "zh_canon": "流體動力學",
+    "en_disp": "Fluid dynamics",
+    "en_canon": "Fluid dynamics"
+  },
+  "連續性方程.md": {
+    "zh_disp": "連續性方程",
+    "zh_canon": "連續性方程式",
+    "en_disp": "Continuity equation",
+    "en_canon": "Continuity equation"
+  },
+  "伯努利方程.md": {
+    "zh_disp": "伯努利原理",
+    "zh_canon": "伯努利定律",
+    "en_disp": "Bernoulli's principle",
+    "en_canon": "Bernoulli's principle"
+  },
+  "無黏流.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Inviscid flow",
+    "en_canon": "Inviscid flow"
+  },
+  "黏流.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Viscous flow",
+    "en_canon": "Navier–Stokes equations"
+  },
+  "邊界層.md": {
+    "zh_disp": "邊界層",
+    "zh_canon": "邊界層",
+    "en_disp": "Boundary layer",
+    "en_canon": "Boundary layer"
+  },
+  "雷諾數.md": {
+    "zh_disp": "雷諾數",
+    "zh_canon": "雷诺数",
+    "en_disp": "Reynolds number",
+    "en_canon": "Reynolds number"
+  },
+  "層流與亂流.md": {
+    "zh_disp": "層流",
+    "zh_canon": "层流",
+    "en_disp": "Laminar flow",
+    "en_canon": "Laminar flow"
+  },
+  "阻力係數.md": {
+    "zh_disp": "阻力係數",
+    "zh_canon": "阻力係數",
+    "en_disp": "Drag coefficient",
+    "en_canon": "Drag coefficient"
+  },
+  "壓力機.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Hydraulic machine",
+    "en_canon": "Hydraulic machinery"
+  },
+  "離心泵.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Centrifugal pump",
+    "en_canon": "Centrifugal pump"
+  },
+  "軸流壓氣機.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Axial compressor",
+    "en_canon": "Axial compressor"
+  },
+  "渦輪機.md": {
+    "zh_disp": "渦輪機",
+    "zh_canon": "涡轮发动机",
+    "en_disp": "Turbine",
+    "en_canon": "Turbine"
+  },
+  "液壓系統.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Hydraulic system",
+    "en_canon": "Hydraulics"
+  },
+  "結構力學.md": {
+    "zh_disp": "結構力學",
+    "zh_canon": "结构力学",
+    "en_disp": "Structural mechanics",
+    "en_canon": "Structural mechanics"
+  },
+  "結構分析.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Structural analysis",
+    "en_canon": "Structural analysis"
+  },
+  "靜定.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Statically determinate",
+    "en_canon": "Statically indeterminate"
+  },
+  "超靜定.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Statically indeterminate",
+    "en_canon": "Statically indeterminate"
+  },
+  "影響線.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Influence line",
+    "en_canon": "Influence line"
+  },
+  "近似法.md": {
+    "zh_disp": "近似",
+    "zh_canon": "近似",
+    "en_disp": "Approximation",
+    "en_canon": "Approximation"
+  },
+  "受軸力構件.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Structural member",
+    "en_canon": "Structural element"
+  },
+  "拉壓.md": {
+    "zh_disp": "應力",
+    "zh_canon": "應力",
+    "en_disp": "Stress (mechanics)",
+    "en_canon": "Stress (mechanics)"
+  },
+  "截面應力.md": {
+    "zh_disp": "應力",
+    "zh_canon": "應力",
+    "en_disp": "Stress (mechanics)",
+    "en_canon": "Stress (mechanics)"
+  },
+  "接頭.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Joint",
+    "en_canon": "Joint"
+  },
+  "壓桿穩定.md": {
+    "zh_disp": "挫曲",
+    "zh_canon": "挫曲",
+    "en_disp": "Buckling",
+    "en_canon": "Buckling"
+  },
+  "受彎構件.md": {
+    "zh_disp": "梁",
+    "zh_canon": "梁",
+    "en_disp": "Beam (structure)",
+    "en_canon": "Beam (structure)"
+  },
+  "彎矩.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Bending moment",
+    "en_canon": "Bending moment"
+  },
+  "剪力.md": {
+    "zh_disp": "剪應力",
+    "zh_canon": "剪應力",
+    "en_disp": "Shear stress",
+    "en_canon": "Shear stress"
+  },
+  "撓度.md": {
+    "zh_disp": "撓度",
+    "zh_canon": "撓度",
+    "en_disp": "Deflection",
+    "en_canon": "Deflection"
+  },
+  "應力集中.md": {
+    "zh_disp": "應力集中",
+    "zh_canon": "應力集中",
+    "en_disp": "Stress concentration",
+    "en_canon": "Stress concentration"
+  },
+  "桁架與剛架.md": {
+    "zh_disp": "桁架",
+    "zh_canon": "桁架",
+    "en_disp": "Truss",
+    "en_canon": "Truss"
+  },
+  "節點法.md": {
+    "zh_disp": "桁架",
+    "zh_canon": "桁架",
+    "en_disp": "Truss",
+    "en_canon": "Truss"
+  },
+  "矩陣位移法.md": {
+    "zh_disp": "有限元素法",
+    "zh_canon": "有限元素法",
+    "en_disp": "Direct stiffness method",
+    "en_canon": "Direct stiffness method"
+  },
+  "有限元素.md": {
+    "zh_disp": "有限元素法",
+    "zh_canon": "有限元素法",
+    "en_disp": "Finite element method",
+    "en_canon": "Finite element method"
+  },
+  "動態與穩定.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Structural dynamics",
+    "en_canon": "Structural dynamics"
+  },
+  "振動.md": {
+    "zh_disp": "振動",
+    "zh_canon": "振动",
+    "en_disp": "Vibration",
+    "en_canon": "Vibration"
+  },
+  "共振.md": {
+    "zh_disp": "共振",
+    "zh_canon": "共振",
+    "en_disp": "Resonance",
+    "en_canon": "Resonance"
+  },
+  "風振.md": {
+    "zh_disp": "風工程",
+    "zh_canon": "風工程",
+    "en_disp": "Wind engineering",
+    "en_canon": "Wind engineering"
+  },
+  "地震反應.md": {
+    "zh_disp": "地震工程",
+    "zh_canon": "地震工程",
+    "en_disp": "Earthquake engineering",
+    "en_canon": "Earthquake engineering"
+  },
+  "伯努利.md": {
+    "zh_disp": "丹尼尔·伯努利",
+    "zh_canon": "丹尼尔·伯努利",
+    "en_disp": "Daniel Bernoulli",
+    "en_canon": "Daniel Bernoulli"
+  },
+  "托里切利.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Evangelista Torricelli",
+    "en_canon": "Evangelista Torricelli"
+  },
+  "納維.md": {
+    "zh_disp": "克洛德-路易·纳维",
+    "zh_canon": "克洛德-路易·纳维",
+    "en_disp": "Claude-Louis Navier",
+    "en_canon": "Claude-Louis Navier"
+  },
+  "斯托克斯.md": {
+    "zh_disp": "乔治·斯托克斯",
+    "zh_canon": "乔治·斯托克斯",
+    "en_disp": "George Gabriel Stokes",
+    "en_canon": "Sir George Stokes, 1st Baronet"
+  },
+  "雷諾.md": {
+    "zh_disp": "奥斯本·雷诺",
+    "zh_canon": "奥斯鲍恩·雷诺",
+    "en_disp": "Osborne Reynolds",
+    "en_canon": "Osborne Reynolds"
+  },
+  "胡克.md": {
+    "zh_disp": "罗伯特·胡克",
+    "zh_canon": "罗伯特·胡克",
+    "en_disp": "Robert Hooke",
+    "en_canon": "Robert Hooke"
+  }
+}

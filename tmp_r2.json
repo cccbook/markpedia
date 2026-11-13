@@ -1,0 +1,110 @@
+{
+  "可壓縮性.md": {
+    "zh_disp": "壓縮性",
+    "zh_canon": "压缩性",
+    "en_disp": "Compressibility",
+    "en_canon": "Compressibility"
+  },
+  "流體靜力學.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Hydrostatics",
+    "en_canon": "Hydrostatics"
+  },
+  "流體靜力學方程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Hydrostatics",
+    "en_canon": "Hydrostatics"
+  },
+  "彎矩.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Bending moment",
+    "en_canon": "Bending moment"
+  },
+  "離心泵.md": {
+    "zh_disp": "泵",
+    "zh_canon": "泵",
+    "en_disp": "Centrifugal pump",
+    "en_canon": "Centrifugal pump"
+  },
+  "軸流壓氣機.md": {
+    "zh_disp": "軸流式壓縮機",
+    "zh_canon": "軸流式壓縮機",
+    "en_disp": "Axial compressor",
+    "en_canon": "Axial compressor"
+  },
+  "壓力機.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Hydraulic machinery",
+    "en_canon": "Hydraulic machinery"
+  },
+  "靜定.md": {
+    "zh_disp": "靜力平衡",
+    "zh_canon": "靜力平衡",
+    "en_disp": "Statically determinate",
+    "en_canon": "Statically indeterminate"
+  },
+  "超靜定.md": {
+    "zh_disp": "靜不定",
+    "zh_canon": "靜不定",
+    "en_disp": "Statically indeterminate",
+    "en_canon": "Statically indeterminate"
+  },
+  "影響線.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Influence line",
+    "en_canon": "Influence line"
+  },
+  "動態與穩定.md": {
+    "zh_disp": "結構穩定性",
+    "zh_canon": "結構穩定性",
+    "en_disp": "Structural dynamics",
+    "en_canon": "Structural dynamics"
+  },
+  "托里切利.md": {
+    "zh_disp": "托里切利",
+    "zh_canon": "埃萬傑利斯塔·托里切利",
+    "en_disp": "Evangelista Torricelli",
+    "en_canon": "Evangelista Torricelli"
+  },
+  "液壓系統.md": {
+    "zh_disp": "液壓",
+    "zh_canon": "液压机械",
+    "en_disp": "Hydraulics",
+    "en_canon": "Hydraulics"
+  },
+  "無黏流.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Euler equations (fluid dynamics)",
+    "en_canon": "Euler equations (fluid dynamics)"
+  },
+  "黏流.md": {
+    "zh_disp": "納維-斯托克斯方程",
+    "zh_canon": "纳维-斯托克斯方程",
+    "en_disp": "Navier–Stokes equations",
+    "en_canon": "Navier–Stokes equations"
+  },
+  "接頭.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Joint",
+    "en_canon": "Joint"
+  },
+  "受軸力構件.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Structural element",
+    "en_canon": "Structural element"
+  },
+  "風振.md": {
+    "zh_disp": "風工程",
+    "zh_canon": "風工程",
+    "en_disp": "Wind engineering",
+    "en_canon": "Wind engineering"
+  }
+}

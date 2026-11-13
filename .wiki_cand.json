@@ -1,0 +1,17 @@
+{
+  "量子計算.md": {"zh": ["量子計算"], "en": ["Quantum computing"]},
+  "演算法.md": {"zh": ["演算法"], "en": ["Algorithm"]},
+  "演算法基礎.md": {"zh": ["演算法"], "en": ["Algorithm"]},
+  "基本演算法.md": {"zh": ["演算法"], "en": ["Algorithm"]},
+  "貪心與分治.md": {"zh": ["貪心演算法", "分治法"], "en": ["Greedy algorithm", "Divide and conquer"]},
+  "圖演算法.md": {"zh": ["圖演算法"], "en": ["Graph algorithm"]},
+  "演算法的可證明性.md": {"zh": ["演算法", "時間複雜度"], "en": ["Algorithm", "Computational complexity theory"]},
+  "電腦.md": {"zh": ["電子計算機", "計算機"], "en": ["Computer"]},
+  "電腦架構.md": {"zh": ["計算機系統結構"], "en": ["Computer architecture"]},
+  "資料表示.md": {"zh": ["數據表示"], "en": ["Data representation"]},
+  "作業系統.md": {"zh": ["作業系統"], "en": ["Operating system"]},
+  "儲存與記憶體.md": {"zh": ["電腦存儲器"], "en": ["Computer storage"]},
+  "電腦的演進.md": {"zh": ["電子計算機"], "en": ["History of computing hardware"]},
+  "ENIAC.md": {"zh": ["ENIAC"], "en": ["ENIAC"]},
+  "摩爾.md": {"zh": ["戈登·摩爾"], "en": ["Gordon Moore"]}
+}

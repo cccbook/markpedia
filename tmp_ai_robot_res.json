@@ -1,0 +1,344 @@
+{
+  "人工智慧.md": {
+    "zh_disp": "人工智能",
+    "zh_canon": "人工智能",
+    "en_disp": "Artificial intelligence",
+    "en_canon": "Artificial intelligence"
+  },
+  "人工智慧的定義.md": {
+    "zh_disp": "人工智能",
+    "zh_canon": "人工智能",
+    "en_disp": "Artificial intelligence",
+    "en_canon": "Artificial intelligence"
+  },
+  "智能.md": {
+    "zh_disp": "智能",
+    "zh_canon": "智力",
+    "en_disp": "Intelligence",
+    "en_canon": "Intelligence"
+  },
+  "符號主義.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Symbolic artificial intelligence",
+    "en_canon": "Symbolic artificial intelligence"
+  },
+  "連接主義.md": {
+    "zh_disp": "联结主义",
+    "zh_canon": "联结主义",
+    "en_disp": "Connectionism",
+    "en_canon": "Connectionism"
+  },
+  "混合方法.md": {
+    "zh_disp": "人工智能",
+    "zh_canon": "人工智能",
+    "en_disp": "Hybrid artificial intelligence",
+    "en_canon": "Hybrid intelligent system"
+  },
+  "機器學習.md": {
+    "zh_disp": "机器学习",
+    "zh_canon": "机器学习",
+    "en_disp": "Machine learning",
+    "en_canon": "Machine learning"
+  },
+  "監督式.md": {
+    "zh_disp": "监督学习",
+    "zh_canon": "监督学习",
+    "en_disp": "Supervised learning",
+    "en_canon": "Supervised learning"
+  },
+  "無監督式.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Unsupervised learning",
+    "en_canon": "Unsupervised learning"
+  },
+  "強化式.md": {
+    "zh_disp": "强化学习",
+    "zh_canon": "强化学习",
+    "en_disp": "Reinforcement learning",
+    "en_canon": "Reinforcement learning"
+  },
+  "遷移學習.md": {
+    "zh_disp": "迁移学习",
+    "zh_canon": "迁移学习",
+    "en_disp": "Transfer learning",
+    "en_canon": "Transfer learning"
+  },
+  "深度學習.md": {
+    "zh_disp": "深度学习",
+    "zh_canon": "深度学习",
+    "en_disp": "Deep learning",
+    "en_canon": "Deep learning"
+  },
+  "卷積網路.md": {
+    "zh_disp": "卷积神经网络",
+    "zh_canon": "卷积神经网络",
+    "en_disp": "Convolutional neural network",
+    "en_canon": "Convolutional neural network"
+  },
+  "序列模型.md": {
+    "zh_disp": "递归神经网络",
+    "zh_canon": "循环神经网络",
+    "en_disp": "Recurrent neural network",
+    "en_canon": "Recurrent neural network"
+  },
+  "Transformer.md": {
+    "zh_disp": "Transformer",
+    "zh_canon": "Transformer架构",
+    "en_disp": "Transformer (deep learning architecture)",
+    "en_canon": "Transformer (deep learning)"
+  },
+  "生成模型.md": {
+    "zh_disp": "生成模型",
+    "zh_canon": "生成模型",
+    "en_disp": "Generative model",
+    "en_canon": "Generative model"
+  },
+  "AI應用.md": {
+    "zh_disp": "人工智能",
+    "zh_canon": "人工智能",
+    "en_disp": "Artificial intelligence",
+    "en_canon": "Artificial intelligence"
+  },
+  "電腦視覺.md": {
+    "zh_disp": "计算机视觉",
+    "zh_canon": "计算机视觉",
+    "en_disp": "Computer vision",
+    "en_canon": "Computer vision"
+  },
+  "語音.md": {
+    "zh_disp": "语音识别",
+    "zh_canon": "语音识别",
+    "en_disp": "Speech recognition",
+    "en_canon": "Speech recognition"
+  },
+  "推薦.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Recommender system",
+    "en_canon": "Recommender system"
+  },
+  "科學預測.md": {
+    "zh_disp": "机器学习",
+    "zh_canon": "机器学习",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "AI議題.md": {
+    "zh_disp": "人工智能伦理",
+    "zh_canon": "人工智能伦理学",
+    "en_disp": "Ethics of artificial intelligence",
+    "en_canon": "Ethics of artificial intelligence"
+  },
+  "偏見與公平.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Algorithmic bias",
+    "en_canon": "Algorithmic bias"
+  },
+  "可解釋性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Explainable AI",
+    "en_canon": "Explainable artificial intelligence"
+  },
+  "對齊.md": {
+    "zh_disp": "人工智能对齐",
+    "zh_canon": "人工智能对齐",
+    "en_disp": "AI alignment",
+    "en_canon": "AI alignment"
+  },
+  "AI安全.md": {
+    "zh_disp": "人工智能安全",
+    "zh_canon": "人工智能安全",
+    "en_disp": "AI safety",
+    "en_canon": "AI safety"
+  },
+  "機器人學.md": {
+    "zh_disp": "机器人学",
+    "zh_canon": "机器人学",
+    "en_disp": "Robotics",
+    "en_canon": "Robotics"
+  },
+  "機器人的構成.md": {
+    "zh_disp": "机器人",
+    "zh_canon": "机器人",
+    "en_disp": "Robot",
+    "en_canon": "Robot"
+  },
+  "機構.md": {
+    "zh_disp": "机构学",
+    "zh_canon": "机构 (工程学)",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "致動器.md": {
+    "zh_disp": "执行器",
+    "zh_canon": "执行器",
+    "en_disp": "Actuator",
+    "en_canon": "Actuator"
+  },
+  "感測器.md": {
+    "zh_disp": "传感器",
+    "zh_canon": "传感器",
+    "en_disp": "Sensor",
+    "en_canon": "Sensor"
+  },
+  "控制器.md": {
+    "zh_disp": "控制器",
+    "zh_canon": "控制器",
+    "en_disp": "Controller",
+    "en_canon": "Controller"
+  },
+  "運動學.md": {
+    "zh_disp": "运动学",
+    "zh_canon": "运动学",
+    "en_disp": "Forward kinematics",
+    "en_canon": "Forward kinematics"
+  },
+  "座標系.md": {
+    "zh_disp": "坐标系",
+    "zh_canon": "坐標系",
+    "en_disp": "Coordinate system",
+    "en_canon": "Coordinate system"
+  },
+  "正逆運動學.md": {
+    "zh_disp": "逆运动学",
+    "zh_canon": "逆运动学",
+    "en_disp": "Inverse kinematics",
+    "en_canon": "Inverse kinematics"
+  },
+  "雅可比矩陣.md": {
+    "zh_disp": "雅可比矩阵",
+    "zh_canon": "雅可比矩阵",
+    "en_disp": "Jacobian matrix",
+    "en_canon": "Jacobian matrix and determinant"
+  },
+  "奇異點.md": {
+    "zh_disp": "奇点",
+    "zh_canon": "奇点",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "機器人感知.md": {
+    "zh_disp": "计算机视觉",
+    "zh_canon": "计算机视觉",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "視覺.md": {
+    "zh_disp": "计算机视觉",
+    "zh_canon": "计算机视觉",
+    "en_disp": "Computer vision",
+    "en_canon": "Computer vision"
+  },
+  "力覺.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "觸覺.md": {
+    "zh_disp": "触觉",
+    "zh_canon": "触-压觉",
+    "en_disp": "Tactile sensor",
+    "en_canon": "Tactile sensor"
+  },
+  "定位.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "規劃與控制.md": {
+    "zh_disp": "运动规划",
+    "zh_canon": "运动规划",
+    "en_disp": "Motion planning",
+    "en_canon": "Motion planning"
+  },
+  "路徑規劃.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Path planning",
+    "en_canon": "Motion planning"
+  },
+  "避障.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Obstacle avoidance",
+    "en_canon": "Obstacle avoidance"
+  },
+  "運動規劃.md": {
+    "zh_disp": "运动规划",
+    "zh_canon": "运动规划",
+    "en_disp": "Motion planning",
+    "en_canon": "Motion planning"
+  },
+  "機器人應用.md": {
+    "zh_disp": "机器人",
+    "zh_canon": "机器人",
+    "en_disp": "Robotics",
+    "en_canon": "Robotics"
+  },
+  "工業.md": {
+    "zh_disp": "工业机器人",
+    "zh_canon": "工业机器人",
+    "en_disp": "Industrial robot",
+    "en_canon": "Industrial robot"
+  },
+  "服務.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Service robot",
+    "en_canon": "Service robot"
+  },
+  "醫療.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Surgical robot",
+    "en_canon": "Robotic surgery"
+  },
+  "探索.md": {
+    "zh_disp": "探测器",
+    "zh_canon": "空间探测器",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "麥卡錫.md": {
+    "zh_disp": "约翰·麦卡锡",
+    "zh_canon": "约翰·麦卡锡",
+    "en_disp": "John McCarthy (computer scientist)",
+    "en_canon": "John McCarthy (computer scientist)"
+  },
+  "明斯基.md": {
+    "zh_disp": "马文·明斯基",
+    "zh_canon": "马文·闵斯基",
+    "en_disp": "Marvin Minsky",
+    "en_canon": "Marvin Minsky"
+  },
+  "機器人.md": {
+    "zh_disp": "机器人",
+    "zh_canon": "机器人",
+    "en_disp": "Robot",
+    "en_canon": "Robot"
+  },
+  "深度藍.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Deep Blue",
+    "en_canon": "Deep Blue"
+  },
+  "工業機器人.md": {
+    "zh_disp": "工业机器人",
+    "zh_canon": "工业机器人",
+    "en_disp": "Industrial robot",
+    "en_canon": "Industrial robot"
+  },
+  "達芬奇手術機器人.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Da Vinci Surgical System",
+    "en_canon": "Da Vinci Surgical System"
+  }
+}

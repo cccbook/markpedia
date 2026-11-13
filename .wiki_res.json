@@ -1,0 +1,92 @@
+{
+  "量子計算.md": {
+    "zh_disp": "量子計算",
+    "zh_canon": "量子计算机",
+    "en_disp": "Quantum computing",
+    "en_canon": "Quantum computing"
+  },
+  "演算法.md": {
+    "zh_disp": "演算法",
+    "zh_canon": "算法",
+    "en_disp": "Algorithm",
+    "en_canon": "Algorithm"
+  },
+  "演算法基礎.md": {
+    "zh_disp": "演算法",
+    "zh_canon": "算法",
+    "en_disp": "Algorithm",
+    "en_canon": "Algorithm"
+  },
+  "基本演算法.md": {
+    "zh_disp": "演算法",
+    "zh_canon": "算法",
+    "en_disp": "Algorithm",
+    "en_canon": "Algorithm"
+  },
+  "貪心與分治.md": {
+    "zh_disp": "貪心演算法",
+    "zh_canon": "贪心算法",
+    "en_disp": "Greedy algorithm",
+    "en_canon": "Greedy algorithm"
+  },
+  "圖演算法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Graph algorithm",
+    "en_canon": "List of algorithms"
+  },
+  "演算法的可證明性.md": {
+    "zh_disp": "演算法",
+    "zh_canon": "算法",
+    "en_disp": "Algorithm",
+    "en_canon": "Algorithm"
+  },
+  "電腦.md": {
+    "zh_disp": "電子計算機",
+    "zh_canon": "电子计算机",
+    "en_disp": "Computer",
+    "en_canon": "Computer"
+  },
+  "電腦架構.md": {
+    "zh_disp": "計算機系統結構",
+    "zh_canon": "计算机系统结构",
+    "en_disp": "Computer architecture",
+    "en_canon": "Computer architecture"
+  },
+  "資料表示.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data representation",
+    "en_canon": "Data and information visualization"
+  },
+  "作業系統.md": {
+    "zh_disp": "作業系統",
+    "zh_canon": "操作系统",
+    "en_disp": "Operating system",
+    "en_canon": "Operating system"
+  },
+  "儲存與記憶體.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Computer storage",
+    "en_canon": "Computer data storage"
+  },
+  "電腦的演進.md": {
+    "zh_disp": "電子計算機",
+    "zh_canon": "电子计算机",
+    "en_disp": "History of computing hardware",
+    "en_canon": "History of computing hardware"
+  },
+  "ENIAC.md": {
+    "zh_disp": "ENIAC",
+    "zh_canon": "電子數值積分計算機",
+    "en_disp": "ENIAC",
+    "en_canon": "ENIAC"
+  },
+  "摩爾.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Gordon Moore",
+    "en_canon": "Gordon Moore"
+  }
+}

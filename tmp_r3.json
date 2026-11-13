@@ -1,0 +1,50 @@
+{
+  "流體靜力學.md": {
+    "zh_disp": "流体静力学",
+    "zh_canon": "流体静力学",
+    "en_disp": "Hydrostatics",
+    "en_canon": "Hydrostatics"
+  },
+  "流體靜力學方程.md": {
+    "zh_disp": "流体静力学",
+    "zh_canon": "流体静力学",
+    "en_disp": "Hydrostatics",
+    "en_canon": "Hydrostatics"
+  },
+  "彎矩.md": {
+    "zh_disp": "梁",
+    "zh_canon": "梁",
+    "en_disp": "Bending moment",
+    "en_canon": "Bending moment"
+  },
+  "壓力機.md": {
+    "zh_disp": "液压机",
+    "zh_canon": "液壓沖床",
+    "en_disp": "Hydraulic machinery",
+    "en_canon": "Hydraulic machinery"
+  },
+  "影響線.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Influence line",
+    "en_canon": "Influence line"
+  },
+  "無黏流.md": {
+    "zh_disp": "理想流体",
+    "zh_canon": "理想流体",
+    "en_disp": "Euler equations (fluid dynamics)",
+    "en_canon": "Euler equations (fluid dynamics)"
+  },
+  "接頭.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Joint",
+    "en_canon": "Joint"
+  },
+  "受軸力構件.md": {
+    "zh_disp": "构件",
+    "zh_canon": "构件",
+    "en_disp": "Structural element",
+    "en_canon": "Structural element"
+  }
+}

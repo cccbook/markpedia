@@ -1,0 +1,140 @@
+{
+  "符號主義.md": {
+    "zh_disp": "智能",
+    "zh_canon": "智力",
+    "en_disp": "Symbolic artificial intelligence",
+    "en_canon": "Symbolic artificial intelligence"
+  },
+  "無監督式.md": {
+    "zh_disp": "自监督学习",
+    "zh_canon": "自监督学习",
+    "en_disp": "Unsupervised learning",
+    "en_canon": "Unsupervised learning"
+  },
+  "推薦.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Recommender system",
+    "en_canon": "Recommender system"
+  },
+  "科學預測.md": {
+    "zh_disp": "机器学习",
+    "zh_canon": "机器学习",
+    "en_disp": "Machine learning",
+    "en_canon": "Machine learning"
+  },
+  "偏見與公平.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Algorithmic bias",
+    "en_canon": "Algorithmic bias"
+  },
+  "可解釋性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Explainable artificial intelligence",
+    "en_canon": "Explainable artificial intelligence"
+  },
+  "機構.md": {
+    "zh_disp": "机构 (工程学)",
+    "zh_canon": "机构 (工程学)",
+    "en_disp": "Mechanism (engineering)",
+    "en_canon": "Mechanism (engineering)"
+  },
+  "奇異點.md": {
+    "zh_disp": "奇点",
+    "zh_canon": "奇点",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "機器人感知.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Robot perception",
+    "en_canon": "Robotic sensing"
+  },
+  "力覺.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "定位.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Simultaneous localization and mapping",
+    "en_canon": "Simultaneous localization and mapping"
+  },
+  "路徑規劃.md": {
+    "zh_disp": "最短路径问题",
+    "zh_canon": "最短路问题",
+    "en_disp": "Path planning",
+    "en_canon": "Motion planning"
+  },
+  "避障.md": {
+    "zh_disp": "障碍避免",
+    "zh_canon": "避障 (机器人学)",
+    "en_disp": "Obstacle avoidance",
+    "en_canon": "Obstacle avoidance"
+  },
+  "服務.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Service robot",
+    "en_canon": "Service robot"
+  },
+  "醫療.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Robotic surgery",
+    "en_canon": "Robotic surgery"
+  },
+  "探索.md": {
+    "zh_disp": "空间探测器",
+    "zh_canon": "空间探测器",
+    "en_disp": "Mars rover",
+    "en_canon": "Mars rover"
+  },
+  "深度藍.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Deep Blue",
+    "en_canon": "Deep Blue"
+  },
+  "達芬奇手術機器人.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Da Vinci Surgical System",
+    "en_canon": "Da Vinci Surgical System"
+  },
+  "對齊.md": {
+    "zh_disp": "人工智能对齐",
+    "zh_canon": "人工智能对齐",
+    "en_disp": "AI alignment",
+    "en_canon": "AI alignment"
+  },
+  "Transformer.md": {
+    "zh_disp": "Transformer架构",
+    "zh_canon": "Transformer架构",
+    "en_disp": "Transformer (deep learning)",
+    "en_canon": "Transformer (deep learning)"
+  },
+  "序列模型.md": {
+    "zh_disp": "循环神经网络",
+    "zh_canon": "循环神经网络",
+    "en_disp": "Recurrent neural network",
+    "en_canon": "Recurrent neural network"
+  },
+  "視覺.md": {
+    "zh_disp": "计算机视觉",
+    "zh_canon": "计算机视觉",
+    "en_disp": "Computer vision",
+    "en_canon": "Computer vision"
+  },
+  "觸覺.md": {
+    "zh_disp": "触-压觉",
+    "zh_canon": "触-压觉",
+    "en_disp": "Tactile sensor",
+    "en_canon": "Tactile sensor"
+  }
+}

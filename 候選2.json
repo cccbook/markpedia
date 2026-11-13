@@ -1,6 +1,7 @@
 {
-  "行為塑造.md": {"zh": ["塑造", "動物行為學", "制約"], "en": ["Shaping (behavior)", "Behavior shaping", "Shaping"]},
-  "行為觀測方法.md": {"zh": ["行為觀察", "連續觀察", "田野觀察"], "en": ["Naturalistic observation", "Field research"]},
-  "制約學習.md": {"zh": ["操作制約", "制約"], "en": ["Operant conditioning"]},
-  "動機理論.md": {"zh": ["激勵理論", "目標激勵理論"], "en": ["Expectancy theory", "Goal-setting theory"]}
+  "馮諾依曼.md": {"zh": ["冯·诺伊曼结构", "冯·诺伊曼体系结构"], "en": ["Von Neumann architecture"]},
+  "資料表示.md": {"zh": ["数据类型", "資料類型"], "en": ["Data type"]},
+  "規格.md": {"zh": ["规格说明书", "软件需求规格说明书"], "en": ["Software requirements specification"]},
+  "驗證.md": {"zh": ["验证与确认", "软件验证"], "en": ["Verification and validation"]},
+  "維護與演進.md": {"zh": ["软件维护"], "en": ["Software maintenance"]}
 }

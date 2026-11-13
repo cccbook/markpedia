@@ -1,38 +1,320 @@
 {
-  "行為科學.md": {
-    "zh_disp": "行為科學",
-    "zh_canon": "行为科学",
-    "en_disp": "Behavioral science",
-    "en_canon": "Behavioural sciences"
+  "電腦.md": {
+    "zh_disp": "電腦",
+    "zh_canon": "电子计算机",
+    "en_disp": "Computer",
+    "en_canon": "Computer"
   },
-  "行為主義.md": {
-    "zh_disp": "行為主義",
-    "zh_canon": "行为主义",
-    "en_disp": "Behaviorism",
-    "en_canon": "Behaviorism"
+  "電腦架構.md": {
+    "zh_disp": "計算機系統結構",
+    "zh_canon": "计算机系统结构",
+    "en_disp": "Computer architecture",
+    "en_canon": "Computer architecture"
   },
-  "行為塑造.md": {
+  "馮諾依曼.md": {
     "zh_disp": null,
     "zh_canon": null,
-    "en_disp": null,
-    "en_canon": null
+    "en_disp": "Von Neumann architecture",
+    "en_canon": "Von Neumann architecture"
   },
-  "制約學習.md": {
-    "zh_disp": "古典制約",
-    "zh_canon": "古典制約",
-    "en_disp": "Classical conditioning",
-    "en_canon": "Classical conditioning"
+  "匯流排.md": {
+    "zh_disp": "匯流排",
+    "zh_canon": "Bus",
+    "en_disp": "Bus (computing)",
+    "en_canon": "Bus (computing)"
   },
-  "動機理論.md": {
-    "zh_disp": "动机理论",
-    "zh_canon": "动机",
-    "en_disp": "Motivation theory",
-    "en_canon": "Motivation"
+  "暫存器.md": {
+    "zh_disp": "暫存器",
+    "zh_canon": "寄存器",
+    "en_disp": "Processor register",
+    "en_canon": "Processor register"
   },
-  "行為觀測方法.md": {
+  "中斷.md": {
+    "zh_disp": "中斷",
+    "zh_canon": "中斷",
+    "en_disp": "Interrupt",
+    "en_canon": "Interrupt"
+  },
+  "資料表示.md": {
     "zh_disp": null,
     "zh_canon": null,
-    "en_disp": "Naturalistic observation",
-    "en_canon": "Naturalistic observation"
+    "en_disp": "Data representation",
+    "en_canon": "Data and information visualization"
+  },
+  "二進位.md": {
+    "zh_disp": "二进制",
+    "zh_canon": "二进制",
+    "en_disp": "Binary number",
+    "en_canon": "Binary number"
+  },
+  "整數與浮點.md": {
+    "zh_disp": "浮点数",
+    "zh_canon": "浮点数运算",
+    "en_disp": "Floating-point arithmetic",
+    "en_canon": "Floating-point arithmetic"
+  },
+  "字元編碼.md": {
+    "zh_disp": "字符编码",
+    "zh_canon": "字符编码",
+    "en_disp": "Character encoding",
+    "en_canon": "Character encoding"
+  },
+  "壓縮.md": {
+    "zh_disp": "数据压缩",
+    "zh_canon": "数据压缩",
+    "en_disp": "Data compression",
+    "en_canon": "Data compression"
+  },
+  "作業系統.md": {
+    "zh_disp": "操作系统",
+    "zh_canon": "操作系统",
+    "en_disp": "Operating system",
+    "en_canon": "Operating system"
+  },
+  "行程.md": {
+    "zh_disp": "行程",
+    "zh_canon": "行程",
+    "en_disp": "Process (computing)",
+    "en_canon": "Process (computing)"
+  },
+  "記憶體管理.md": {
+    "zh_disp": "内存管理",
+    "zh_canon": "記憶體管理",
+    "en_disp": "Memory management",
+    "en_canon": "Memory management"
+  },
+  "檔案系統.md": {
+    "zh_disp": "文件系统",
+    "zh_canon": "文件系统",
+    "en_disp": "File system",
+    "en_canon": "File system"
+  },
+  "程序同步.md": {
+    "zh_disp": "同步 (计算机科学)",
+    "zh_canon": "同步 (计算机科学)",
+    "en_disp": "Synchronization (computer science)",
+    "en_canon": "Synchronization (computer science)"
+  },
+  "儲存與記憶體.md": {
+    "zh_disp": "计算机存储器",
+    "zh_canon": "電腦記憶體",
+    "en_disp": "Computer data storage",
+    "en_canon": "Computer data storage"
+  },
+  "階層式儲存.md": {
+    "zh_disp": "存储层次",
+    "zh_canon": "記憶體階層",
+    "en_disp": "Memory hierarchy",
+    "en_canon": "Memory hierarchy"
+  },
+  "快取.md": {
+    "zh_disp": "缓存",
+    "zh_canon": "缓存",
+    "en_disp": "Cache (computing)",
+    "en_canon": "Cache (computing)"
+  },
+  "虛擬記憶體.md": {
+    "zh_disp": "虚拟内存",
+    "zh_canon": "虚拟内存",
+    "en_disp": "Virtual memory",
+    "en_canon": "Virtual memory"
+  },
+  "固態硬碟.md": {
+    "zh_disp": "固态硬盘",
+    "zh_canon": "固态硬盘",
+    "en_disp": "Solid-state drive",
+    "en_canon": "Solid-state drive"
+  },
+  "電腦的演進.md": {
+    "zh_disp": "计算机硬件历史",
+    "zh_canon": "計算機硬體歷史",
+    "en_disp": "History of computing hardware",
+    "en_canon": "History of computing hardware"
+  },
+  "真空管.md": {
+    "zh_disp": "真空管",
+    "zh_canon": "真空管",
+    "en_disp": "Vacuum tube",
+    "en_canon": "Vacuum tube"
+  },
+  "積體電路.md": {
+    "zh_disp": "集成电路",
+    "zh_canon": "集成电路",
+    "en_disp": "Integrated circuit",
+    "en_canon": "Integrated circuit"
+  },
+  "微處理器.md": {
+    "zh_disp": "微处理器",
+    "zh_canon": "微处理器",
+    "en_disp": "Microprocessor",
+    "en_canon": "Microprocessor"
+  },
+  "量子計算.md": {
+    "zh_disp": "量子计算",
+    "zh_canon": "量子计算机",
+    "en_disp": "Quantum computing",
+    "en_canon": "Quantum computing"
+  },
+  "軟體工程.md": {
+    "zh_disp": "软件工程",
+    "zh_canon": "软件工程",
+    "en_disp": "Software engineering",
+    "en_canon": "Software engineering"
+  },
+  "軟體開發流程.md": {
+    "zh_disp": "软件开发过程",
+    "zh_canon": "软件开发过程",
+    "en_disp": "Software development process",
+    "en_canon": "Software development process"
+  },
+  "瀑布式流程.md": {
+    "zh_disp": "瀑布模型",
+    "zh_canon": "瀑布模型",
+    "en_disp": "Waterfall model",
+    "en_canon": "Waterfall model"
+  },
+  "迭代.md": {
+    "zh_disp": "迭代",
+    "zh_canon": "迭代",
+    "en_disp": "Iterative and incremental development",
+    "en_canon": "Iterative and incremental development"
+  },
+  "敏捷.md": {
+    "zh_disp": "敏捷软件开发",
+    "zh_canon": "敏捷软件开发",
+    "en_disp": "Agile software development",
+    "en_canon": "Agile software development"
+  },
+  "DevOps.md": {
+    "zh_disp": "DevOps",
+    "zh_canon": "DevOps",
+    "en_disp": "DevOps",
+    "en_canon": "DevOps"
+  },
+  "需求工程.md": {
+    "zh_disp": "需求工程",
+    "zh_canon": "需求工程",
+    "en_disp": "Requirements engineering",
+    "en_canon": "Requirements engineering"
+  },
+  "需求擷取.md": {
+    "zh_disp": "需求获取",
+    "zh_canon": "需求获取",
+    "en_disp": "Requirements elicitation",
+    "en_canon": "Requirements elicitation"
+  },
+  "規格.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Software requirements specification",
+    "en_canon": "Software requirements specification"
+  },
+  "驗證.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Verification and validation",
+    "en_canon": "Verification and validation"
+  },
+  "設計模式.md": {
+    "zh_disp": "设计模式",
+    "zh_canon": "设计模式",
+    "en_disp": "Software design pattern",
+    "en_canon": "Software design pattern"
+  },
+  "單例.md": {
+    "zh_disp": "单例模式",
+    "zh_canon": "单例模式",
+    "en_disp": "Singleton pattern",
+    "en_canon": "Singleton pattern"
+  },
+  "觀察者.md": {
+    "zh_disp": "观察者模式",
+    "zh_canon": "观察者模式",
+    "en_disp": "Observer pattern",
+    "en_canon": "Observer pattern"
+  },
+  "策略.md": {
+    "zh_disp": "策略模式",
+    "zh_canon": "策略模式",
+    "en_disp": "Strategy pattern",
+    "en_canon": "Strategy pattern"
+  },
+  "工廠.md": {
+    "zh_disp": "工厂方法",
+    "zh_canon": "工厂 (面向对象编程)",
+    "en_disp": "Factory method pattern",
+    "en_canon": "Factory method pattern"
+  },
+  "品質確保.md": {
+    "zh_disp": "软件质量保证",
+    "zh_canon": "软件质量保证",
+    "en_disp": "Software quality assurance",
+    "en_canon": "Software quality assurance"
+  },
+  "程式碼審查.md": {
+    "zh_disp": "代码审查",
+    "zh_canon": "代码审查",
+    "en_disp": "Code review",
+    "en_canon": "Code review"
+  },
+  "單元測試.md": {
+    "zh_disp": "单元测试",
+    "zh_canon": "单元测试",
+    "en_disp": "Unit testing",
+    "en_canon": "Unit testing"
+  },
+  "整合測試.md": {
+    "zh_disp": "集成测试",
+    "zh_canon": "集成测试",
+    "en_disp": "Integration testing",
+    "en_canon": "Integration testing"
+  },
+  "持續整合.md": {
+    "zh_disp": "持续集成",
+    "zh_canon": "持續整合",
+    "en_disp": "Continuous integration",
+    "en_canon": "Continuous integration"
+  },
+  "維護與演進.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Software maintenance",
+    "en_canon": "Software maintenance"
+  },
+  "技術債.md": {
+    "zh_disp": "技术债务",
+    "zh_canon": "技术负债",
+    "en_disp": "Technical debt",
+    "en_canon": "Technical debt"
+  },
+  "重構.md": {
+    "zh_disp": "重构",
+    "zh_canon": "重构",
+    "en_disp": "Code refactoring",
+    "en_canon": "Code refactoring"
+  },
+  "版本發布.md": {
+    "zh_disp": "软件版本号",
+    "zh_canon": "軟件版本編號",
+    "en_disp": "Software release",
+    "en_canon": "Software release life cycle"
+  },
+  "回滾.md": {
+    "zh_disp": "回滚",
+    "zh_canon": "回滚",
+    "en_disp": "Rollback",
+    "en_canon": "Rollback"
+  },
+  "摩爾.md": {
+    "zh_disp": "戈登·摩尔",
+    "zh_canon": "高登·摩爾",
+    "en_disp": "Gordon Moore",
+    "en_canon": "Gordon Moore"
+  },
+  "格雷斯·霍普.md": {
+    "zh_disp": "格蕾丝·霍珀",
+    "zh_canon": "葛麗絲·霍普",
+    "en_disp": "Grace Hopper",
+    "en_canon": "Grace Hopper"
   }
 }
