@@ -11,7 +11,7 @@ status: 初稿
 
 > 隸屬：[計算機網路] › [傳輸協定]　·　狀態：初稿
 
-> 對應維基百科：[中文維基百科：用户数据报协议](https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%8D%8F%E8%AE%AE)　·　[English Wikipedia: User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+> 對應維基百科：[中文維基百科：使用者資料報協議](https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%8D%8F%E8%AE%AE)　·　[English Wikipedia: User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 
 UDP 是**極簡的傳輸層協定**：它只做一件事，把應用交來的資料封裝成封包並交給網路層，不提供可靠性、不保證順序、不做流量控制，也不回應確認。
 

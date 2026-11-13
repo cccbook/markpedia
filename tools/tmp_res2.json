@@ -1,0 +1,236 @@
+{
+  "資料流程.md": {
+    "zh_disp": "数据流",
+    "zh_canon": "資料串流",
+    "en_disp": "Data pipeline",
+    "en_canon": "Pipeline (computing)"
+  },
+  "資料倫理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data ethics",
+    "en_canon": "Big data ethics"
+  },
+  "資料取得.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data collection",
+    "en_canon": "Data collection"
+  },
+  "圖表選擇.md": {
+    "zh_disp": "统计图",
+    "zh_canon": "统计图形",
+    "en_disp": "Chart",
+    "en_canon": "Chart"
+  },
+  "互動式視覺.md": {
+    "zh_disp": "数据可视化",
+    "zh_canon": "数据可视化",
+    "en_disp": "Interactive data visualization",
+    "en_canon": "Data and information visualization"
+  },
+  "儀表板.md": {
+    "zh_disp": "儀表板",
+    "zh_canon": "汽車儀表",
+    "en_disp": "Dashboard",
+    "en_canon": "Dashboard"
+  },
+  "敘事.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data storytelling",
+    "en_canon": "Data and information visualization"
+  },
+  "A/B測試.md": {
+    "zh_disp": "A/B測試",
+    "zh_canon": "A/B測試",
+    "en_disp": "A/B testing",
+    "en_canon": "A/B testing"
+  },
+  "因果推論.md": {
+    "zh_disp": "因果推論",
+    "zh_canon": "因果推斷",
+    "en_disp": "Causal inference",
+    "en_canon": "Causal inference"
+  },
+  "樣本偏差.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Sampling bias",
+    "en_canon": "Sampling bias"
+  },
+  "隨機化.md": {
+    "zh_disp": "随机对照试验",
+    "zh_canon": "随机对照试验",
+    "en_disp": "Randomization",
+    "en_canon": "Randomization"
+  },
+  "可解釋性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Explainable artificial intelligence",
+    "en_canon": "Explainable artificial intelligence"
+  },
+  "資料治理.md": {
+    "zh_disp": "資料管理",
+    "zh_canon": "数据管理",
+    "en_disp": "Data governance",
+    "en_canon": "Data governance"
+  },
+  "開發方法.md": {
+    "zh_disp": "软件开发",
+    "zh_canon": "软件开发",
+    "en_disp": "Software development process",
+    "en_canon": "Software development process"
+  },
+  "泛型.md": {
+    "zh_disp": "泛型",
+    "zh_canon": "泛型编程",
+    "en_disp": "Generics",
+    "en_canon": "Generic"
+  },
+  "分支.md": {
+    "zh_disp": "分支",
+    "zh_canon": "分支",
+    "en_disp": "Conditional (computer programming)",
+    "en_canon": "Conditional (computer programming)"
+  },
+  "迴圈.md": {
+    "zh_disp": "循环",
+    "zh_canon": "循环",
+    "en_disp": "For loop",
+    "en_canon": "Loop (statement)"
+  },
+  "狄克斯特拉.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Edsger W. Dijkstra",
+    "en_canon": "Edsger W. Dijkstra"
+  },
+  "柯爾莫哥洛夫.md": {
+    "zh_disp": "安德烈·柯尔莫哥洛夫",
+    "zh_canon": "安德烈·柯爾莫哥洛夫",
+    "en_disp": "Andrey Kolmogorov",
+    "en_canon": "Andrey Kolmogorov"
+  },
+  "模擬.md": {
+    "zh_disp": "模拟",
+    "zh_canon": "仿真",
+    "en_disp": "Simulation",
+    "en_canon": "Simulation"
+  },
+  "機器學習.md": {
+    "zh_disp": "机器学习",
+    "zh_canon": "机器学习",
+    "en_disp": "Machine learning",
+    "en_canon": "Machine learning"
+  },
+  "雲端運算.md": {
+    "zh_disp": "云计算",
+    "zh_canon": "雲端運算",
+    "en_disp": "Cloud computing",
+    "en_canon": "Cloud computing"
+  },
+  "關聯式資料庫.md": {
+    "zh_disp": "关系数据库",
+    "zh_canon": "关系数据库",
+    "en_disp": "Relational database",
+    "en_canon": "Relational database"
+  },
+  "SQL.md": {
+    "zh_disp": "SQL",
+    "zh_canon": "SQL",
+    "en_disp": "SQL",
+    "en_canon": "SQL"
+  },
+  "UNIX.md": {
+    "zh_disp": "Unix",
+    "zh_canon": "UNIX",
+    "en_disp": "Unix",
+    "en_canon": "Unix"
+  },
+  "C語言.md": {
+    "zh_disp": "C语言",
+    "zh_canon": "C语言",
+    "en_disp": "C (programming language)",
+    "en_canon": "C (programming language)"
+  },
+  "Python.md": {
+    "zh_disp": "Python",
+    "zh_canon": "Python",
+    "en_disp": "Python (programming language)",
+    "en_canon": "Python (programming language)"
+  },
+  "Lisp.md": {
+    "zh_disp": "Lisp",
+    "zh_canon": "LISP",
+    "en_disp": "Lisp (programming language)",
+    "en_canon": "Lisp (programming language)"
+  },
+  "Fortran.md": {
+    "zh_disp": "Fortran",
+    "zh_canon": "Fortran",
+    "en_disp": "Fortran",
+    "en_canon": "Fortran"
+  },
+  "Git.md": {
+    "zh_disp": "Git",
+    "zh_canon": "Git",
+    "en_disp": "Git",
+    "en_canon": "Git"
+  },
+  "程序員.png": {
+    "zh_disp": "程序员",
+    "zh_canon": "程序员",
+    "en_disp": "Programmer",
+    "en_canon": "Programmer"
+  },
+  "模型評估.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Model evaluation",
+    "en_canon": "Statistical model validation"
+  },
+  "過擬合.md": {
+    "zh_disp": "过拟合",
+    "zh_canon": "過適",
+    "en_disp": "Overfitting",
+    "en_canon": "Overfitting"
+  },
+  "資料探勘.md": {
+    "zh_disp": "数据挖掘",
+    "zh_canon": "数据挖掘",
+    "en_disp": "Data mining",
+    "en_canon": "Data mining"
+  },
+  "商業智慧.md": {
+    "zh_disp": "商业智能",
+    "zh_canon": "商业智能",
+    "en_disp": "Business intelligence",
+    "en_canon": "Business intelligence"
+  },
+  "個資.md": {
+    "zh_disp": "个人信息",
+    "zh_canon": "個人資訊",
+    "en_disp": "Personal data",
+    "en_canon": "Personal data"
+  },
+  "GDPR.md": {
+    "zh_disp": "通用数据保护条例",
+    "zh_canon": "一般資料保護規則",
+    "en_disp": "General Data Protection Regulation",
+    "en_canon": "General Data Protection Regulation"
+  },
+  "知情同意.md": {
+    "zh_disp": "知情同意",
+    "zh_canon": "知情同意",
+    "en_disp": "Informed consent",
+    "en_canon": "Informed consent"
+  },
+  "機器學習模型": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Machine learning model",
+    "en_canon": "Machine learning"
+  }
+}

@@ -11,7 +11,7 @@ status: 初稿
 
 > 隸屬：[計算機網路] › [傳輸協定]　·　狀態：初稿
 
-> 對應維基百科：[中文維基百科：传输控制协议](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)　·　[English Wikipedia: Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+> 對應維基百科：[中文維基百科：傳輸控制協議](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)　·　[English Wikipedia: Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
 TCP 是**提供可靠、有序、位元組串交付的傳輸層協定**。它的核心機制是：以序號標定位元組、以確認號回報已收到的最高連續位元組、以視窗控制流量、以逾時與快速重傳處理遺失。
 

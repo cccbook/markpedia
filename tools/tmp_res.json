@@ -1,0 +1,416 @@
+{
+  "資料科學.md": {
+    "zh_disp": "資料科學",
+    "zh_canon": "数据科学",
+    "en_disp": "Data science",
+    "en_canon": "Data science"
+  },
+  "資料流程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data pipeline",
+    "en_canon": "Pipeline (computing)"
+  },
+  "探索性分析.md": {
+    "zh_disp": "探索性資料分析",
+    "zh_canon": "探索性資料分析",
+    "en_disp": "Exploratory data analysis",
+    "en_canon": "Exploratory data analysis"
+  },
+  "資料視覺化.md": {
+    "zh_disp": "数据可视化",
+    "zh_canon": "数据可视化",
+    "en_disp": "Data visualization",
+    "en_canon": "Data and information visualization"
+  },
+  "實驗設計.md": {
+    "zh_disp": "實驗設計",
+    "zh_canon": "试验设计",
+    "en_disp": "Experimental design",
+    "en_canon": "Design of experiments"
+  },
+  "資料倫理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data ethics",
+    "en_canon": "Big data ethics"
+  },
+  "資料取得.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data collection",
+    "en_canon": "Data collection"
+  },
+  "清理.md": {
+    "zh_disp": "数据清洗",
+    "zh_canon": "数据清洗",
+    "en_disp": "Data cleansing",
+    "en_canon": "Data cleansing"
+  },
+  "特徵工程.md": {
+    "zh_disp": "特征工程",
+    "zh_canon": "特征工程",
+    "en_disp": "Feature engineering",
+    "en_canon": "Feature engineering"
+  },
+  "建模.md": {
+    "zh_disp": "建模",
+    "zh_canon": "建模",
+    "en_disp": "Statistical modeling",
+    "en_canon": "Statistical model"
+  },
+  "描述統計.md": {
+    "zh_disp": "描述统计",
+    "zh_canon": "描述统计学",
+    "en_disp": "Descriptive statistics",
+    "en_canon": "Descriptive statistics"
+  },
+  "視覺化.md": {
+    "zh_disp": "数据可视化",
+    "zh_canon": "数据可视化",
+    "en_disp": "Data visualization",
+    "en_canon": "Data and information visualization"
+  },
+  "相關性.md": {
+    "zh_disp": "相关性",
+    "zh_canon": "相關性",
+    "en_disp": "Correlation",
+    "en_canon": "Correlation"
+  },
+  "假設檢驗.md": {
+    "zh_disp": "假设检验",
+    "zh_canon": "假說檢定",
+    "en_disp": "Statistical hypothesis testing",
+    "en_canon": "Statistical hypothesis test"
+  },
+  "圖表選擇.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Chart",
+    "en_canon": "Chart"
+  },
+  "互動式視覺.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Interactive data visualization",
+    "en_canon": "Data and information visualization"
+  },
+  "儀表板.md": {
+    "zh_disp": "儀表板",
+    "zh_canon": "汽車儀表",
+    "en_disp": "Dashboard",
+    "en_canon": "Dashboard"
+  },
+  "敘事.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data storytelling",
+    "en_canon": "Data and information visualization"
+  },
+  "A/B測試.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "A/B testing",
+    "en_canon": "A/B testing"
+  },
+  "因果推論.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Causal inference",
+    "en_canon": "Causal inference"
+  },
+  "樣本偏差.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Sampling bias",
+    "en_canon": "Sampling bias"
+  },
+  "隨機化.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Randomization",
+    "en_canon": "Randomization"
+  },
+  "隱私.md": {
+    "zh_disp": "隐私",
+    "zh_canon": "隐私",
+    "en_disp": "Data privacy",
+    "en_canon": "Information privacy"
+  },
+  "偏差.md": {
+    "zh_disp": "偏差",
+    "zh_canon": "偏差",
+    "en_disp": "Bias (statistics)",
+    "en_canon": "Bias (statistics)"
+  },
+  "可解釋性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Explainable AI",
+    "en_canon": "Explainable artificial intelligence"
+  },
+  "資料治理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Data governance",
+    "en_canon": "Data governance"
+  },
+  "程式設計.md": {
+    "zh_disp": "程序设计",
+    "zh_canon": "程序设计",
+    "en_disp": "Computer programming",
+    "en_canon": "Computer programming"
+  },
+  "程式語言的演進.md": {
+    "zh_disp": "程序设计语言",
+    "zh_canon": "编程语言",
+    "en_disp": "Programming language",
+    "en_canon": "Programming language"
+  },
+  "語言典範.md": {
+    "zh_disp": "编程范式",
+    "zh_canon": "编程范型",
+    "en_disp": "Programming paradigm",
+    "en_canon": "Programming paradigm"
+  },
+  "型別系統語法.md": {
+    "zh_disp": "类型系统",
+    "zh_canon": "類型系統",
+    "en_disp": "Type system",
+    "en_canon": "Type system"
+  },
+  "控制結構.md": {
+    "zh_disp": "控制流",
+    "zh_canon": "控制流程",
+    "en_disp": "Control flow",
+    "en_canon": "Control flow"
+  },
+  "開發方法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Software development process",
+    "en_canon": "Software development process"
+  },
+  "機器語言.md": {
+    "zh_disp": "机器语言",
+    "zh_canon": "机器语言",
+    "en_disp": "Machine code",
+    "en_canon": "Machine code"
+  },
+  "組合語言.md": {
+    "zh_disp": "汇编语言",
+    "zh_canon": "汇编语言",
+    "en_disp": "Assembly language",
+    "en_canon": "Assembly language"
+  },
+  "高階語言.md": {
+    "zh_disp": "高级语言",
+    "zh_canon": "高级语言",
+    "en_disp": "High-level programming language",
+    "en_canon": "High-level programming language"
+  },
+  "腳本語言.md": {
+    "zh_disp": "脚本语言",
+    "zh_canon": "脚本语言",
+    "en_disp": "Scripting language",
+    "en_canon": "Scripting language"
+  },
+  "命令式.md": {
+    "zh_disp": "命令式编程",
+    "zh_canon": "指令式編程",
+    "en_disp": "Imperative programming",
+    "en_canon": "Imperative programming"
+  },
+  "物件導向.md": {
+    "zh_disp": "面向对象程序设计",
+    "zh_canon": "面向对象程序设计",
+    "en_disp": "Object-oriented programming",
+    "en_canon": "Object-oriented programming"
+  },
+  "函式式.md": {
+    "zh_disp": "函数式编程",
+    "zh_canon": "函数式编程",
+    "en_disp": "Functional programming",
+    "en_canon": "Functional programming"
+  },
+  "宣告式.md": {
+    "zh_disp": "声明式编程",
+    "zh_canon": "宣告式編程",
+    "en_disp": "Declarative programming",
+    "en_canon": "Declarative programming"
+  },
+  "靜態型別.md": {
+    "zh_disp": "静态类型",
+    "zh_canon": "類型系統",
+    "en_disp": "Static typing",
+    "en_canon": "Type system"
+  },
+  "動態型別.md": {
+    "zh_disp": "动态类型",
+    "zh_canon": "類型系統",
+    "en_disp": "Dynamic typing",
+    "en_canon": "Type system"
+  },
+  "推論.md": {
+    "zh_disp": "类型推导",
+    "zh_canon": "类型推论",
+    "en_disp": "Type inference",
+    "en_canon": "Type inference"
+  },
+  "泛型.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Generics",
+    "en_canon": "Generic"
+  },
+  "分支.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "迴圈.md": {
+    "zh_disp": "循环 (程序设计)",
+    "zh_canon": "迴圈",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "遞迴.md": {
+    "zh_disp": "递归",
+    "zh_canon": "递归",
+    "en_disp": "Recursion (computer science)",
+    "en_canon": "Recursion (computer science)"
+  },
+  "例外處理.md": {
+    "zh_disp": "异常处理",
+    "zh_canon": "异常处理",
+    "en_disp": "Exception handling",
+    "en_canon": "Exception handling"
+  },
+  "敏捷.md": {
+    "zh_disp": "敏捷软件开发",
+    "zh_canon": "敏捷软件开发",
+    "en_disp": "Agile software development",
+    "en_canon": "Agile software development"
+  },
+  "測試驅動.md": {
+    "zh_disp": "测试驱动开发",
+    "zh_canon": "测试驱动开发",
+    "en_disp": "Test-driven development",
+    "en_canon": "Test-driven development"
+  },
+  "版本控制.md": {
+    "zh_disp": "版本控制",
+    "zh_canon": "版本控制",
+    "en_disp": "Version control",
+    "en_canon": "Version control"
+  },
+  "程式碼審查.md": {
+    "zh_disp": "代码审查",
+    "zh_canon": "代码审查",
+    "en_disp": "Code review",
+    "en_canon": "Code review"
+  },
+  "圖靈.md": {
+    "zh_disp": "图灵",
+    "zh_canon": "艾伦·图灵",
+    "en_disp": "Alan Turing",
+    "en_canon": "Alan Turing"
+  },
+  "愛達.md": {
+    "zh_disp": "阿达·洛芙莱斯",
+    "zh_canon": "愛達·勒芙蕾絲",
+    "en_disp": "Ada Lovelace",
+    "en_canon": "Ada Lovelace"
+  },
+  "葛麗斯·霍普.md": {
+    "zh_disp": "格蕾丝·霍珀",
+    "zh_canon": "葛麗絲·霍普",
+    "en_disp": "Grace Hopper",
+    "en_canon": "Grace Hopper"
+  },
+  "湯姆林·湯姆森.md": {
+    "zh_disp": "汤姆森",
+    "zh_canon": "汤姆森",
+    "en_disp": "Tom Kilburn",
+    "en_canon": "Tom Kilburn"
+  },
+  "狄克斯特拉.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Edsger Dijkstra",
+    "en_canon": "Edsger W. Dijkstra"
+  },
+  "艾倫·凱.md": {
+    "zh_disp": "艾伦·凯",
+    "zh_canon": "艾伦·凯",
+    "en_disp": "Alan Kay",
+    "en_canon": "Alan Kay"
+  },
+  "巴巴拉·利斯科夫.md": {
+    "zh_disp": "芭芭拉·利斯科夫",
+    "zh_canon": "芭芭拉·利斯科夫",
+    "en_disp": "Barbara Liskov",
+    "en_canon": "Barbara Liskov"
+  },
+  "馮·諾伊曼.md": {
+    "zh_disp": "冯·诺伊曼",
+    "zh_canon": "约翰·冯·诺伊曼",
+    "en_disp": "John von Neumann",
+    "en_canon": "John von Neumann"
+  },
+  "麥卡錫.md": {
+    "zh_disp": "约翰·麦卡锡",
+    "zh_canon": "约翰·麦卡锡",
+    "en_disp": "John McCarthy (computer scientist)",
+    "en_canon": "John McCarthy (computer scientist)"
+  },
+  "高斯.md": {
+    "zh_disp": "卡尔·弗里德里希·高斯",
+    "zh_canon": "卡爾·弗里德里希·高斯",
+    "en_disp": "Carl Friedrich Gauss",
+    "en_canon": "Carl Friedrich Gauss"
+  },
+  "費雪.md": {
+    "zh_disp": "罗纳德·费希尔",
+    "zh_canon": "羅納德·愛爾默·費雪",
+    "en_disp": "Ronald Fisher",
+    "en_canon": "Ronald Fisher"
+  },
+  "皮爾生.md": {
+    "zh_disp": "卡尔·皮尔逊",
+    "zh_canon": "卡尔·皮尔逊",
+    "en_disp": "Karl Pearson",
+    "en_canon": "Karl Pearson"
+  },
+  "貝葉斯.md": {
+    "zh_disp": "贝叶斯",
+    "zh_canon": "贝叶斯",
+    "en_disp": "Thomas Bayes",
+    "en_canon": "Thomas Bayes"
+  },
+  "柯爾莫哥洛夫.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Andrey Kolmogorov",
+    "en_canon": "Andrey Kolmogorov"
+  },
+  "傅立葉.md": {
+    "zh_disp": "约瑟夫·傅立叶",
+    "zh_canon": "约瑟夫·傅里叶",
+    "en_disp": "Joseph Fourier",
+    "en_canon": "Joseph Fourier"
+  },
+  "計算機.md": {
+    "zh_disp": "计算机",
+    "zh_canon": "計算機",
+    "en_disp": "Computer",
+    "en_canon": "Computer"
+  },
+  "ENIAC.md": {
+    "zh_disp": "埃尼阿克",
+    "zh_canon": "電子數值積分計算機",
+    "en_disp": "ENIAC",
+    "en_canon": "ENIAC"
+  }
+}
