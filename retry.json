@@ -1,0 +1,5 @@
+{
+  "海氣交互.md": { "zh": ["海氣相互作用", "海洋與大氣的相互作用", "海洋-大氣相互作用"], "en": ["Air-sea exchange", "Ocean-atmosphere coupling", "Atmosphere-ocean interaction", "El Niño–Southern Oscillation"] },
+  "農業損失.md": { "zh": ["農業氣象災害", "農業災害"], "en": ["Crop failure", "Agricultural disaster"] },
+  "大氣擾動.md": { "zh": ["天氣圖", "天氣學"], "en": ["Synoptic scale meteorology", "Weather map"] }
+}

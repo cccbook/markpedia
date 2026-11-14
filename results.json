@@ -1,0 +1,272 @@
+{
+  "大氣環流.md": {
+    "zh_disp": "大氣環流",
+    "zh_canon": "大氣環流",
+    "en_disp": "Atmospheric circulation",
+    "en_canon": "Atmospheric circulation"
+  },
+  "全球風帶.md": {
+    "zh_disp": "行星風系",
+    "zh_canon": "行星風系",
+    "en_disp": "Prevailing winds",
+    "en_canon": "Prevailing winds"
+  },
+  "哈德利胞.md": {
+    "zh_disp": "哈德里環流圈",
+    "zh_canon": "哈德里環流圈",
+    "en_disp": "Hadley cell",
+    "en_canon": "Hadley cell"
+  },
+  "費雷爾胞.md": {
+    "zh_disp": "費雷爾環流",
+    "zh_canon": "費雷爾環流",
+    "en_disp": "Ferrel cell",
+    "en_canon": "Atmospheric circulation"
+  },
+  "極地胞.md": {
+    "zh_disp": "極地環流",
+    "zh_canon": "極地環流",
+    "en_disp": "Polar cell",
+    "en_canon": "Polar cell"
+  },
+  "風帶位移.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Atmospheric circulation",
+    "en_canon": "Atmospheric circulation"
+  },
+  "行星風系.md": {
+    "zh_disp": "行星風系",
+    "zh_canon": "行星風系",
+    "en_disp": "Prevailing winds",
+    "en_canon": "Prevailing winds"
+  },
+  "貿易風.md": {
+    "zh_disp": "信風",
+    "zh_canon": "信風",
+    "en_disp": "Trade winds",
+    "en_canon": "Trade winds"
+  },
+  "西風帶.md": {
+    "zh_disp": "西風帶",
+    "zh_canon": "西風帶",
+    "en_disp": "Westerlies",
+    "en_canon": "Westerlies"
+  },
+  "極地東風.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Polar easterlies",
+    "en_canon": "Polar easterlies"
+  },
+  "季風.md": {
+    "zh_disp": "季風",
+    "zh_canon": "季风",
+    "en_disp": "Monsoon",
+    "en_canon": "Monsoon"
+  },
+  "大氣擾動.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Weather",
+    "en_canon": "Weather"
+  },
+  "氣旋.md": {
+    "zh_disp": "氣旋",
+    "zh_canon": "气旋",
+    "en_disp": "Cyclone",
+    "en_canon": "Cyclone"
+  },
+  "反氣旋.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Anticyclone",
+    "en_canon": "High-pressure area"
+  },
+  "阻塞高壓.md": {
+    "zh_disp": "阻塞高壓",
+    "zh_canon": "阻塞高壓",
+    "en_disp": "Blocking high",
+    "en_canon": "Block (meteorology)"
+  },
+  "槽線.md": {
+    "zh_disp": "低壓槽",
+    "zh_canon": "低壓槽",
+    "en_disp": "Trough (meteorology)",
+    "en_canon": "Trough (meteorology)"
+  },
+  "急流與耦合.md": {
+    "zh_disp": "噴射氣流",
+    "zh_canon": "高速氣流",
+    "en_disp": "Jet stream",
+    "en_canon": "Jet stream"
+  },
+  "高空急流.md": {
+    "zh_disp": "高空急流",
+    "zh_canon": "高速氣流",
+    "en_disp": "Jet stream",
+    "en_canon": "Jet stream"
+  },
+  "平流層耦合.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Sudden stratospheric warming",
+    "en_canon": "Sudden stratospheric warming"
+  },
+  "海氣交互.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "極地振盪.md": {
+    "zh_disp": "北極振盪",
+    "zh_canon": "北極振盪",
+    "en_disp": "Arctic oscillation",
+    "en_canon": "Arctic oscillation"
+  },
+  "極端天氣.md": {
+    "zh_disp": "極端天氣",
+    "zh_canon": "極端天氣",
+    "en_disp": "Extreme weather",
+    "en_canon": "Extreme weather"
+  },
+  "熱帶氣旋.md": {
+    "zh_disp": "熱帶氣旋",
+    "zh_canon": "熱帶氣旋",
+    "en_disp": "Tropical cyclone",
+    "en_canon": "Tropical cyclone"
+  },
+  "熱帶低壓.md": {
+    "zh_disp": "熱帶低壓",
+    "zh_canon": "熱帶低氣壓",
+    "en_disp": "Tropical depression",
+    "en_canon": "Tropical cyclone"
+  },
+  "颱風眼.md": {
+    "zh_disp": "風眼",
+    "zh_canon": "風眼",
+    "en_disp": "Eye (storm)",
+    "en_canon": "Eye (cyclone)"
+  },
+  "風暴潮.md": {
+    "zh_disp": "風暴潮",
+    "zh_canon": "风暴潮",
+    "en_disp": "Storm surge",
+    "en_canon": "Storm surge"
+  },
+  "登陸.md": {
+    "zh_disp": "登陸 (氣象學)",
+    "zh_canon": "登陸 (氣象學)",
+    "en_disp": "Landfall",
+    "en_canon": "Landfall"
+  },
+  "極端高溫.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Heat wave",
+    "en_canon": "Heat wave"
+  },
+  "熱浪.md": {
+    "zh_disp": "熱浪",
+    "zh_canon": "热浪",
+    "en_disp": "Heat wave",
+    "en_canon": "Heat wave"
+  },
+  "熱指數.md": {
+    "zh_disp": "酷熱指數",
+    "zh_canon": "酷热指数",
+    "en_disp": "Heat index",
+    "en_canon": "Heat index"
+  },
+  "城市熱島.md": {
+    "zh_disp": "熱島效應",
+    "zh_canon": "城市熱島",
+    "en_disp": "Urban heat island",
+    "en_canon": "Urban heat island"
+  },
+  "健康影響.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Heat stroke",
+    "en_canon": "Heat stroke"
+  },
+  "極端低溫.md": {
+    "zh_disp": "寒潮",
+    "zh_canon": "寒潮",
+    "en_disp": "Cold wave",
+    "en_canon": "Cold wave"
+  },
+  "寒流.md": {
+    "zh_disp": "寒流",
+    "zh_canon": "寒流",
+    "en_disp": "Cold wave",
+    "en_canon": "Cold wave"
+  },
+  "暴風雪.md": {
+    "zh_disp": "暴風雪",
+    "zh_canon": "雪暴",
+    "en_disp": "Blizzard",
+    "en_canon": "Blizzard"
+  },
+  "寒害.md": {
+    "zh_disp": "寒害",
+    "zh_canon": "寒潮",
+    "en_disp": "Frost damage",
+    "en_canon": "Frost damage"
+  },
+  "農業損失.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Crop loss",
+    "en_canon": "Crop diversity"
+  },
+  "強降雨.md": {
+    "zh_disp": "暴雨",
+    "zh_canon": "暴雨",
+    "en_disp": "Heavy rain",
+    "en_canon": "Heavy Rain"
+  },
+  "豪雨.md": {
+    "zh_disp": "豪雨",
+    "zh_canon": "暴雨",
+    "en_disp": "Heavy rain",
+    "en_canon": "Heavy Rain"
+  },
+  "山洪.md": {
+    "zh_disp": "山洪",
+    "zh_canon": "洪水",
+    "en_disp": "Flash flood",
+    "en_canon": "Flash flood"
+  },
+  "土石流.md": {
+    "zh_disp": "土石流",
+    "zh_canon": "泥石流",
+    "en_disp": "Debris flow",
+    "en_canon": "Debris flow"
+  },
+  "都市內涝.md": {
+    "zh_disp": "內澇",
+    "zh_canon": "內澇",
+    "en_disp": "Urban flooding",
+    "en_canon": "Urban flooding"
+  },
+  "喬治·哈德利.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "George Hadley",
+    "en_canon": "George Hadley"
+  },
+  "威廉·費雷爾.md": {
+    "zh_disp": "威廉·費雷爾",
+    "zh_canon": "威廉·費雷爾",
+    "en_disp": "William Ferrel",
+    "en_canon": "William Ferrel"
+  },
+  "羅斯貝.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Carl-Gustaf Rossby",
+    "en_canon": "Carl-Gustaf Rossby"
+  }
+}

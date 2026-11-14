@@ -1,0 +1,20 @@
+{
+  "海氣交互.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "El Niño–Southern Oscillation",
+    "en_canon": "El Niño–Southern Oscillation"
+  },
+  "農業損失.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Crop failure",
+    "en_canon": "Harvest"
+  },
+  "大氣擾動.md": {
+    "zh_disp": "天氣圖",
+    "zh_canon": "天氣圖",
+    "en_disp": "Synoptic scale meteorology",
+    "en_canon": "Synoptic scale meteorology"
+  }
+}
