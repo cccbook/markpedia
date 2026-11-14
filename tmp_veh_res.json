@@ -1,0 +1,134 @@
+{
+  "車輛工程.md": {
+    "zh_disp": "車輛工程",
+    "zh_canon": "载具",
+    "en_disp": "Vehicle engineering",
+    "en_canon": "Vehicle engineering"
+  },
+  "車輛結構.md": {
+    "zh_disp": "汽車工程",
+    "zh_canon": "载具",
+    "en_disp": "Automotive engineering",
+    "en_canon": "Automotive engineering"
+  },
+  "車身.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Car body",
+    "en_canon": "Car classification"
+  },
+  "懸吊.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Suspension (vehicle)",
+    "en_canon": "Car suspension"
+  },
+  "底盤.md": {
+    "zh_disp": "汽車底盤",
+    "zh_canon": "底盘",
+    "en_disp": "Chassis",
+    "en_canon": "Chassis"
+  },
+  "碰撞安全.md": {
+    "zh_disp": "車禍",
+    "zh_canon": "交通事故",
+    "en_disp": "Car crash",
+    "en_canon": "Traffic collision"
+  },
+  "動力總成.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Powertrain",
+    "en_canon": "Powertrain"
+  },
+  "變速箱.md": {
+    "zh_disp": "變速器",
+    "zh_canon": "变速器",
+    "en_disp": "Transmission (mechanics)",
+    "en_canon": "Transmission (mechanical device)"
+  },
+  "電動動力.md": {
+    "zh_disp": "電動汽車",
+    "zh_canon": "电动汽车",
+    "en_disp": "Electric powertrain",
+    "en_canon": "Electric vehicle"
+  },
+  "燃料電池.md": {
+    "zh_disp": "燃料電池",
+    "zh_canon": "燃料电池",
+    "en_disp": "Fuel cell",
+    "en_canon": "Fuel cell"
+  },
+  "轉向.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Steering",
+    "en_canon": "Steering"
+  },
+  "煞車.md": {
+    "zh_disp": "煞車",
+    "zh_canon": "煞車",
+    "en_disp": "Brake",
+    "en_canon": "Brake"
+  },
+  "車輪與輪胎.md": {
+    "zh_disp": "輪胎",
+    "zh_canon": "輪胎",
+    "en_disp": "Tire",
+    "en_canon": "Tire"
+  },
+  "電子穩定系統.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Electronic stability control",
+    "en_canon": "Electronic stability control"
+  },
+  "電池.md": {
+    "zh_disp": "電池",
+    "zh_canon": "电池",
+    "en_disp": "Battery (electric)",
+    "en_canon": "Electric battery"
+  },
+  "充電基礎設施.md": {
+    "zh_disp": "充電站",
+    "zh_canon": "充电桩",
+    "en_disp": "Charging station",
+    "en_canon": "Charging station"
+  },
+  "動力管理.md": {
+    "zh_disp": "電池管理系統",
+    "zh_canon": "电池管理系统",
+    "en_disp": "Energy management",
+    "en_canon": "Energy management"
+  },
+  "續航.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Range anxiety",
+    "en_canon": "Range anxiety"
+  },
+  "駕駛輔助.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Advanced driver-assistance systems",
+    "en_canon": "Advanced driver-assistance system"
+  },
+  "車隊管理.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Fleet management",
+    "en_canon": "Fleet management"
+  },
+  "車聯網.md": {
+    "zh_disp": "車聯網",
+    "zh_canon": "車聯網",
+    "en_disp": "Connected car",
+    "en_canon": "Connected car"
+  },
+  "自駕系統.md": {
+    "zh_disp": "自動駕駛",
+    "zh_canon": "自動駕駛",
+    "en_disp": "Self-driving car",
+    "en_canon": "Self-driving car"
+  }
+}

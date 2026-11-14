@@ -1,0 +1,92 @@
+{
+  "製備方法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanomaterials",
+    "en_canon": "Nanomaterials"
+  },
+  "量子尺寸效應.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Quantum confinement",
+    "en_canon": "Potential well"
+  },
+  "奈米尺度.md": {
+    "zh_disp": "纳米技术",
+    "zh_canon": "纳米技术",
+    "en_disp": "Nanoscale",
+    "en_canon": "Nanotechnology"
+  },
+  "材料測試與失效.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Materials testing",
+    "en_canon": "List of materials-testing resources"
+  },
+  "拉伸.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Tensile test",
+    "en_canon": "Tensile testing"
+  },
+  "氧化物陶瓷.md": {
+    "zh_disp": "氧化铝陶瓷",
+    "zh_canon": "氧化铝陶瓷",
+    "en_disp": "Ceramic",
+    "en_canon": "Ceramic"
+  },
+  "功能陶瓷.md": {
+    "zh_disp": "先进陶瓷",
+    "zh_canon": "先进陶瓷",
+    "en_disp": "Advanced ceramics",
+    "en_canon": "Ceramic"
+  },
+  "奈米材料性質.md": {
+    "zh_disp": "纳米材料",
+    "zh_canon": "纳米材料",
+    "en_disp": "Nanomaterials",
+    "en_canon": "Nanomaterials"
+  },
+  "電子.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanoelectronics",
+    "en_canon": "Nanoelectronics"
+  },
+  "催化.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanocatalyst",
+    "en_canon": "Nanomaterial-based catalyst"
+  },
+  "能源.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanogenerator",
+    "en_canon": "Nanogenerator"
+  },
+  "生物安全性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanotoxicology",
+    "en_canon": "Nanotoxicology"
+  },
+  "材料製程.md": {
+    "zh_disp": "热处理",
+    "zh_canon": "热处理",
+    "en_disp": "Metalworking",
+    "en_canon": "Metalworking"
+  },
+  "力學.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanomechanics",
+    "en_canon": "Nanomechanics"
+  },
+  "物理法.md": {
+    "zh_disp": "球磨",
+    "zh_canon": "球磨",
+    "en_disp": "Ball mill",
+    "en_canon": "Ball mill"
+  }
+}

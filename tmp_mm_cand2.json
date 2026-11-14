@@ -1,0 +1,17 @@
+{
+  "製備方法.md": {"zh": ["纳米材料的制备", "纳米合成", "纳米材料合成"], "en": ["Nanomaterial synthesis", "Synthesis of nanomaterials", "Nanomaterials"]},
+  "量子尺寸效應.md": {"zh": ["量子尺寸效应", "量子限域", "量子尺寸效应"], "en": ["Quantum size effect", "Quantum confinement"]},
+  "奈米尺度.md": {"zh": ["纳米尺度", "纳米技术"], "en": ["Nanoscale", "Nanotechnology"]},
+  "材料測試與失效.md": {"zh": ["材料试验", "材料的力学性能"], "en": ["Materials testing", "Mechanical testing"]},
+  "拉伸.md": {"zh": ["拉伸试验", "抗拉试验"], "en": ["Tensile test", "Tensile testing"]},
+  "氧化物陶瓷.md": {"zh": ["氧化物陶瓷", "氧化铝陶瓷", "陶瓷"], "en": ["Oxide ceramic", "Ceramic"]},
+  "功能陶瓷.md": {"zh": ["先进陶瓷", "功能陶瓷材料", "特种陶瓷"], "en": ["Functional ceramic", "Advanced ceramics", "Special ceramics"]},
+  "奈米材料性質.md": {"zh": ["纳米材料", "纳米复合材料"], "en": ["Nanomaterials", "Nanoparticle"]},
+  "電子.md": {"zh": ["纳米电子学", "纳米器件"], "en": ["Nanoelectronics", "Nanoelectromechanical systems"]},
+  "催化.md": {"zh": ["纳米催化剂", "纳米催化材料"], "en": ["Nanocatalyst", "Nanomaterial-based catalyst"]},
+  "能源.md": {"zh": ["纳米发电机", "纳米能源"], "en": ["Nanogenerator", "Piezoelectric nanogenerator"]},
+  "生物安全性.md": {"zh": ["纳米毒性", "纳米材料生物安全性"], "en": ["Nanotoxicology", "Nanoparticle toxicity"]},
+  "材料製程.md": {"zh": ["金属加工", "热处理"], "en": ["Metalworking", "Heat treatment"]},
+  "力學.md": {"zh": ["纳米力学", "纳米力学性能"], "en": ["Nanomechanics"]},
+  "物理法.md": {"zh": ["球磨", "激光烧蚀"], "en": ["Ball mill", "Ball milling"]}
+}

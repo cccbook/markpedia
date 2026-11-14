@@ -1,0 +1,308 @@
+{
+  "材料工程.md": {
+    "zh_disp": "材料工程",
+    "zh_canon": "材料科学",
+    "en_disp": "Materials engineering",
+    "en_canon": "Materials science"
+  },
+  "金屬材料.md": {
+    "zh_disp": "金屬材料",
+    "zh_canon": "金属材料",
+    "en_disp": "Metal",
+    "en_canon": "Metal"
+  },
+  "碳鋼.md": {
+    "zh_disp": "碳鋼",
+    "zh_canon": "碳鋼",
+    "en_disp": "Carbon steel",
+    "en_canon": "Carbon steel"
+  },
+  "合金鋼.md": {
+    "zh_disp": "合金鋼",
+    "zh_canon": "合金鋼",
+    "en_disp": "Alloy steel",
+    "en_canon": "Alloy steel"
+  },
+  "鋁合金.md": {
+    "zh_disp": "铝合金",
+    "zh_canon": "鋁合金",
+    "en_disp": "Aluminium alloy",
+    "en_canon": "Aluminium alloy"
+  },
+  "鈦合金.md": {
+    "zh_disp": "钛合金",
+    "zh_canon": "鈦合金",
+    "en_disp": "Titanium alloy",
+    "en_canon": "Titanium alloys"
+  },
+  "陶瓷與玻璃.md": {
+    "zh_disp": "陶瓷",
+    "zh_canon": "陶瓷",
+    "en_disp": "Ceramic",
+    "en_canon": "Ceramic"
+  },
+  "氧化物陶瓷.md": {
+    "zh_disp": "陶瓷",
+    "zh_canon": "陶瓷",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "碳化物.md": {
+    "zh_disp": "碳化物",
+    "zh_canon": "碳化物",
+    "en_disp": "Carbide",
+    "en_canon": "Carbide"
+  },
+  "玻璃結構.md": {
+    "zh_disp": "玻璃",
+    "zh_canon": "玻璃",
+    "en_disp": "Glass",
+    "en_canon": "Glass"
+  },
+  "功能陶瓷.md": {
+    "zh_disp": "先进陶瓷",
+    "zh_canon": "先进陶瓷",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "高分子材料.md": {
+    "zh_disp": "高分子材料",
+    "zh_canon": "高分子材料",
+    "en_disp": "Polymer",
+    "en_canon": "Polymer"
+  },
+  "熱塑性.md": {
+    "zh_disp": "熱塑性",
+    "zh_canon": "热塑性塑料",
+    "en_disp": "Thermoplastic",
+    "en_canon": "Thermoplastic"
+  },
+  "熱固性.md": {
+    "zh_disp": "熱固性",
+    "zh_canon": "热固性聚合物",
+    "en_disp": "Thermoset",
+    "en_canon": "Thermosetting polymer"
+  },
+  "彈性體.md": {
+    "zh_disp": "弹性体",
+    "zh_canon": "弹性体",
+    "en_disp": "Elastomer",
+    "en_canon": "Elastomer"
+  },
+  "複合材料.md": {
+    "zh_disp": "复合材料",
+    "zh_canon": "复合材料",
+    "en_disp": "Composite material",
+    "en_canon": "Composite material"
+  },
+  "材料製程.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Metalworking",
+    "en_canon": "Metalworking"
+  },
+  "鑄造.md": {
+    "zh_disp": "铸造",
+    "zh_canon": "鑄造",
+    "en_disp": "Casting",
+    "en_canon": "Casting"
+  },
+  "鍛造.md": {
+    "zh_disp": "鍛造",
+    "zh_canon": "鍛造",
+    "en_disp": "Forging",
+    "en_canon": "Forging"
+  },
+  "粉末冶金.md": {
+    "zh_disp": "粉末冶金",
+    "zh_canon": "粉末冶金",
+    "en_disp": "Powder metallurgy",
+    "en_canon": "Powder metallurgy"
+  },
+  "3D列印.md": {
+    "zh_disp": "3D打印",
+    "zh_canon": "3D打印",
+    "en_disp": "3D printing",
+    "en_canon": "3D printing"
+  },
+  "材料測試與失效.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Materials testing",
+    "en_canon": "List of materials-testing resources"
+  },
+  "拉伸.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Tensile test",
+    "en_canon": "Tensile testing"
+  },
+  "疲勞.md": {
+    "zh_disp": "疲劳",
+    "zh_canon": "疲勞",
+    "en_disp": "Fatigue (engineering)",
+    "en_canon": "Fatigue (material)"
+  },
+  "斷裂韌性.md": {
+    "zh_disp": "断裂韧性",
+    "zh_canon": "断裂韧性",
+    "en_disp": "Fracture mechanics",
+    "en_canon": "Fracture mechanics"
+  },
+  "失效分析.md": {
+    "zh_disp": "失效分析",
+    "zh_canon": "故障分析",
+    "en_disp": "Failure analysis",
+    "en_canon": "Failure analysis"
+  },
+  "奈米材料.md": {
+    "zh_disp": "纳米材料",
+    "zh_canon": "纳米材料",
+    "en_disp": "Nanomaterials",
+    "en_canon": "Nanomaterials"
+  },
+  "奈米尺度.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanoscale",
+    "en_canon": "Nanotechnology"
+  },
+  "奈米定義.md": {
+    "zh_disp": "纳米",
+    "zh_canon": "纳米",
+    "en_disp": "Nanometre",
+    "en_canon": "Nanometre"
+  },
+  "表面積效應.md": {
+    "zh_disp": "比表面积",
+    "zh_canon": "比表面积",
+    "en_disp": "Surface area",
+    "en_canon": "Surface area"
+  },
+  "量子尺寸效應.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Quantum confinement",
+    "en_canon": "Potential well"
+  },
+  "奈米結構.md": {
+    "zh_disp": "纳米结构",
+    "zh_canon": "纳米结构",
+    "en_disp": "Nanostructure",
+    "en_canon": "Nanostructure"
+  },
+  "奈米管.md": {
+    "zh_disp": "碳纳米管",
+    "zh_canon": "碳纳米管",
+    "en_disp": "Carbon nanotube",
+    "en_canon": "Carbon nanotube"
+  },
+  "奈米線.md": {
+    "zh_disp": "纳米线",
+    "zh_canon": "奈米線",
+    "en_disp": "Nanowire",
+    "en_canon": "Nanowire"
+  },
+  "奈米點.md": {
+    "zh_disp": "量子点",
+    "zh_canon": "量子点",
+    "en_disp": "Quantum dot",
+    "en_canon": "Quantum dot"
+  },
+  "石墨烯.md": {
+    "zh_disp": "石墨烯",
+    "zh_canon": "石墨烯",
+    "en_disp": "Graphene",
+    "en_canon": "Graphene"
+  },
+  "製備方法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "物理法.md": {
+    "zh_disp": "球磨",
+    "zh_canon": "球磨",
+    "en_disp": "Ball milling",
+    "en_canon": "Ball mill"
+  },
+  "化學法.md": {
+    "zh_disp": "化学气相沉积",
+    "zh_canon": "化学气相沉积",
+    "en_disp": "Sol-gel process",
+    "en_canon": "Sol–gel process"
+  },
+  "自組裝.md": {
+    "zh_disp": "自组装",
+    "zh_canon": "自組裝",
+    "en_disp": "Self-assembly",
+    "en_canon": "Self-assembly"
+  },
+  "氣相沉積.md": {
+    "zh_disp": "化学气相沉积",
+    "zh_canon": "化学气相沉积",
+    "en_disp": "Chemical vapor deposition",
+    "en_canon": "Chemical vapor deposition"
+  },
+  "奈米材料性質.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanomaterials",
+    "en_canon": "Nanomaterials"
+  },
+  "力學.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanomechanics",
+    "en_canon": "Nanomechanics"
+  },
+  "光學.md": {
+    "zh_disp": "表面增强拉曼光谱",
+    "zh_canon": "表面增强拉曼光谱",
+    "en_disp": "Nanophotonics",
+    "en_canon": "Nanophotonics"
+  },
+  "磁學.md": {
+    "zh_disp": "巨磁阻效应",
+    "zh_canon": "巨磁阻效应",
+    "en_disp": "Giant magnetoresistance",
+    "en_canon": "Giant magnetoresistance"
+  },
+  "催化.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanocatalyst",
+    "en_canon": "Nanomaterial-based catalyst"
+  },
+  "應用與風險.md": {
+    "zh_disp": "纳米技术",
+    "zh_canon": "纳米技术",
+    "en_disp": "Nanotechnology",
+    "en_canon": "Nanotechnology"
+  },
+  "電子.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanoelectronics",
+    "en_canon": "Nanoelectronics"
+  },
+  "醫藥.md": {
+    "zh_disp": "纳米医学",
+    "zh_canon": "纳米医学",
+    "en_disp": "Nanomedicine",
+    "en_canon": "Nanomedicine"
+  },
+  "能源.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanogenerator",
+    "en_canon": "Nanogenerator"
+  },
+  "生物安全性.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Nanotoxicology",
+    "en_canon": "Nanotoxicology"
+  }
+}

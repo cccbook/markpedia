@@ -1,0 +1,134 @@
+{
+  "車身.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Vehicle body",
+    "en_canon": "Coachbuilder"
+  },
+  "續航.md": {
+    "zh_disp": "续航里程",
+    "zh_canon": "续航里程",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "動力總成.md": {
+    "zh_disp": "动力总成",
+    "zh_canon": "动力总成",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "電子穩定系統.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Stability control",
+    "en_canon": "Electronic stability control"
+  },
+  "駕駛輔助.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Adaptive cruise control",
+    "en_canon": "Adaptive cruise control"
+  },
+  "車隊管理.md": {
+    "zh_disp": "车队管理",
+    "zh_canon": "车队管理",
+    "en_disp": "Vehicle fleet",
+    "en_canon": "Fleet vehicle"
+  },
+  "轉向.md": {
+    "zh_disp": "转向",
+    "zh_canon": "转向",
+    "en_disp": "Steering wheel",
+    "en_canon": "Steering wheel"
+  },
+  "車輛結構.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Vehicle",
+    "en_canon": "Vehicle"
+  },
+  "車輪與輪胎.md": {
+    "zh_disp": "轮胎",
+    "zh_canon": "輪胎",
+    "en_disp": "Wheel",
+    "en_canon": "Wheel"
+  },
+  "煞車.md": {
+    "zh_disp": "煞車",
+    "zh_canon": "煞車",
+    "en_disp": "Brake",
+    "en_canon": "Brake"
+  },
+  "碰撞安全.md": {
+    "zh_disp": "汽车安全",
+    "zh_canon": "汽车安全",
+    "en_disp": "Vehicle safety",
+    "en_canon": "Automotive safety"
+  },
+  "電動動力.md": {
+    "zh_disp": "电动汽车",
+    "zh_canon": "电动汽车",
+    "en_disp": "Electric vehicle",
+    "en_canon": "Electric vehicle"
+  },
+  "變速箱.md": {
+    "zh_disp": "变速器",
+    "zh_canon": "变速器",
+    "en_disp": "Transmission (mechanical device)",
+    "en_canon": "Transmission (mechanical device)"
+  },
+  "充電基礎設施.md": {
+    "zh_disp": "充电桩",
+    "zh_canon": "充电桩",
+    "en_disp": "Charging station",
+    "en_canon": "Charging station"
+  },
+  "動力管理.md": {
+    "zh_disp": "电池管理系统",
+    "zh_canon": "电池管理系统",
+    "en_disp": "Energy management",
+    "en_canon": "Energy management"
+  },
+  "自駕系統.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Self-driving car",
+    "en_canon": "Self-driving car"
+  },
+  "車聯網.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Connected car",
+    "en_canon": "Connected car"
+  },
+  "燃料電池.md": {
+    "zh_disp": "燃料电池",
+    "zh_canon": "燃料电池",
+    "en_disp": "Fuel cell",
+    "en_canon": "Fuel cell"
+  },
+  "底盤.md": {
+    "zh_disp": "底盘",
+    "zh_canon": "底盘",
+    "en_disp": "Chassis",
+    "en_canon": "Chassis"
+  },
+  "懸吊.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Suspension (vehicle)",
+    "en_canon": "Car suspension"
+  },
+  "車輛工程.md": {
+    "zh_disp": "载具",
+    "zh_canon": "载具",
+    "en_disp": "Vehicle engineering",
+    "en_canon": "Vehicle engineering"
+  },
+  "電池.md": {
+    "zh_disp": "电池",
+    "zh_canon": "电池",
+    "en_disp": "Electric battery",
+    "en_canon": "Electric battery"
+  }
+}
