@@ -1,0 +1,194 @@
+{
+  "觀測方法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Observational astronomy",
+    "en_canon": "Observational astronomy"
+  },
+  "天文儀器.md": {
+    "zh_disp": "天文台",
+    "zh_canon": "天文台",
+    "en_disp": "Astronomical instrument",
+    "en_canon": "List of astronomical instruments"
+  },
+  "天體的分類.md": {
+    "zh_disp": "天体",
+    "zh_canon": "天體",
+    "en_disp": "Astronomical object",
+    "en_canon": "Astronomical object"
+  },
+  "天文學的分支.md": {
+    "zh_disp": "天文学",
+    "zh_canon": "天文學",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "其他星系.md": {
+    "zh_disp": "星系",
+    "zh_canon": "星系",
+    "en_disp": "Galaxy",
+    "en_canon": "Galaxy"
+  },
+  "勒梅特里.md": {
+    "zh_disp": "勒梅特",
+    "zh_canon": "乔治·勒梅特",
+    "en_disp": "Georges Lemaître",
+    "en_canon": "Georges Lemaître"
+  },
+  "彭伯斯.md": {
+    "zh_disp": "彭齐亚斯",
+    "zh_canon": "阿诺·彭齐亚斯",
+    "en_disp": "Arno Allan Penzias",
+    "en_canon": "Arno Allan Penzias"
+  },
+  "光學望遠鏡.md": {
+    "zh_disp": "望远镜",
+    "zh_canon": "望远镜",
+    "en_disp": "Optical telescope",
+    "en_canon": "Optical telescope"
+  },
+  "智利.md": {
+    "zh_disp": "智利",
+    "zh_canon": "智利",
+    "en_disp": "Chile",
+    "en_canon": "Chile"
+  },
+  "哈伯太空望遠鏡.md": {
+    "zh_disp": "哈勃空间望远镜",
+    "zh_canon": "哈勃空间望远镜",
+    "en_disp": "Hubble Space Telescope",
+    "en_canon": "Hubble Space Telescope"
+  },
+  "詹姆斯·韋布太空望遠鏡.md": {
+    "zh_disp": "詹姆斯·韦布空间望远镜",
+    "zh_canon": "詹姆斯·韦伯太空望远镜",
+    "en_disp": "James Webb Space Telescope",
+    "en_canon": "James Webb Space Telescope"
+  },
+  "蟹狀星雲.md": {
+    "zh_disp": "蟹状星云",
+    "zh_canon": "蟹狀星雲",
+    "en_disp": "Crab Nebula",
+    "en_canon": "Crab Nebula"
+  },
+  "人馬座.md": {
+    "zh_disp": "人马座",
+    "zh_canon": "人马座",
+    "en_disp": "Sagittarius (constellation)",
+    "en_canon": "Sagittarius (constellation)"
+  },
+  "獵戶座.md": {
+    "zh_disp": "猎户座",
+    "zh_canon": "獵戶座",
+    "en_disp": "Orion (constellation)",
+    "en_canon": "Orion (constellation)"
+  },
+  "昴星團.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Pleiades",
+    "en_canon": "Pleiades"
+  },
+  "棒旋星系.md": {
+    "zh_disp": "棒旋星系",
+    "zh_canon": "棒旋星系",
+    "en_disp": "Barred spiral galaxy",
+    "en_canon": "Barred spiral galaxy"
+  },
+  "透鏡星系.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Lenticular galaxy",
+    "en_canon": "Lenticular galaxy"
+  },
+  "球狀星團.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Globular cluster",
+    "en_canon": "Globular cluster"
+  },
+  "造父變星.md": {
+    "zh_disp": "造父变星",
+    "zh_canon": "造父变星",
+    "en_disp": "Cepheid variable",
+    "en_canon": "Cepheid variable"
+  },
+  "紅移.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Redshift",
+    "en_canon": "Redshift"
+  },
+  "視差.md": {
+    "zh_disp": "视差",
+    "zh_canon": "视差",
+    "en_disp": "Parallax",
+    "en_canon": "Parallax"
+  },
+  "多普勒效應.md": {
+    "zh_disp": "多普勒效应",
+    "zh_canon": "多普勒效应",
+    "en_disp": "Doppler effect",
+    "en_canon": "Doppler effect"
+  },
+  "超新星.md": {
+    "zh_disp": "超新星",
+    "zh_canon": "超新星",
+    "en_disp": "Supernova",
+    "en_canon": "Supernova"
+  },
+  "星等.md": {
+    "zh_disp": "星等",
+    "zh_canon": "星等",
+    "en_disp": "Apparent magnitude",
+    "en_canon": "Apparent magnitude"
+  },
+  "干涉測量.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Interferometry",
+    "en_canon": "Interferometry"
+  },
+  "天體測量.md": {
+    "zh_disp": "天体测量学",
+    "zh_canon": "天体测量学",
+    "en_disp": "Astrometry",
+    "en_canon": "Astrometry"
+  },
+  "太陽系.md": {
+    "zh_disp": "太阳系",
+    "zh_canon": "太阳系",
+    "en_disp": "Solar System",
+    "en_canon": "Solar System"
+  },
+  "宇宙微波背景.md": {
+    "zh_disp": "宇宙微波背景",
+    "zh_canon": "宇宙微波背景",
+    "en_disp": "Cosmic microwave background",
+    "en_canon": "Cosmic microwave background"
+  },
+  "平方反比定律.md": {
+    "zh_disp": "平方反比定律",
+    "zh_canon": "平方反比定律",
+    "en_disp": "Inverse-square law",
+    "en_canon": "Inverse-square law"
+  },
+  "半衰期.md": {
+    "zh_disp": "半衰期",
+    "zh_canon": "半衰期",
+    "en_disp": "Half-life",
+    "en_canon": "Half-life"
+  },
+  "赫歇耳譜系.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "奧伯斯悖論.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Olbers' paradox",
+    "en_canon": "Olbers' paradox"
+  }
+}

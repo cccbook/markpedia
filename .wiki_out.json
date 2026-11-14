@@ -1,0 +1,158 @@
+{
+  "天文學.md": {
+    "zh_disp": "天文学",
+    "zh_canon": "天文學",
+    "en_disp": "Astronomy",
+    "en_canon": "Astronomy"
+  },
+  "觀測方法.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Astronomical observation",
+    "en_canon": "Observational astronomy"
+  },
+  "天文儀器.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Astronomical instrument",
+    "en_canon": "List of astronomical instruments"
+  },
+  "天體的分類.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Astronomical object",
+    "en_canon": "Astronomical object"
+  },
+  "天文學的分支.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "恆星系.md": {
+    "zh_disp": "星系",
+    "zh_canon": "星系",
+    "en_disp": "Galaxy",
+    "en_canon": "Galaxy"
+  },
+  "恆星.md": {
+    "zh_disp": "恒星",
+    "zh_canon": "恒星",
+    "en_disp": "Star",
+    "en_canon": "Star"
+  },
+  "星座.md": {
+    "zh_disp": "星座",
+    "zh_canon": "星座",
+    "en_disp": "Constellation",
+    "en_canon": "Constellation"
+  },
+  "銀河系.md": {
+    "zh_disp": "银河系",
+    "zh_canon": "银河系",
+    "en_disp": "Milky Way",
+    "en_canon": "Milky Way"
+  },
+  "其他星系.md": {
+    "zh_disp": "椭圆星系",
+    "zh_canon": "椭圆星系",
+    "en_disp": "Elliptical galaxy",
+    "en_canon": "Elliptical galaxy"
+  },
+  "威廉·赫歇耳.md": {
+    "zh_disp": "威廉·赫歇尔",
+    "zh_canon": "威廉·赫歇爾",
+    "en_disp": "William Herschel",
+    "en_canon": "William Herschel"
+  },
+  "第谷·布拉赫.md": {
+    "zh_disp": "第谷·布拉赫",
+    "zh_canon": "第谷·布拉厄",
+    "en_disp": "Tycho Brahe",
+    "en_canon": "Tycho Brahe"
+  },
+  "勒梅特里.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Georges Lemaître",
+    "en_canon": "Georges Lemaître"
+  },
+  "彭伯斯.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Arno Penzias",
+    "en_canon": "Arno Allan Penzias"
+  },
+  "伽利略.md": {
+    "zh_disp": "伽利略·伽利莱",
+    "zh_canon": "伽利略·伽利莱",
+    "en_disp": "Galileo Galilei",
+    "en_canon": "Galileo Galilei"
+  },
+  "哈勃.md": {
+    "zh_disp": "埃德温·哈勃",
+    "zh_canon": "愛德文·哈勃",
+    "en_disp": "Edwin Hubble",
+    "en_canon": "Edwin Hubble"
+  },
+  "開普勒.md": {
+    "zh_disp": "约翰内斯·开普勒",
+    "zh_canon": "约翰内斯·开普勒",
+    "en_disp": "Johannes Kepler",
+    "en_canon": "Johannes Kepler"
+  },
+  "牛頓.md": {
+    "zh_disp": "艾萨克·牛顿",
+    "zh_canon": "艾萨克·牛顿",
+    "en_disp": "Isaac Newton",
+    "en_canon": "Isaac Newton"
+  },
+  "愛因斯坦.md": {
+    "zh_disp": "阿尔伯特·爱因斯坦",
+    "zh_canon": "阿尔伯特·爱因斯坦",
+    "en_disp": "Albert Einstein",
+    "en_canon": "Albert Einstein"
+  },
+  "望遠鏡.md": {
+    "zh_disp": "望远镜",
+    "zh_canon": "望远镜",
+    "en_disp": "Telescope",
+    "en_canon": "Telescope"
+  },
+  "光學望遠鏡.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Optical telescope",
+    "en_canon": "Optical telescope"
+  },
+  "照相機.md": {
+    "zh_disp": "照相机",
+    "zh_canon": "照相機",
+    "en_disp": "Camera",
+    "en_canon": "Camera"
+  },
+  "火星.md": {
+    "zh_disp": "火星",
+    "zh_canon": "火星",
+    "en_disp": "Mars",
+    "en_canon": "Mars"
+  },
+  "巴黎.md": {
+    "zh_disp": "巴黎",
+    "zh_canon": "巴黎",
+    "en_disp": "Paris",
+    "en_canon": "Paris"
+  },
+  "柏林.md": {
+    "zh_disp": "柏林",
+    "zh_canon": "柏林",
+    "en_disp": "Berlin",
+    "en_canon": "Berlin"
+  },
+  "南極大陸.md": {
+    "zh_disp": "南极洲",
+    "zh_canon": "南极洲",
+    "en_disp": "Antarctica",
+    "en_canon": "Antarctica"
+  }
+}

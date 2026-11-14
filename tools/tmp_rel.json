@@ -1,0 +1,128 @@
+{
+  "相對論.md": {
+    "zh_disp": "相對論",
+    "zh_canon": "相对论",
+    "en_disp": "Special relativity",
+    "en_canon": "Special relativity"
+  },
+  "狹義相對論.md": {
+    "zh_disp": "狹義相對論",
+    "zh_canon": "狭义相对论",
+    "en_disp": "Special relativity",
+    "en_canon": "Special relativity"
+  },
+  "廣義相對論.md": {
+    "zh_disp": "廣義相對論",
+    "zh_canon": "廣義相對論",
+    "en_disp": "General relativity",
+    "en_canon": "General relativity"
+  },
+  "數學工具.md": {
+    "zh_disp": "黎曼幾何",
+    "zh_canon": "黎曼几何",
+    "en_disp": "Riemannian geometry",
+    "en_canon": "Riemannian geometry"
+  },
+  "實驗驗證.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Michelson–Morley experiment",
+    "en_canon": "Michelson–Morley experiment"
+  },
+  "應用.md": {
+    "zh_disp": "全球定位系統",
+    "zh_canon": "全球定位系统",
+    "en_disp": "Global Positioning System",
+    "en_canon": "Global Positioning System"
+  },
+  "時空曲率.md": {
+    "zh_disp": "广义相对论",
+    "zh_canon": "廣義相對論",
+    "en_disp": "Spacetime curvature",
+    "en_canon": "Curved spacetime"
+  },
+  "等效原理.md": {
+    "zh_disp": "等效原理",
+    "zh_canon": "等效原理",
+    "en_disp": "Equivalence principle",
+    "en_canon": "Equivalence principle"
+  },
+  "重力場.md": {
+    "zh_disp": "引力场",
+    "zh_canon": "引力場",
+    "en_disp": "Gravitational field",
+    "en_canon": "Gravitational field"
+  },
+  "黑洞影像.md": {
+    "zh_disp": "黑洞",
+    "zh_canon": "黑洞",
+    "en_disp": "Event Horizon Telescope",
+    "en_canon": "Event Horizon Telescope"
+  },
+  "重力紅移.md": {
+    "zh_disp": "重力红移",
+    "zh_canon": "重力紅移",
+    "en_disp": "Gravitational redshift",
+    "en_canon": "Gravitational redshift"
+  },
+  "GPS校正.md": {
+    "zh_disp": "GPS",
+    "zh_canon": "全球定位系统",
+    "en_disp": "GPS",
+    "en_canon": "Global Positioning System"
+  },
+  "核能.md": {
+    "zh_disp": "核能",
+    "zh_canon": "核能",
+    "en_disp": "Nuclear power",
+    "en_canon": "Nuclear power"
+  },
+  "全球定位.md": {
+    "zh_disp": "卫星导航系统",
+    "zh_canon": "卫星导航系统",
+    "en_disp": "Satellite navigation",
+    "en_canon": "Satellite navigation"
+  },
+  "光速不變.md": {
+    "zh_disp": "光速不变原理",
+    "zh_canon": "狭义相对论",
+    "en_disp": null,
+    "en_canon": null
+  },
+  "時間膨脹.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Time dilation",
+    "en_canon": "Time dilation"
+  },
+  "長度收縮.md": {
+    "zh_disp": "长度收缩",
+    "zh_canon": "长度收缩",
+    "en_disp": "Length contraction",
+    "en_canon": "Length contraction"
+  },
+  "閔可夫斯基時空.md": {
+    "zh_disp": "閔可夫斯基空間",
+    "zh_canon": "閔考斯基時空",
+    "en_disp": "Minkowski space",
+    "en_canon": "Minkowski spacetime"
+  },
+  "張量分析.md": {
+    "zh_disp": "张量分析",
+    "zh_canon": "張量",
+    "en_disp": "Tensor calculus",
+    "en_canon": "Ricci calculus"
+  },
+  "黎曼幾何.md": {
+    "zh_disp": "黎曼几何",
+    "zh_canon": "黎曼几何",
+    "en_disp": "Riemannian geometry",
+    "en_canon": "Riemannian geometry"
+  },
+  "邁克耳孫－莫雷實驗.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Michelson–Morley experiment",
+    "en_canon": "Michelson–Morley experiment"
+  }
+}

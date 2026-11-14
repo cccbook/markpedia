@@ -1,0 +1,10 @@
+{
+  "實驗驗證.md": {"zh": ["邁克耳孫-莫雷實驗", "邁克爾森-莫雷實驗", "邁克耳孫－莫雷實驗", "相對論的實驗驗證"], "en": ["Experimental confirmation of general relativity", "Tests of special relativity", "Gravitational wave", "Black hole imaging"]},
+  "時間膨脹.md": {"zh": ["时间膨胀", "時間膨脹"], "en": ["Time dilation"]},
+  "邁克耳孫－莫雷實驗.md": {"zh": ["邁克耳孫-莫雷實驗", "邁克耳孫－莫雷實驗"], "en": ["Michelson–Morley experiment"]},
+  "光速不變.md": {"zh": ["光速不变原理", "光速"], "en": ["Postulate of relativity", "Speed of light", "Invariance of light speed"]},
+  "張量分析.md": {"zh": ["张量分析", "张量"], "en": ["Tensor (mathematics)", "Tensor calculus", "Ricci calculus"]},
+  "黑洞影像.md": {"zh": ["黑洞影像", "黑洞"], "en": ["Event Horizon Telescope"]},
+  "時空曲率.md": {"zh": ["广义相对论", "时空曲率"], "en": ["Curved spacetime", "Spacetime"]},
+  "數學工具.md": {"zh": ["黎曼几何", "张量", "闵可夫斯基时空"], "en": ["Riemannian geometry", "Tensor calculus", "Minkowski spacetime"]}
+}
