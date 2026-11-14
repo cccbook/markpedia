@@ -1,0 +1,23 @@
+{
+  "相對論.md": {"zh": ["相對論"], "en": ["Special relativity", "General relativity"]},
+  "狹義相對論.md": {"zh": ["狹義相對論", "特殊相對論"], "en": ["Special relativity"]},
+  "廣義相對論.md": {"zh": ["廣義相對論"], "en": ["General relativity"]},
+  "數學工具.md": {"zh": ["黎曼幾何", "張量分析", "閔可夫斯基時空"], "en": ["Riemannian geometry", "Tensor calculus", "Minkowski space"]},
+  "實驗驗證.md": {"zh": ["邁克耳孫－莫雷實驗", "邁克爾森－莫雷實驗"], "en": ["Michelson–Morley experiment", "Gravitational redshift", "Black hole imaging"]},
+  "應用.md": {"zh": ["全球定位系統", "核能", "GPS"], "en": ["Global Positioning System", "Nuclear power", "Satellite navigation"]},
+  "時空曲率.md": {"zh": ["時空曲率", "广义相对论"], "en": ["Spacetime curvature"]},
+  "等效原理.md": {"zh": ["等效原理"], "en": ["Equivalence principle"]},
+  "重力場.md": {"zh": ["重力场", "引力场"], "en": ["Gravitational field"]},
+  "黑洞影像.md": {"zh": ["黑洞影像", "黑洞"], "en": ["Event Horizon Telescope", "Black hole image"]},
+  "重力紅移.md": {"zh": ["重力红移", "引力红移"], "en": ["Gravitational redshift"]},
+  "GPS校正.md": {"zh": ["GPS", "全球定位系统"], "en": ["GPS", "Relativistic corrections to GPS"]},
+  "核能.md": {"zh": ["核能"], "en": ["Nuclear power"]},
+  "全球定位.md": {"zh": ["卫星导航系统", "全球定位系统"], "en": ["Satellite navigation"]},
+  "光速不變.md": {"zh": ["光速不变原理", "光速"], "en": ["Constancy of the speed of light"]},
+  "時間膨脹.md": {"zh": ["时间膨胀", "时间膨胀效应"], "en": ["Time dilation"]},
+  "長度收縮.md": {"zh": ["长度收缩", "洛伦兹因子"], "en": ["Length contraction"]},
+  "閔可夫斯基時空.md": {"zh": ["閔可夫斯基空間", "閔可夫斯基时空间"], "en": ["Minkowski space"]},
+  "張量分析.md": {"zh": ["张量分析", "张量"], "en": ["Tensor calculus"]},
+  "黎曼幾何.md": {"zh": ["黎曼几何"], "en": ["Riemannian geometry"]},
+  "邁克耳孫－莫雷實驗.md": {"zh": ["邁克耳孫－莫雷實驗", "邁克爾森－莫雷實驗"], "en": ["Michelson–Morley experiment"]}
+}
