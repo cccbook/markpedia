@@ -1,0 +1,1 @@
+<shell timeout>30">python3 -c "from pathlib import Path; p=Path('site/GIS/GIS軟體.md'); s=p.read_text(); s=s.replace('https://en.wikipedia.org/wiki/List_of_GIS_software','https://en.wikipedia.org/wiki/List%20of%20GIS%20software'); p.write_text(s)"</shell>

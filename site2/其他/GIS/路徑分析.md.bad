@@ -1,0 +1,5 @@
+<search pattern>minimax]<]minimax[>[</pattern> path="site/GIS" glob="路徑分析.md"/>
+<search pattern>[A-Za-z]{2,}<]minimax[>[</pattern> path="site/GIS" glob="路徑分析.md"/>
+<search pattern>TODO|待撰寫|待補|結果如下：]<]minimax[>[</pattern> path="site/GIS" glob="路徑分析.md"/>
+
+]<]minimax[>[</content>

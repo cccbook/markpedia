@@ -1,0 +1,12 @@
+<shell timeout>30">python3 - <<'PY'
+import json, urllib.parse, urllib.request
+for lang, title in [('zh','鄰近分析'),('en','Proximity analysis')]:
+    url=f'https://{lang}.wikipedia.org/w/api.php?action=query&format=json&redirects=1&titles='+urllib.parse.quote(title)
+    try:
+        with urllib.request.urlopen(url, timeout=15) as r:
+            d=json.load(r)
+        print(lang, json.dumps(d, ensure_ascii=False))
+    except Exception as e:
+        print(lang, 'ERROR', repr(e))
+PY</shell>]<]minimax[>[</invoke>
+]<]minimax[>[</tool_call>

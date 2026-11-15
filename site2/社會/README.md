@@ -129,7 +129,7 @@ tags:
 
 ## 連結定義
 
-[世界史]: 世界史/README.md
+[世界史]: ../歷史/世界史/README.md
 [世界文學]: 世界文學/README.md
 [世界遺產]: 世界遺產/README.md
 [人力資源]: 人力資源/README.md
@@ -152,12 +152,12 @@ tags:
 [創世神話]: 創世神話/README.md
 [博物館學]: 博物館學/README.md
 [印度教]: 印度教/README.md
-[古代史]: 古代史/README.md
+[古代史]: ../歷史/古代史/README.md
 [名勝古蹟]: 名勝古蹟/README.md
 [品牌行銷]: 品牌行銷/README.md
 [哲學]: 哲學/README.md
 [商事法]: 商事法/README.md
-[國別史]: 國別史/README.md
+[國別史]: ../歷史/國別史/README.md
 [國家]: 國家/README.md
 [國防]: 國防/README.md
 [國際公法]: 國際公法/README.md
@@ -180,16 +180,16 @@ tags:
 [建築流派]: 建築流派/README.md
 [心理學]: 心理學/README.md
 [憲法]: 憲法/README.md
-[戰爭史]: 戰爭史/README.md
+[戰爭史]: ../歷史/戰爭史/README.md
 [戲劇文學]: 戲劇文學/README.md
-[政治革命]: 政治革命/README.md
+[政治革命]: ../歷史/政治革命/README.md
 [政體]: 政體/README.md
 [教學法]: 教學法/README.md
 [教育哲學]: 教育哲學/README.md
 [文字]: 文字/README.md
-[文明興衰]: 文明興衰/README.md
+[文明興衰]: ../歷史/文明興衰/README.md
 [文獻保存]: 文獻保存/README.md
-[文藝復興]: 文藝復興/README.md
+[文藝復興]: ../歷史/文藝復興/README.md
 [新聞學]: 新聞學/README.md
 [時尚品牌]: 時尚品牌/README.md
 [時尚產業]: 時尚產業/README.md
@@ -198,8 +198,8 @@ tags:
 [服裝史]: 服裝史/README.md
 [東方哲學]: 東方哲學/README.md
 [檔案學]: 檔案學/README.md
-[歷史]: 歷史/README.md
-[歷史災難]: 歷史災難/README.md
+[歷史]: ../歷史/歷史/README.md
+[歷史災難]: ../歷史/歷史災難/README.md
 [民俗學]: 民俗學/README.md
 [民族誌]: 民族誌/README.md
 [民法]: 民法/README.md
@@ -232,7 +232,7 @@ tags:
 [貨幣]: 貨幣/README.md
 [跨國企業]: 跨國企業/README.md
 [軍事戰略]: 軍事戰略/README.md
-[近代史]: 近代史/README.md
+[近代史]: ../歷史/近代史/README.md
 [選舉制度]: 選舉制度/README.md
 [醫療衛生政策]: 醫療衛生政策/README.md
 [金融監管]: 金融監管/README.md

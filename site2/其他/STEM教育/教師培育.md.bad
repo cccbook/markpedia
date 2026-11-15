@@ -1,0 +1,19 @@
+<shell timeout>120">wc -l site/STEM教育/教師培育.md && python3 - <<'PY'
+from pathlib import Path
+import re
+p=Path('site/STEM教育/教師培育.md')
+s=p.read_text()
+print('chars',len(s))
+# references excluding definitions and wiki line
+body, defs=s.split('## 連結定義',1)
+refs=set(re.findall(r'\[([^\]\n]+)\](?!\:)', body))
+# remove wiki labels
+refs={x for x in refs if not x.startswith(('中文維基百科：','English Wikipedia:'))}
+defset=set(re.findall(r'^\[([^\]]+)\]:',defs,re.M))
+print('refs',sorted(refs))
+print('defs',sorted(defset))
+print('missing defs',sorted(refs-defset))
+print('unused defs',sorted(defset-refs))
+print('simple inline md links',re.findall(r'\[[^\]]+\]\([^\)]+\)',body))
+PY</shell></invoke>
+</tool_call>

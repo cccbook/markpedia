@@ -1,0 +1,11 @@
+<shell timeout>120">python3 - <<'PY'
+from pathlib import Path
+p=Path('site/STEM教育/能力指標.md')
+s=p.read_text()
+print('lines', len(s.splitlines()))
+print('chars', len(s))
+for term in ['TODO','待撰寫','待補','Personality','transfer','學習过程中','获得','改进建议','课时']:
+    if term in s:
+        print('FOUND', term, [i+1 for i,l in enumerate(s.splitlines()) if term in l])
+PY</shell>
+</invoke>

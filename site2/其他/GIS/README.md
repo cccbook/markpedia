@@ -29,7 +29,7 @@ tags:
 [ArcGIS]: ArcGIS.md
 [QGIS]: QGIS.md
 [GRASS]: GRASS.md
-[資料取得]: 資料取得.md
+[資料取得]: ../../科技/資料科學/資料取得.md
 [測量]: 測量.md
 [遙測]: 遙測.md
 [群眾外包]: 群眾外包.md

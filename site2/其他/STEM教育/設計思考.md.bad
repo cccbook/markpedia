@@ -1,0 +1,12 @@
+<shell timeout>30">python3 - <<'PY'
+import urllib.parse, urllib.request, json
+for title in ['設計思考','设计思维']:
+    url='https://zh.wikipedia.org/w/api.php?action=query&format=json&titles='+urllib.parse.quote(title)
+    try:
+        with urllib.request.urlopen(url, timeout=15) as r:
+            data=json.load(r)
+        print(title, data['query']['pages'])
+    except Exception as e:
+        print(title, type(e).__name__, e)
+PY</shell>]<]minimax[>[</invoke>
+]<]minimax[>[</tool_call>

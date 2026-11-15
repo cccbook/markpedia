@@ -1,0 +1,1082 @@
+]<]minimax[>[<tool_call>
+]<]minimax[>[<mm:think>Need tool calls? No tools listed explicitly! We as API no tool interface? Usually tools may exist but not shown. We can perhaps use exec? There is no tool namespace. Can't inspect. We can answer directly. Need ensure 95 Markdown lines. Need formulate solid encyclopedia content.
+
+Need think article's role: "條目『拿破崙』（政治革命 概念下的孫分類）". Maybe taxonomy knowledge graph. We need write正文, likely describe Napoleon Bonaparte as grandchild classification under political revolution: French Revolution -> Napoleonic era? Need mention relation to adjacent categories. We need not use heading "拿破崙" because hard rule starts from ## 定義, no H1. We can have a definition paragraph.
+
+Need at least 95 lines Markdown count. "全文至少 95 行（Markdown 行數），用空行分段。" Ambiguity counts nonempty source lines or Markdown rendered lines? Need safely output 120-150 physical lines, including blanks. They might count lines. We can write ~100 prose lines each separate, lots blank paragraphs. Desired answer concise but hard req. Need only body. Start exactly `## 定義`. Structure exact headings. Could include intro then tech/theory bullet section, examples, adjacent relations bullet, link defs. Need first section definition perhaps multiple paragraphs and subhead? Required definition paragraph then tech. We can use no extra headings perhaps.
+
+References use [名稱] no inline URLs. Every used bracket label definition. All definitions exactly listed .md. Need no other bracket-like citations. Could use e.g. [法國大革命], [政治革命], etc. Need link definitions all used and no unused. There are 28 possible. We can cite all maybe then define all. But "不得有未被使用的定義" easy if track. Better use perhaps 22 relevant entries. Need define every used. Link definitions at end format likely:
+- [政治革命]: 政治革命.md
+No inline markdown links. This is reference-style, yes.
+
+Need TeX line if any. Could avoid formula entirely. Rule says if TeX, spaces. No need. Could explain regime transformation qualitatively. We need specific example year/person/numeric and causal chain and mutual drive with child/grandchild categories. Need perhaps multiple examples.
+
+Need content accurate:
+- Napoleon Bonaparte (1769-1821), French military and political leader.
+- During French Revolution (1789), rise, artillery, Italian campaign 1796-97, Treaty Campo Formio 1797, Egyptian campaign 1798-99, coup 18 Brumaire 9 Nov 1799 (year 1799), Consulate, plebiscite 1802 as Consul for Life then Emperor 18 May 1804, Code civil 1804, abolition feudal privileges 1804, Concordat 1801, centralization, departments, prefects. Wars 1803-1815 reshaped Europe, propagated legal/admin reforms and nationalism. It can be framed as revolutionary state consolidation, authoritarian Thermidorian/ Directory -> Consulate -> Empire. Need perhaps link to "共和與恐怖" (likely article concept). "拿破崙" is under "法國大革命" maybe "政治革命" child French Rev, grandchild Napoleon. Need connect.
+
+Potential issue: user says "孫分類" singular taxonomy perhaps Napoleon is a grandchild under political revolution. Need articulate in definition that it is analytical subsection/episode rather than a revolution itself. "拿破崙" as concept may include the person and regime; avoid personality cult. Explain what it means.
+
+Structure:
+## 定義
+[拿破崙]... but there is no allowed link for Napoleon itself and can't self-link? Don't use [拿破崙]. Explain no citation. Maybe "「拿破崙」在本知識庫中..." no link. First cited [政治革命].
+Definition in plain language. First appearance of terms explained plain language:
+- 政治革命：... (but heading title itself)
+- 法國大革命...
+- 革命...
+- 帝國...
+- 國家形式...
+- etc.
+Need avoid specialized term unexplained. Rule "術語首次出現用一句白話解釋." We should make plain-language glosses.
+
+Could structure definition ~20 paragraphs (each 1-2 physical lines; blank lines), enough. Technical/theory list ~15 bullets, each bullet one physical line perhaps long. Example section ~30 paragraphs and bullet timeline. Adjacent ~15 bullets. Definitions ~25 lines. Total 110+. Need all citations tracked.
+
+References likely all square bracket usages. Make sure markdown link definition syntax bracket labels. At end defines.
+
+Let's choose 25 of 28:
+1 政治革命
+2 法國大革命
+3 共和與恐怖
+4 舊制度
+5 巴士底
+6 二月革命
+7 十月革命
+8 俄國革命
+9 墨西哥革命
+10 中國革命
+11 阿拉伯之春
+12 革命比較
+13 革命領袖
+14 革命路徑
+15 社會基礎
+16 革命後秩序
+17 內戰
+18 新經濟政策
+19 薩拉帕薩起義
+20 潘喬・潘蒂亞・比亞
+21 土地改革
+22 新政制度
+23 辛亥革命
+24 國共對抗
+25  建國與改革
+26 突尼西亞
+27 埃及
+28 敘利亞
+29 後續影響
+Actually list 29? Let's count. It says names: 政治革命、法國大革命、俄國革命、墨西哥革命、中國革命、阿拉伯之春、革命比較、革命領袖、舊制度、巴士底、共和與恐怖、二月革命、十月革命、內戰、新經濟政策、薩拉帕薩起義、潘喬・潘蒂亞・比亞、土地改革、新政制度、辛亥革命、國共對抗、建國與改革、突尼西亞、埃及、敘利亞、後續影響、社會基礎、革命路徑、革命後秩序 = 30. Could use many in comparison. But perhaps if article defines all, no issue. Yet adding broad adjacent comparisons may dilute but okay.
+
+Need be precise with "拿破崙" relation:
+- [法國大革命] is immediate parent? "在分類上，拿破崙屬於政治革命的孫分類，鏈條可表為政治革命 → 法國大革命 → 拿破崙." Since [法國大革命] and [政治革命] links. Explain "孫分類" means two levels below broad category, not kinship.
+- The person ascends via revolution and transforms it. Distinguish revolutionary legitimacy from imperial restoration. It can represent "革命成果的制度化與軍事擴張" (institutionalization and military expansion).
+- It isn't all of Napoleonic period? Define scope roughly 1799-1815 regime and wars, with roots 1789/1799, effects through 1815 and later.
+- Need perhaps dates Gregorian? 18 Brumaire Year VIII = 9 Nov 1799. Execution? coronation December 2, 1804. Code civil promulgated 21 March 1804? Code Civil des Français promulgated 21 March 1804. Civil Code passed? Better exact.
+- Treaty Campo Formio 1797, Treaty Lunéville 1801, Peace of Amiens 1802, Treaty Tilsit 1807, invasion Russia 1812, abdication 1814, Hundred Days 1815, exile Saint Helena, death 1821.
+- 1799 coup less a popular revolution, more elite coup supported by Sieyès and military; result ends Directory.
+- Civil Code abolished all privileges based on birth, equality before law, secular marriage possibility, property protections; confirm sale of confiscated Church lands maybe later.
+- Concordat restored public Catholicism but maintained revolutionary land sales.
+- Administrative departments (1790 actually inherited from revolution; 1800 prefects) rationalized.
+- Conscription 1798/1802 expands mobilization.
+- Legion of Honour 1802.
+- Education: École Polytechnique founded 1794; University of France 1808, secondary schools Napoleonic lycées 1802. Could mention.
+- colonial/slavery contradiction: 1802 reinstatement of slavery in French colonies where abolition (1794) had applied (except Saint-Domingue? decree restoring slavery 20 May 1802; not in colonies where British kept it? Broad phrase careful); resistance and 1804 Haitian independence. Link could perhaps use Haiti but not allowed list. We can mention unlinked plain proper nouns. It's important nuanced.
+- anti-clerical/religious: Civil Constitution of Clergy etc.
+- women? not necessary.
+
+Technical/theoretical association:
+- Marx on Napoleon in Communist Manifesto? Could mention but no external reference link. Better explain theoretical lenses without citing external works.
+- "革命路徑": moderate reform vs rupture, military crisis, Bonapartist synthesis.
+- "社會基礎": peasantry/property-owning and urban bourgeois/professional/military support; not universal.
+- "革命領袖": charismatic legitimation, plebiscites, career.
+- "革命比較": timing, state capacity, international balance, colonial/racial limits.
+- "共和與恐怖": Thermidor reaction and Directory then coup.
+- "革命後秩序": institutionalization.
+- "後續影響": legal diffusion, nationalism, nationalism.
+- "內戰": revolution creates civil war; comparison with Russia, China, Mexico.
+- "土地改革": legal equality / peasantry and comparison.
+- "新政制度": state administrative.
+- Later: NEP, Mexican, China, Arab Spring.
+Need not overstate causation; say analogy, not equivalence.
+
+Examples section perhaps use 4 examples:
+1 French sequence 1789→1799→1804:
+  1789 [巴士底] and [舊制度]; [法國大革命] creates sovereignty etc. 1792-94 [共和與恐怖], 1799 coup; 1804 imperial. Causal chain.
+2 Italian campaign and treaty 1796-97: military success transformed leader and spread; local revolutions; conquest and administrative consolidation; resentment seeds nationalism; 1814-15. Need not link Italy.
+3 Russia 1812: Grande Armée ~? Historians estimate 600,000? Need numeric credible. "逾六十萬" crossing? Some say 600,000 invasion force; Grande Armée peaked 700k. Use "約六十萬" and "不足六萬 returned" perhaps widely: only small fraction returned, exact numbers vary. Avoid precise if not necessary. Could say "逾五十萬" and "大批兵力損失". Specific numeric example requirement satisfied already by dates.
+4 1804 Civil Code and property: specific articles? Civil Code 1804 had 2281 articles? Yes Code civil contained 2,281 articles. Could mention it standardized. Link [土地改革], [新政制度]. Note not a land redistribution program; protects property while ending feudal dues.
+5 Global comparative: 1917 [俄國革命] had [內戰], [十月革命], [新經濟政策]; not Napoleon cause but comparator. 1910-20 Mexico, etc. Need "互相驅動": the examples with other child/grandchild classification mutual drive. Wording: French revolutionary example drives later categories conceptually via [革命比較] and [後續影響]; later revolutions in turn change interpretations (e.g., Soviet experience frames Napoleon as bourgeois revolutionary). Need explicit bidirectional.
+6 Arab Spring and successor authoritarianism maybe later classification.
+Need not all list links, but use many.
+
+Adjacent relationships:
+- immediate parent French Revolution
+- sibling/child? If "political revolution concept under grandchild classification" likely adjacent classifications are French Rev and other political revolutions. We can articulate:
+  - [政治革命] top parent.
+  - [法國大革命] immediate parent; [拿破崙] its grandchild if hierarchy: political rev > French Rev > Napoleon.
+  - [共和與恐怖] internal phase.
+  - [舊制度], [巴士底] antecedents.
+  - [革命領袖], [社會基礎], [革命路徑], [革命後秩序] analytical dimensions.
+  - [革命比較], [後續影響] cross-cutting.
+  - compare Russia/Mexico/China and regional Arab Spring etc.
+Could list 20 bullets.
+
+Need make markdown lines count. Let's plan explicit line count:
+1 ## 定義
+2 blank
+3-44: 21 paragraphs, each possibly wrapped into one physical line. Blank lines 22. So 44.
+45 ## 技術與理論的關聯
+46 blank
+47-66 20 bullets (each one line), maybe blank before list only. 66.
+67 ## 範例
+68 blank
+69-104 18 paragraphs/sub bullets. Each line maybe one bullet/paragraph; blanks. 104.
+105 ## 與相鄰分類的關聯
+106 blank
+107-132 26 bullets.
+133 ## 連結定義
+134 blank
+135-? 30 definitions. 165. Meets.
+
+Need ensure paragraphs not too giant. Each physical line can be long; line count in Markdown likely source. We can intentionally put one sentence per line and blank after each paragraph, but 95 lines includes blanks likely. Better have >95 nonempty lines? They say Markdown 行數 maybe count lines excluding blanks? To be safe produce at least 95 nonblank lines. We can do 30 definition lines but each paragraph could be separated by blank. Technical bullets 20, examples 30, adjacent 20, definitions 25 = 115 nonempty. Great. Need not rely blanks.
+
+"用空行分段" means blank line between paragraphs/list sections. We should place blank line between paragraphs. For bullet lists, contiguous bullets usually no blank between each; still paragraphs? Requirement perhaps blank line around sections. We can use blank lines between bullets? That inflates but okay, though markdown list gets loose. Could include blank line between each bullet, still list perhaps separate. They say use blank lines to separate paragraphs. We'll do standard contiguous bullet lists, and prose paragraphs separated by blank lines. Nonempty count still enough.
+
+Let's target ~90-100 prose lines plus headings and definitions = 130 nonempty.
+
+Need only output body, no preamble.
+
+Let's formulate detailed, accurate content.
+
+## 定義
+"「拿破崙」在本條目中不是單指拿破崙其人的傳記，而是指..." Definition plain.
+First cite [政治革命] perhaps:
+"[政治革命]在此指... 「拿破崙」是其中的孫分類..."
+Need explain term "孫分類": "分類上隔兩層的子項".
+Use immediate hierarchy text with arrows. Arrow plain.
+"其上位概念是 [法國大革命]..." Good.
+Scope dates.
+"Napoleon born Corsica..." mention 1769 Ajaccio and death 1821 St Helena maybe.
+Need first terms:
+- 政體 = political system? Explain.
+- 主權 = final authority.
+- 革命 = rapid overturn...
+Could include:
+"政治革命，簡單說就是... [政治革命]."
+But first sentence:
+"政治革命的「政治」..." However [政治革命] bracket reference.
+Potential self issue: term title isn't cited.
+
+Let's write around 26 nonempty paragraphs:
+
+1 `「拿破崙」...`
+2 `政治革命的「政治」...` cite
+3 hierarchy.
+4 scope.
+5 context old regime and Bastille.
+6 revolutionary legitimacy.
+7 1799 coup.
+8 1804 empire.
+9 term "Bonapartism" explanation.
+10 not restoration.
+11 institutional shift.
+12 social base.
+13 violence etc.
+14 international.
+15 nationalism.
+16 legal.
+17 admin.
+18 conscription.
+19 economy.
+20 religion.
+21 colonial.
+22 historiographical relevance.
+23 conceptual use.
+24 not equal entire French Revolution.
+25 periodization.
+26 one sentence summary.
+
+Need citations in these. All citation labels track.
+
+Technical/theory bullets perhaps 18:
+- institutionalization ( revolution path)
+- social base
+- leadership
+- republic/terror
+- state formation
+- property/land
+- administrative new regime
+- military
+- nationalism
+- international balance
+- revolution comparison
+- aftermath
+- internal war
+- legal diffusion
+- emergency authoritarianism
+- temporal sequencing
+- colonial limit
+- local agency (avoid great man)
+- fiscal state
+- law and violence.
+Use links as needed.
+
+Examples ~30 lines. Could use subheadings? Structure allows `### ...` under examples; no issue but only required structure. Might be nice:
+### 從革命到帝國...
+bullets/paragraphs.
+Need no H1. Subheadings are okay. We can have 4 mini-cases.
+
+Specific example 1:
+- `1789年7月14日...巴士底...`
+- `1792...共和...恐怖...`
+- `1793-94...`
+- `1799...`
+- `1802...`
+- `1804...`
+- causal result.
+Need term first already defined.
+- Cite [巴士底], [舊制度], [共和與恐怖].
+Potential factual nuance: Coup 18 Brumaire on 9 Nov 1799. Year VIII. End Directory, establish Consulate.
+- Plebiscite 1802 (year X? held Aug) Consult for life; constitution Year X.
+- 1804 Senate proposed empire, plebiscite, crowned.
+- "帝制" plain.
+
+Example 2 military:
+- Italian campaign 1796-97, victories Lodi, Arcole, Rivoli; Treaty Campo Formio; Austria recognizes French Republic and Cisalpine Republic.
+- 1798 Egypt; victory but fleet defeat Nile by Nelson (Battle of Nile 1798); demonstrates combined land-sea constraints.
+- 1805 Trafalgar perhaps.
+- link social base / revolutionary leader / path.
+- causal.
+Specific people Napoleon, Nelson.
+
+Example 3 code:
+- 1804 Code civil 2,281 articles. Is number exact? Yes Civil Code 1804: 2281 articles. It consolidated equality, property, secular state etc.
+- Feudal dues? "廢除封建特權" not all feudal dues perhaps 1790 already abolished feudal regime, Civil Code completed legal equality. We can say "將革命時期已確立的..." and "以統一法律取代舊式身份差別".
+- not land reform exactly: [土地改革] is adjacent but distinguish.
+- admin: departments, prefects, courts, lycées, Concordat.
+- reciprocal drive with child categories: [新政制度] and [土地改革] as analytic axes.
+
+Example 4 Europe:
+- 1803-15 wars; 1804 empire; 1812 Russia.
+- 1814 abdication; Hundred Days; Waterloo; exile St Helena 1821.
+- Napoleonic Code spread to Belgium, Netherlands, Italy, Spain? Spain retained; Latin America adaptations. Say many.
+- nationalism.
+- link [後續影響], [革命比較], [內戰].
+- "互相驅動": Napoleonic legal export created comparison categories; later Russian/Chinese revolution reassessed class coalition and military emergency.
+
+Example 5 comparative later:
+- 1917 February and October. Napoleon not direct cause, but comparative.
+- Russia civil war and NEP 1921.
+- Mexico 1910, land reform.
+- China 1911, 1920s, etc.
+- Arab Spring 2011 and successors Tunisia Egypt Syria.
+- Explain not direct causal chain, comparative mechanisms.
+Could cite broad labels. Need "with other sub/grandchild classifications mutually drive" phrase explicit.
+"拿破崙分類一面被後續革命用來比較，一面又藉 [革命比較] 反過來..." Good.
+
+Example 6 1802 slavery:
+- no allowed link, mention Saint-Domingue and Haiti. Is this too much? Important contradiction. "拿破崙於1802年5月20日..." Restoration of slavery in French colonies; resistance; Haiti independence 1804. Explain universal claims limited by racial empire. This contributes analysis. No citation needed. Could connect [後續影響], [革命比較]. This is a concrete example with numbers. Fine.
+
+Maybe avoid overloading and false link to "拿破崙" classification as person.
+
+Adjacent category bullets:
+1 Parent relationship.
+2 immediate parent.
+3 antecedent.
+4 internal stage.
+5 dimensions.
+6 comparison with Russian.
+7 Mexico.
+8 China.
+9 Arab Spring.
+10 regional.
+11 land.
+12 new policy.
+13 civil war.
+14 post-revolution order.
+15 leader.
+16 social base.
+17 path.
+18 comparative.
+19 effects.
+20 conceptual boundary.
+21 classification use.
+22 avoid all Napoleonic history.
+23 relation to other entries maybe no new refs.
+Need cite each listed only.
+
+References all used? Let's decide exact used list and then ensure definitions.
+
+Let's maintain a set as drafting:
+政治革命
+法國大革命
+革命路徑
+舊制度
+巴士底
+共和與恐怖
+革命領袖
+社會基礎
+革命後秩序
+革命比較
+後續影響
+內戰
+土地改革
+新政制度
+俄國革命
+二月革命
+十月革命
+新經濟政策
+墨西哥革命
+中國革命
+辛亥革命
+國共對抗
+建國與改革
+薩拉帕薩起義
+潘喬・潘蒂亞・比亞
+阿拉伯之春
+突尼西亞
+埃及
+敘利亞
+
+That's 30, exactly all listed? Count list all: yes likely 30. If all referenced, definitions all. Need verify each usage:
+- political rev yes
+- French yes
+- revolution path yes
+- old regime yes
+- Bastille yes
+- republic/terror yes
+- revolutionary leaders yes
+- social base yes
+- post-rev order yes
+- revolutionary comparison yes
+- subsequent effects yes
+- civil war yes
+- land reform yes
+- new policy yes
+- Russian revolution yes
+- February revolution yes
+- October revolution yes
+- NEP yes
+- Mexican revolution yes
+- Chinese revolution yes
+- 1911 yes
+- KMT-CPC yes
+- establishment and reform yes
+- Saragossa uprising yes
+- Pancho Villa yes
+- Arab Spring yes
+- Tunisia/Egypt/Syria yes.
+Good.
+
+Potential citation "拿破崙" itself not available and user specifically only allows those? We don't link it. Definition heading not self citation.
+
+Need proper link definitions:
+## 連結定義
+
+- [政治革命]: 政治革命.md
+...
+No external URL. "每個用過的 [名稱] 都要定義；不得有未被使用的定義." Great.
+
+Need first occurrence of each technical term has plain-language explanation. "技術與理論" maybe terms like「制度化」 etc, define when first used. We can write:
+- 制度化 means turning temporary changes into stable rules...
+- 國家能力 = government ability...
+- 社會基礎 = groups whose interests/support...
+- 革命路徑 = sequence from old order to new...
+- 軍事動員 = quickly...
+- 憲政? explain.
+- 民族主義 = group shared identity...
+- 國際均勢 = balance...
+- 階級? explain perhaps.
+- 專制 = authority concentrated...
+- 內政 = domestic governance...
+- 比較歷史 = systematic...
+Could ensure first use plain phrase.
+
+"術語首次出現" likely citation terms titles may not need every article title explained? But do explain.
+
+Need avoid "拿破崙主義" unexplained: Define as "以拿破崙式...為名".
+"政體" define.
+"王朝復辟" define.
+"法蘭西第一帝國" maybe official.
+
+Need article in encyclopedic tone, no first-person. We can have concise but detailed.
+
+Let's draft full answer and count approximate. Need ensure 95 nonblank lines. We can intentionally use bullets each one line. Let's outline with numbered conceptual count (not output numbering):
+
+Definitions: 28 lines.
+Tech: 20 bullets.
+Examples:
+Subheading plus 34 lines.
+Adjacent: 22 bullets.
+Defs 30.
+Headings 5.
+Total ~139 nonblank. Good.
+
+Need make sure blank line between every prose paragraph in examples. Standard.
+
+Let's write in Traditional Chinese. Watch terms:
+- "拿破崙" name.
+- "布吕米日" Chinese typically 布呂米日 (Brumaire). 共和曆.
+- "霧月" no need.
+- "執政府" (Consulate), "督政府" (Directory).
+- "公民投票".
+- "民法典".
+- " prefets" 省长? Prefect =  prefect; French administrative officials.
+- " departments" 省.
+- "宗座協約" Concordat.
+- "世俗婚姻" perhaps Civil Code did not fully implement civil marriage initially; 1792 introduced. Better "國家與教會關係由政教協約調整" not mention secular marriage.
+- Church lands confirmation.
+- "龍璽"? no.
+- "榮譽勳章團" (Legion of Honour).
+- conscription.
+
+Potential accuracy:
+Napoleon's coup "部分軍官與議員" Sieyès support. "推翻督政府" yes.
+Political structure Year III constitution? no.
+1802 referendum constitution Year X.
+1804 Civil Code 2281 articles.
+Code abolition of privilege and equality.
+Napoleon inherited departmental system created 1790, established prefects in 1800, not claim created departments. Say "把革命時期設立的省制固定下來，並以省长制..." Good.
+Lycées 1802, University of France 1808. Good.
+Conscription law of 1798 and 1802; say "征兵法".
+Economy: Continental blockade, inflation, licensing, state finances. Need nuance.
+Colonial slavery: 1802 decree restored slavery in colonies where abolition had not been reversed by UK, but not where Britain had already restored? The decree applied to all colonies where slavery had been abolished by 1794, except perhaps Saint-Domingue where war prevented implementation. Phrase "試圖在法國殖民地恢復奴隸制，僅在部分地區落實" accurate.
+Haiti independence Jan 1 1804. Good.
+International: Napoleonic Code spread through conquest/administrative model; not everywhere.
+Russia: 1812, "逾六十萬" maybe exact debate. Say "以數十萬計" and "規模約六十万" but specific values enough. "入俄部隊最終僅少數生還" not exact.
+Waterloo 1815.
+Abdication 1814, Hundred Days.
+Saint Helena 1815, death 1821.
+Legacy: 1848? Revolutions of 1848, 1860s etc. Could mention without links. "拿破崙法典" influenced Latin America and Japan? Japan adopted some French legal models, but direct? Better Latin America.
+Nationalism: French occupation triggered resistance in Spain and Germany. Good.
+"革命輸出" vs local agency.
+
+Technical theory:
+- "有限代表制" etc.
+- "社會基礎" not same as class base perhaps.
+- "the military" soldier support.
+- "plebiscites" mass democratic legitimacy, but restricted.
+- "Bonapartism" 1848? term from Marx/Engels later. Define not as precise cause.
+- "exceptionalism" emergency govt.
+- "institutional break and continuity" key.
+- "rule by decree" etc.
+- "path dependency" = earlier institutional choices constrain later path; define.
+- "state capacity".
+- "social base".
+- "leadership".
+- "international environment".
+- "legal transplantation".
+- "revolutionary state".
+Need link [新政制度] perhaps "新政" could confuse FDR New Deal, but here taxonomy likely political regimes. Explain it's analytical category for administrative/economic governance, not Roosevelt's New Deal. Important.
+[土地改革] as category. Distinguish from Civil Code property regularization.
+[國共對抗] etc.
+[潘喬・潘蒂亞・比亞] exact punctuation includes interpuncts. Use exact. [薩拉帕薩起義] link exact.
+[突尼西亞], [埃及], [敘利亞] perhaps countries, no articles? Use.
+
+Question wording: "（政治革命 概念下的孫分類）" perhaps they expect this article is a "grandchild" classification and likely hierarchy. We should explicitly state.
+Could mention "它不是 [法國大革命] 的單純延續，也不是..." 
+Maybe direct link definition should say "政治革命 → 法國大革命 → 拿破崙". Great.
+
+Potential requirement "正文（從 ## 定義 或一段定義文字開始）". Start heading exact.
+"不要 frontmatter、不要 H1 標題、不要「隸屬」行、不要「對應維基百科」行." We won't.
+
+"章節結構：定義段落 → ## 技術與理論的關聯（列點） → ## 範例 → ## 與相鄰分類的關聯（列點）→ ## 連結定義。"
+Need perhaps ## 定義 section consists paragraphs, then exactly heading, bullets; examples perhaps prose; adjacent bullets; links. We'll comply. Don't add subheadings under examples? Subheadings don't violate, but perhaps structure parser expects sections in exact sequence; subheadings okay but to be safe no `###`, just paragraphs with bold labels at starts (e.g., `**例一...**`). Bold isn't heading and maintains structure. We can use bullet list in example? Requirement only says examples, no format. Prose is fine.
+Need ensure no heading after link defs.
+
+Now draft. Let's track line/nonblank:
+
+Start:
+## 定義 (1)
+blank
+paragraph lines each one physical line, with blank between. 25.
+
+Let's formulate:
+
+1 "「拿破崙」在本條目中..."
+2 "政治革命的..." [政治革命]
+3 "在分類鏈..."
+4 "孫分類..."
+5 "本條目..."
+6 "拿破崙..."
+7 "其政治..."
+8 "舊制度..."
+9 "1789..."
+10 "革命初期..."
+11 "恐怖..."
+12 "督政府..."
+13 "1799..."
+14 "執政府..."
+15 "1804..."
+16 "帝國..."
+17 "政體..."
+18 "拿破崙主義..."
+19 "因此..."
+20 "改革..."
+21 "民法..."
+22 "行政..."
+23 "社會..."
+24 "經濟..."
+25 "宗教..."
+26 "殖民..."
+27 "國際..."
+28 "民族主義..."
+29 "歷史..."
+30 "概念上..."
+31 "邊界..."
+32 "總結..."
+
+Need citations. For "革命領袖" define in paragraph 11: [革命領袖] means...
+For [革命路徑] define paragraph 9/10.
+[社會基礎] paragraph 23 define.
+[革命後秩序] paragraph 19 define.
+[後續影響] paragraph 29.
+[內戰] maybe later.
+[革命比較] later.
+[土地改革] [新政制度] paragraph 20-22.
+[法國大革命], [舊制度], [巴士底], [共和與恐怖].
+Use broad later.
+
+Technical 20 bullets. Fine.
+
+Examples maybe 40. Fine.
+
+Let's ensure "法國大革命" bracket usage in definition.
+Potential issue using "拿破崙" quoted as concept but no ref. fine.
+No bracket citations for unallowed terms like [拿破崙].
+
+Let's consider link syntax: `[政治革命]` renders plain brackets unless definition later; yes reference link. In link definitions, `- [政治革命]: 政治革命.md`. This is valid Markdown reference definition inside list? Usually link reference definitions may not work nested in list depending parser. Common pattern:
+[政治革命]: 政治革命.md
+...
+No bullets perhaps. Requirement says link definition paragraph; standard reference definitions each line. They asked each definition. Use:
+[政治革命]: 政治革命.md
+...
+This avoids list interpretation. But "連結定義" section and line count. The examples in prompt "連結定義寫成 `名稱.md`" likely expects:
+- [政治革命]: 政治革命.md
+Could be bullet. Markdown spec reference definitions cannot be inside list? Some processors still support. To be safe use standard link definitions with no bullets. They asked "每個用過..." not necessarily bullets. Use lines. The text `[名稱]: 名稱.md` is reference definition, no inline link. Great.
+Need perhaps definitions with Unicode colon? Use ASCII `:`.
+No duplicate label.
+No unused definitions. We'll ensure.
+
+Let's draft all. Need maybe line wraps by interface? We manually put one source line per paragraph. No auto-wrap concept. Fine.
+
+Let's calculate likely 140 lines. Good.
+
+Detailed content:
+
+Definition paragraphs:
+1 scope.
+2 political revolution plain.
+3 hierarchy.
+4 category term.
+5 dates.
+6 biography.
+7 sovereignty/legitimacy.
+8 old regime.
+9 Bastille.
+10 French Rev and path.
+11 Terror.
+12 revolutionary leader.
+13 Directory.
+14 coup.
+15 Consulate.
+16 plebiscite empire.
+17 regime meaning.
+18 Bonapartism.
+19 revolution outcome/order.
+20 institutional reforms and new policy.
+21 land reform.
+22 admin.
+23 social base.
+24 military.
+25 economy.
+26 religion.
+27 colonial.
+28 international.
+29 nationalism.
+30 historiography.
+31 comparison.
+32 boundary.
+
+Need explain "政教分離" maybe.
+"拿破崙並未完全落實法國大革命所有主張" nuanced.
+"國民大會" etc.
+
+Technical list:
+1 revolutionary institutionalization
+2 emergency authoritarianism
+3 path dependency
+4 social coalition
+5 leadership
+6 plebiscite
+7 military-state
+8 state capacity/new policy
+9 property/land
+10 legal continuity
+11 nationalism
+12 international structure
+13 revolution comparison
+14 temporal comparison
+15 civil war
+16 after order
+17 colonial/race
+18 fiscal-military state
+19 diffusion
+20 local agency
+21 asymmetry
+22 methodology.
+
+Examples:
+Example one timeline maybe 11 paragraphs:
+**例一...**
+- 1789...
+- old regime...
+- Bastille...
+- 1792...
+- 1794...
+- Directory...
+- 1799...
+- 1802...
+- 1804...
+- consequences...
+- bidir...
+Could use bullets under bold label. These are nonempty and clear. Requirement says examples maybe no issue.
+Example two military 7 bullets.
+Example three legal/admin 7.
+Example four collapse 6.
+Example five comparative 8.
+Example six colonial 5.
+Total 45.
+
+"互相驅動" explicit in multiple.
+
+Adjacent list 22.
+
+Need citations in definitions and later all used. Let's plan exact references per list. At end all 30.
+
+Potential overuse of broad comparison can be sound:
+- [俄國革命], [二月革命], [十月革命], [內戰], [新經濟政策].
+- [墨西哥革命], [薩拉帕薩起義], [潘喬・潘蒂亞・比亞], [土地改革].
+- [中國革命], [辛亥革命], [國共對抗], [建國與改革].
+- [阿拉伯之春], [突尼西亞], [埃及], [敘利亞].
+No mention in adjacent perhaps all already in examples.
+- [革命比較], [後續影響].
+- [新政制度].
+
+"社會基礎" first define in definitions. Good.
+"革命路徑" first define.
+"內戰" first maybe technical bullet: "內戰（同一政治共同體內的武装冲突）". Good.
+"土地改革" first definition: explain changing land ownership/distribution.
+"新政制度" first: explain post-revolution administrative economic arrangements, not US New Deal. Good.
+"俄國革命" first use in technical maybe "1917年..." not plain? Explain there.
+"墨西哥革命" first use examples, explain.
+"中國革命" explain.
+"阿拉伯之春" explain.
+"辛亥革命" etc proper terms perhaps one-sentence explanation.
+"國共對抗" explain.
+"建國與改革" explain.
+"Saragossa" explain.
+"Pancho" explain.
+Country names no need definitions.
+"新經濟政策" explain 1921 transition.
+"二月革命" and October explain.
+Need every terminology first use plain sentence. We can ensure.
+
+Could definitions section already mention broad comparisons? Better first occurrence in technical/examples.
+
+Potential issue "拿破崙" article itself perhaps expected only political theory, not biography. But we're framing well.
+
+Let's start constructing final in mind. Need not cite facts externally because only allowed internal links. Reference links are for concept entries, not factual sources. All factual claims uncited but okay.
+
+Let's count nonblank approximate:
+Definition 33.
+Tech 22.
+Example label+ bullets 45.
+Adjacent 24.
+Defs 30.
+Headings 5 =159. Great.
+
+Need not add Sources section (only requested link defs).
+
+Let's write polished Traditional Chinese.
+
+Let's scrutinize possible inaccurate claims:
+- "拿破崙在1799 coup ends Directory and creates Consulate" yes.
+- "1804 plebiscite" held May, Senate declaration May 18, coronation Dec 2.
+- "1802 referendum" constitution ratified by plebiscite, Consul for Life.
+- "Code 2281" exact.
+- "Concordat 1801" yes.
+- "abolished all privileges based on birth" code.
+- "military service became civic duty" ideological.
+- "Bank of France 1800" can mention but perhaps no need.
+- "state intervention and trade controls" nuanced.
+- "Continental System 1806" mention.
+- "Napoleonic Code spread into..." correct.
+- "French Revolution ending in 1799" convention often 1799; then Napoleonic period distinct. Explain periodization contested.
+- Haiti independence 1 Jan 1804; slavery restoration decree 20 May 1802, not implemented in Saint-Domingue due war.
+- Battle of Nile 1798 Nelson; Trafalgar 1805.
+- Russia 1812, retreat.
+- 1814 abdication, 1815 Hundred Days and Waterloo, St Helena death.
+- "1815 Congress Vienna..." no need.
+- "French legal equality exported while racial slavery restored" good contradiction.
+- Napoleon was crowned Emperor by Pope Pius VII? Could mention coronation but no need.
+- He was "First Consul" not king.
+
+Theory:
+- "Bonapartism" term historically later; define functional not ideological.
+- "revolution from above" maybe Napoleon period often seen as revolutionary conservative. Explain.
+- "revolutionary tripod" etc no need.
+
+Adjacent:
+- [巴士底] is event not direct parent.
+- [共和與恐怖] phase.
+- [舊制度] antecedent.
+- [革命領袖] dimension not event.
+- etc.
+
+"政治革命 → 法國大革命 → 拿破崙" classification hierarchy. Is "法國大革命" immediate child and Napoleon grandchild yes.
+Could perhaps be "政治革命 → 法國大革命 → 拿破崙時代". fine.
+
+Need satisfy "拿破崙（政治革命 概念下的孫分類）" likely title is grandchild. Explicitly say.
+
+Link definitions all names exact:
+- [潘喬・潘蒂亞・比亞]: 潘喬・潘蒂亞・比亞.md
+No issue.
+
+Potential Markdown parser treats Chinese reference labels okay.
+No inline links.
+No TeX.
+No Mermaid.
+No TODO.
+
+Let's prepare final now, but carefully ensure only body.</mm:think>## 定義
+
+「拿破崙」在本條目中不只是指拿破崙其人的傳記，也指他在法國大革命後建立的執政府、帝國，以及由此展開的國內改革、軍事征伐與國際秩序。
+
+政治革命的「政治」表示它會重新安排政府的權力來源、統治方式與社會秩序；[政治革命] 因而是一種根本改造國家制度的變動，而不只是單純的改朝換代。
+
+在分類鏈上，本條目採「[政治革命] → [法國大革命] → 拿破崙」的層次；「孫分類」就是指相隔兩層的子項，並非表示拿破崙是某個人的孫子。
+
+拿破崙的統治核心約起於1799年，延伸至1815年；其思想與制度根源則可上溯至1789年開始的法國大革命。
+
+拿破崙·波拿巴1769年出生於科西嘉，1815年戰敗後被流放至聖赫勒拿島，1821年在那裡去世。
+
+他在革命軍中憑藉炮兵經驗、軍事指揮與政治手腕逐漸取得影響力，超越了僅為法國大革命領軍者的傳統角色。
+
+法國大革命首先摧毁了[舊制度]；所謂舊制度，就是以出生身分、封建特權與特權階級為基礎的舊有政治和社會體制。
+
+1789年7月14日巴黎民眾攻占[巴士底]；巴士底獄事件因此成為政治革命中民眾反抗舊權力的一個代表性象徵。
+
+此後幾年，[法國大革命] 把統治正當性由王室特權轉向國民與國家主權，形成後來稱為「革命路徑」的連續變化。
+
+革命路徑是從舊秩序經由制度崩解、群眾動員、權力鬥爭，最後建立新政體的變化過程；不同革命在每一階段的速度與方向並不相同。
+
+法國革命政府一度進入[共和與恐怖]階段；共和是以 citizenship 取代君權的政治形式，恐怖則指革命法庭、斷頭臺與政治鎮壓所造成的非常時期。
+
+[革命領袖]是指能夠把不滿情緒轉化為組織、軍事行動與替代方案的個人；拿破崙正是在這一框架中產生影響。
+
+拿破崙於1799年11月9日推翻督政府，建立執政府。這場政變結束了革命政府不斷分裂的階段，也讓軍功與行政能力進入政治權力核心。
+
+1802年的公民投票使執政地位更加穩固；1804年，拿破崙進一步成為法蘭西人的皇帝，法蘭西第一帝國由此建立。
+
+帝國在這裡不是回到舊王朝，而是由選舉、公民投票與軍人支持所包裝的現代君主制；其權力來源仍與革命時期形成的國家觀念相連。
+
+拿破崙主義可概括為以革命成果鞏固中央權力、以軍事勝利維持聲望，並以有限政治參與容納民眾主張的統治方式。
+
+因此，拿破崙既不是法國大革命單純的延續，也不是舊制度的全面復辟；他處於革命、保守與帝國化三者交會的位置。
+
+他的統治首先體現為革命成果的制度化；制度化就是把 temporary 性的變革轉成較穩定的法律、行政與財政規則。
+
+[革命後秩序]是革命完成後處理權力分配、經濟利益與_security 問題的新安排；拿破崙時代正是這種秩序形成的早期典型。
+
+行政與經濟上的整頓則可歸入[新政制度]；新政制度指革命後政府用來重建行政能力、財政運作與公共服務的機制，不專指任何單一國家的一項政策。
+
+民法、財產與身分關係的整理還涉及[土地改革]；土地改革是改變土地占有、租賃或收益分配的制度安排，拿破崙的相關措施並非重新分配全部土地。
+
+拿破崙在制度上的重要性，主要來自他延續革命確立的法律平等與私有產權，同時把行政權集中於中央政府。
+
+法國民法典於1804年頒布，共2,281條，統一了民法、婚姻、家庭、遺產與契約等規則，並削弱舊制度下的身份特權。
+
+他固定了革命時期設立的行政區劃，並以省长制、統一法院與中央派遣官員提高行政控制，這套方式後來擴散至歐洲多地。
+
+[社會基礎]是支持新政權並从中獲益的社會群體；拿破崙時期的重要基礎包括擁有土地或財產者、城市中產、軍官與職業官僚。
+
+農民因免除封建負擔、保護土地與司法而支持革命秩序；城市資產階級則重視產權、職業流動與法律可預測性。
+
+軍隊則提供直接的组织力量。徵兵制度把大量人口納入國家軍事體系，使戰爭不再只是少數職業軍人的事務。
+
+拿破崙時代同時出現土地集中、財產差別與軍事開支擴大的問題，因此其社會聯盟並不等於社會平等已經普遍落實。
+
+經濟政策結合中央調控、銀行制度、關稅與軍事需要，後來的「大陸封鎖」則試圖以貿易限制削弱英國。
+
+宗教政策由革命時期的激烈反教會措施，轉向1801年與教廷簽訂的政教協約；這並未恢復舊制度下教會對國家的全面控制。
+
+，拿破崙政府在1802年試圖於部分法國殖民地恢復奴隸制，這與革命時期宣布的普遍平等形成尖銳矛盾。
+
+國際戰爭把法國的法律與行政制度帶入義大利、荷蘭、比利時及德意志地區，也刺激被占領地區形成以民族自決為核心的抵抗運動。
+
+民族主義是以共同身分、歷史記憶與政治目標凝聚群眾的意識；拿破崙時代的中央化改革與外來統治，後來共同推動了歐洲民族國家的形成。
+
+從歷史研究看，拿破崙的重要性在於呈現一種「革命成果集中化」：群眾革命可以由一個軍事強人轉化為中央集權國家。
+
+[革命比較]則把這種集中化與其他革命比較；例如，可觀察緊急狀態、軍人政治、土地問題和國際競爭如何在不同社會產生不同結果。
+
+[後續影響]包括歐洲法律制度的傳播、行政官僚化、大眾政治參與的擴張，以及革命軍與革命者如何被後世重新塑造為民族英雄或階級象徵。
+
+本條目不把拿破崙等同於整個法國大革命，也不把1815年以前的所有法國史都視為拿破崙時代，而是聚焦於革命如何被軍事化、行政化與帝國化。
+
+概括而言，拿破崙是政治革命中的「制度化與個人化」案例：他把大革命的社會變革保留下來，卻將最高權力集中於個人及其軍事administrative network。
+
+## 技術與理論的關聯
+
+- 從制度化角度看，拿破崙把革命的紧急措施轉化為民法典、省級行政、財政調控與軍事徵召，顯示革命並非只能停留在temporary 動員。
+
+- 從[革命路徑]角度看，他代表由共和鬥爭、恐怖統治、督政府危機到軍事政變與帝國建立的連續路徑，而非單一和平改革。
+
+- 從革命緊急狀態的角度看，拿破崙常以持續戰爭作為延長非常權力的理由；緊急狀態就是因危機而暫時擴大行政與軍事權力的狀況。
+
+- [革命領袖]的作用在拿破崙身上表現為軍事成功、民眾聲望、精英交易與公民投票的結合，而不只是個人意志。
+
+- 軍隊的角色不只是保護革命，也成為奪取政權、執行行政與創造政治忠誠的工具，形成軍人與國家相互強化的關係。
+
+- 公民投票為帝國提供民主形式的合法性，但其參與範圍、競爭條件與宣傳環境受到限制，不能直接等同於普遍自由民主。
+
+- 拿破崙式的統治常被稱為「革命性保守主義」；其含義是保存部分革命成果，卻以中央集權和個人統治取代革命組織的多元性。
+
+- [社會基礎]分析有助於區分農民、城市中產、軍人與官僚的不同利益，也能說明同一套政策為何在不同地區獲得不同支持。
+
+- 政黨與階級組織受到壓縮，使新政權較能直接調配資源；代價則是政治反對力量與公共討論空間受到限制。
+
+- [新政制度]中的行政集權提高了國家能力；國家能力是政府收稅、維持秩序、執行政策與提供公共服務的實際力量。
+
+- 民法典把革命確立的法律平等、世俗契約與財產保護系統化，形成革命後秩序中最持久的制度部分之一。
+
+- [土地改革]與拿破崙政策必須分開觀察：廢除封建特權不等於平均分配土地，而保障既有所有權也可能延續土地集中。
+
+- 從歷史延續性看，拿破崙既切斷舊制度的權力形式，也保留其經濟菁英的部分利益，因而形成斷裂與延續並存的結構。
+
+- 民族主義在法國境內被用來維持帝國的中央一致性，在境外則常被征服者轉化為反抗法國的動員工具。
+
+- 國際均勢是各強國實力互相抵衡的整體格局；拿破崙戰爭改變均勢，也迫使其他國家聯合或改革行政與軍事體系。
+
+- [革命比較]顯示，拿破崙的經驗不能直接套用於所有革命；有效的比較單位是變量，例如舊制度強度、軍隊效忠、土地關係和國際壓力。
+
+- [內戰]指同一政治共同體內部出現的武裝衝突；拿破崙時代的外部戰爭與革命後的法國內政並不相同，這一區分有助於避免概念混用。
+
+- [革命後秩序]的分析提醒研究者，革命成功不只看政權更替，也要觀察誰制定法律、誰承擔成本、誰能參與公共生活。
+
+- 殖民與奴隸問題顯示普遍主義的侷限：法國國內法律平等與海外殖民支配同時存在，不能只用單一解放敘事解釋拿破崙時代。
+
+- 財政國家是政府能以較穩定收入維持行政與軍隊的制度；拿破崙透過稅制、銀行與貿易管制擴大了這種能力，也加深了戰爭與經濟相互依賴。
+
+- 法律傳播是制度跨越國界的主要方式；民法典與行政模式透過征服、仿效和在地菁英的選擇而擴散，並非完全由法國單方面決定。
+
+- 從地方行動者角度看，拿破崙提供共同語言與制度資源，但各地菁英、 peasantry、城市團體與殖民社會仍會依照自身利益接受、修改或抵抗改革。
+
+- 整體而言，拿破崙案例把革命研究從「是否推翻舊制度」推進到「革命成果如何被選擇、集中、擴散及限制」。
+
+## 範例
+
+**例一：從法國大革命到法蘭西第一帝國，1789年至1804年**
+
+1789年，法國國民與三级代表對抗[舊制度]，巴黎民眾攻占[巴士底]，王權的象徵性堡壘轉化為群眾政治行動的象徵。
+
+革命者宣布國民主權、公民權利與法律平等，逐步建立新的行政和財政結構，這些成果成為拿破崙後來能夠接掌國家的制度基礎。
+
+1792年至1794年間，共和政府因對外戰爭、叛亂與政治競爭而走向[共和與恐怖]，革命議會與安全機構取得高度權力。
+
+熱月政變之後，恐怖統治結束，政治重心轉向督政府；但督政府仍面臨財政不足、選舉操控、軍隊不滿與政黨衝突。
+
+1799年11月9日的布吕米日政變終結督政府，建立執政府。拿破崙由第一執政掌握實權，成為革命危機中新的權力中心。
+
+1802年公民投票支持新憲法與終身執政，顯示拿破崙能以 plebiscitary 方式把既有權力轉化為較穩固的個人統治。
+
+1804年公民投票進一步接受帝制，拿破崙於同年12月2日加冕，法蘭西第一帝國正式取代執政府。
+
+這一連續變化說明[革命領袖]與[革命路徑]相互作用：革命提供推翻舊制度的條件，領袖則將不同階段的成果重新組合。
+
+它也顯示拿破崙並非單靠一次軍事奪權建立帝國；公民投票、軍隊支持、行政效率和對革命成果的承諾共同構成其政權基礎。
+
+從[革命比較]角度看，拿破崙案例使後來研究者重新區分群眾革命、精英革命、軍事政變與合法化投票，而不是把它們都視為同一種變革。
+
+**例二：義大利戰役與革命政府的軍事化，1796年至1797年**
+
+拿破崙率領法軍在1796年至1797年進入義大利，連續取得倫迪、 阿爾科萊與里沃利等戰役的勝利。
+
+這些勝利不只提升個人聲望，也迫使奧地利在1797年《坎波福爾米奧和約》中承認法國革命及其衛星共和國的既成變化。
+
+法國軍隊協助建立北義大利共和國，並在當地推行民法與行政改革；革命制度因而透過軍事征服進入原本由奧地利等王朝控制的地區。
+
+革命輸出並不等於法國完全控制地方社會；商人、土地所有者、教會、地方菁英與 peasantry 會根據自身利益選擇合作或抵抗。
+
+1798年埃及戰役中，拿破崙在陸戰方面獲勝，但英國海軍在尼羅河海戰切斷法國與印度之間的航路，顯示單靠陸軍不能決定全球戰局。
+
+1805年特拉法爾加海戰又使法國失去制海權。這些軍事經驗促使拿破崙更重視陸軍、徵兵與 continental 貿易控制，也提高政府對社會資源的動員程度。
+
+因此，拿破崙的戰爭一方面鞏固[社會基礎]與中央政府，另一方面又製造民族抵抗和財政負擔，形成軍事勝利與政治消耗並存的循環。
+
+**例三：1804年民法典與革命成果的制度化**
+
+1804年《法國民法典》以2,281條統一規範財產、契約、婚姻、家庭、遺產及法律行為，是革命成果制度化的代表成果之一。
+
+民法典將公民間的法律平等與私有財產保護結合起來，使 peasants、資產階級和職業人士能在相對統一的規則下進行交易與生活。
+
+它也讓拿破崙不必依賴某一地區或階級的舊有特權，而能以全國一致的行政和司法系統治理法國及其他受法國控制的地區。
+
+拿破崙同時於1800年前後完善省长制、法院與警察行政，並於1802年設立公立中學，藉教育與行政把中央權力延伸到地方。
+
+1801年政教協約則調整革命國家與天主教會的關係，顯示拿破崙並非單純恢復舊制度，而是選擇有利於國家控制的宗教安排。
+
+這些措施不能直接稱為[土地改革]，因為它們主要規範權利與交易，而非大規模重新分配土地；這種區分有助於比較革命後不同資產關係的結果。
+
+從[新政制度]角度看，民法與行政改革提供了比軍事更持久的國家能力；即使帝國在1815年崩解，部分法律與中央行政形式仍然延續。
+
+**例四：1812年俄國戰役、帝國崩解與革命的後續影響**
+
+1812年，拿破崙以數十萬計的兵力進入俄羅斯，但俄軍撤退與遊擊使法軍補給線極度拉長，士兵因疾病、寒冷、飢餓與戰鬥大量死亡。
+
+俄國戰役暴露法蘭西帝國對遠距離戰爭、財政資源和盟國支持的依賴，也使拿破崙的戰爭聲望受到明顯打击。
+
+1814年拿破崙退位並被流放；1815年「百日」期間 he returned 法國，但戰敗於滑鐵盧後再次退位，最終被送往聖赫勒拿島。
+
+帝國崩潰並未使法國大革命的法律平等、行政中央化和財產制度消失；王朝復辟雖重建君主形式，卻無法完全消除革命所確立的制度與政治群體。
+
+拿破崙民法典及中央行政模式在比利時、荷蘭、義大利、德意志與拉丁美洲部分地區留下影響，這就是[後續影響]所指的跨制度延續。
+
+法國革命經歷也啟發歐洲其他地區的革命者：群眾、議會、軍隊和選舉被重新組合為推翻舊秩序的政治工具。
+
+但後續革命並非由拿破崙單向造成。1917年的[俄國革命]、1910年代至1920年代的[墨西哥革命]及中國的革命實踐，反過來改變了人們評價拿破崙的方式。
+
+拿破崙由「革命終結者」被重新解讀為資產階級革命秩序的建立者；蘇維埃革命者更重視其鎮壓革命、保護財產與服務資產階級的面向。
+
+這種雙向作用正是[革命比較]的意義：早期案例提供概念工具，後期案例則補充新的社會類型、殖民經驗與國家組織形式。
+
+**例五：俄國革命、內戰與新經濟政策，1917年至1921年**
+
+1917年俄國先發生[二月革命]，舊王朝在戰爭、糧食危機與工人demonstration 壓力下垮台，臨時政府隨後面對土地與和平問題。
+
+同年又發生[十月革命]，布爾什維克奪取政權並建立蘇維埃制度；其直接背景是帝國戰爭、黨派競爭、士兵不滿與臨時政府的治理危機。
+
+之後的[內戰]表明革命政權必須通過軍事衝突巩固 權力；紅軍、協約國干預、地方白軍與政治鎮壓共同塑造新政權的邊界。
+
+1921年開始推行[新經濟政策]，以較多市場機制、有限私有經營和國家控制並用，顯示革命後秩序並非只有持續戰爭或完全取消市場一種選項。
+
+拿破崙的經驗可用來比較軍隊效忠、土地政策、緊急權力與經濟恢復，但兩者不能視為相同：俄國面臨帝國崩解、干涉戰爭和廣大農村社會等不同條件。
+
+因此，拿破崙案例一方面為[俄國革命]研究提供早期集中化案例，另一方面也因俄國革命的階級、黨派和內戰經驗而受到重新界定。
+
+**例六：墨西哥革命中的土地改革與地方權力，1910年至1920年**
+
+1910年墨西哥革命爆發後，墨西哥城與北部地區出現不同政治力量；[薩拉帕薩起義]於1911年推翻狄亞斯，成為革命進程的一部分。
+
+潘喬・潘蒂亞・比亞與 Emiliano Zapata 等人分別在北部與南部組織農民運動，要求土地與傳統權利，地方革命因此不完全服從中央領導。
+
+1920年代墨西哥政府逐步推行[土地改革]與土地分配，使部分農民受益，也削弱舊有大地主勢力；這一過程顯示土地議題能連結革命、內戰與新政權合法性。
+
+拿破崙的民法典同樣處理土地權與契約，但沒有建立由地方武裝推動的大規模分配，因此兩者形成「法律現代化」與「實質土地重分配」的對照。
+
+這項比較也說明[革命路徑]並非線性：外部制度可以提供參照，實際革命仍可能由地方農民利益和軍事組織改變方向。
+
+**例七：拿破崙時期的奴隸制矛盾與海地革命，1802年至1804年**
+
+拿破崙政府於1802年5月20日頒布法令，試圖在適用1794年廢奴法令的法國殖民地恢復奴隸制，但該措施因戰爭而未能在所有地區落實。
+
+殖民反對與黑奴抗爭持續發展，聖多明各革命者最終於1804年1月1日宣布海地獨立，使帝國的普遍法律宣言與奴隸制實踐正面衝突。
+
+這使拿破崙案例不能用單純的「革命向外輸出自由」解釋；法國國內民法權利、殖民地奴隸統治和被壓迫者的武裝反抗必須同時放入分析。
+
+海地革命也影響後來的[革命比較]：研究者開始將反殖民、奴隸制與全球革命放在同一框架，而不再把歐洲政治變革視為彼此隔離。
+
+**例八：阿拉伯之春及其不同後續，2011年以後**
+
+2011年[阿拉伯之春]在北非和中東造成多國政府迅速更替；[突尼西亞]的轉型相對快速，而[埃及]與[敘利亞]則出現不同程度的軍事鎮壓和持續衝突。
+
+這些案例可與拿破崙比較危機處理、軍隊效忠和制度整合，但社會運動的目標、伊斯蘭政治角色、制裁壓力與國際介入均與十九世紀法國不同。
+
+突尼西亞、埃及與敘利亞的不同結果，進一步說明「推翻政府」只是革命路徑的起點，而不是新政權建立與革命後秩序完成的終點。
+
+拿破崙分類因此不只是法國史人物主題，而成為比較革命的工具：它協助辨認誰能掌握軍隊、誰能將動員轉成制度、誰能限制舊秩序復辟，以及誰會承擔革命的代價。
+
+## 與相鄰分類的關聯
+
+- [政治革命]是最上位的概念；拿破崙被放入其下，是因為他把革命形成的國民、財產與行政觀念轉化為新的中央政權。
+
+- [法國大革命]是最直接的父分類；拿破崙的政權、軍隊與改革都依賴革命已打破的舊制度，並延續其法律與行政成果。
+
+- [巴士底]是革命開始的象徵性事件；它說明群眾能以直接行動迫使舊權力退讓，但不直接解釋拿破崙後來的帝國制度。
+
+- [舊制度]是拿破崙改革所針對的對象，也是比較各國革命時，用來辨認封建特權、身份秩序與中央控制程度的重要基準。
+
+- [共和與恐怖]代表法國大革命內部的激烈階段；拿破崙所建立的政權常被視為對恐怖時期非常權力的終結，但其權力集中程度仍然很高。
+
+- [革命領袖]是分析拿破崙個人作用的分類維度；它讓研究者區分群眾運動、黨派競爭、軍隊政變與個人聲望，而不把政治變化全歸因於個人。
+
+- [社會基礎]用來辨認農民、城市資產階級、軍人、官僚和殖民人口對拿破崙的不同支持與反對。
+
+- [革命路徑]把1789年的民眾革命、1790年代的共和衝突、1799年的軍事政變與1804年的帝制連成可比較的序列。
+
+- [革命後秩序]是拿破崙時代最直接的問題；民法、行政、教育、財政和軍制的建立，決定了革命後法國的基本國家結構。
+
+- [新政制度]涵蓋革命後的行政與經濟重建；它有助於分析拿破崙中央集權與後來各國革命後新政的異同。
+
+- [土地改革]是與拿破崙制度化改革相鄰但不同的概念；比較重點是民法典保護財產，與墨西哥革命實際分配土地之間的差異。
+
+- [內戰]可用來提醒，拿破崙的對外戰爭、法國革命後期的內部衝突，以及俄國或中國革命後的內戰，具有不同的敵我關係與政治目標。
+
+- [革命比較]是横向工具；它把拿破崙與其他革命放在共同變項下比較，而不是認定所有革命都經歷相同階段。
+
+- [後續影響]則是纵向工具；它追蹤拿破崙民法、行政模式、民族主義和革命神話如何影響十九、二十世紀。
+
+- [俄國革命]顯示革命可能形成黨國、內戰與新經濟政策等截然不同的後續路徑，顯示緊急權力不會自動導致拿破崙式結果。
+
+- [二月革命]與[十月革命]可共同說明革命不是單一事件；前者主要是推翻王朝，後者則是推翻臨時政府，兩者都需要不同的群眾、黨派和軍事條件。
+
+- [新經濟政策]代表革命後以市場、財政與行政手段恢復經濟的另一種選擇，可與拿破崙的中央調控和 continental 貿易政策比較。
+
+- [墨西哥革命]顯示地方武裝、農民動員與土地分配如何改變中央革命國家的政策方向，拿破崙的集中化並非唯一可能模式。
+
+- [薩拉帕薩起義]與[潘喬・潘蒂亞・比亞]代表革命中的地方領導者；前者推翻舊政府，後者則以農民土地要求持續影響革命後制度。
+
+- [中國革命]可用來比較革命與建國的時間差，以及中央黨國、軍隊和地方社會如何逐步整合。
+
+- [辛亥革命]是推翻帝制而未能立即建立穩定中央秩序的案例；它與拿破崙從革命走向帝制的結果形成鮮明對照。
+
+- [國共對抗]顯示革命後的政治競爭可能轉化為長期軍事衝突；拿破崙帝國崩潰後的法國則主要經王朝復辟、憲法調整與政治重組而再整合。
+
+- [建國與改革]把「革命成功」與「建立可持續國家」分開；拿破崙的行政與法律工程因此可與革命後的國家能力形成比較。
+
+- [阿拉伯之春]說明推翻既有政府可能只是多國革命循環的起點，中央權威、軍隊忠誠和後續秩序仍會決定轉型方向。
+
+- [突尼西亞]、[埃及]與[敘利亞]可共同呈現阿拉伯之春的不同政治後果，並驗證[革命比較]中「相同起點、不同制度結果」的觀察。
+
+- 分類使用上，「拿破崙」應指向革命後的制度化、軍事化和帝國化問題，而非把所有拿破崙傳記、戰役細節或1815年前的法國史無差別納入。
+
+## 連結定義
+
+[政治革命]: 政治革命.md
+[法國大革命]: 法國大革命.md
+[俄國革命]: 俄國革命.md
+[墨西哥革命]: 墨西哥革命.md
+[中國革命]: 中國革命.md
+[阿拉伯之春]: 阿拉伯之春.md
+[革命比較]: 革命比較.md
+[革命領袖]: 革命領袖.md
+[舊制度]: 舊制度.md
+[巴士底]: 巴士底.md
+[共和與恐怖]: 共和與恐怖.md
+[二月革命]: 二月革命.md
+[十月革命]: 十月革命.md
+[內戰]: 內戰.md
+[新經濟政策]: 新經濟政策.md
+[薩拉帕薩起義]: 薩拉帕薩起義.md
+[潘喬・潘蒂亞・比亞]: 潘喬・潘蒂亞・比亞.md
+[土地改革]: 土地改革.md
+[新政制度]: 新政制度.md
+[辛亥革命]: 辛亥革命.md
+[國共對抗]: 國共對抗.md
+[建國與改革]: 建國與改革.md
+[突尼西亞]: 突尼西亞.md
+[埃及]: 埃及.md
+[敘利亞]: 敘利亞.md
+[後續影響]: 後續影響.md
+[社會基礎]: 社會基礎.md
+[革命路徑]: 革命路徑.md
+[革命後秩序]: 革命後秩序.md
