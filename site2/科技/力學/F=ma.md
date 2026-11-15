@@ -10,7 +10,7 @@ status: 初稿
 
 > 隸屬：[力學]　·　狀態：初稿
 
-> 對應維基百科：[中文維基百科：牛顿第二运动定律](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E7%AC%AC%E4%BA%8C%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B)　·　[English Wikipedia: Newton's laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+> 對應維基百科：[中文維基百科：牛頓第二運動定律](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E7%AC%AC%E4%BA%8C%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B)　·　[English Wikipedia: Newton's laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 
 $F = ma$ 是牛頓第二定律的現代形式：**合力等於質量乘加速度**。單位牛頓（ $\mathrm{N}$ ）由它定義： $1\,\mathrm{N} = 1\,\mathrm{kg \cdot m/s^2}$ 。這條看似簡單的方程是物理學史上產出最多的公式——只要能寫出一個物體所受的合力，它的整個未來就化為一個（可能很難，但原則上可解的）微分方程：
 
@@ -24,7 +24,7 @@ $$
 
 - **原式是動量形式**：牛頓原始表述為 $F = \frac{dp}{dt}$ ， $p = mv$ 。質量可變（火箭、流體、相對論）時必須用此式， $F = ma$ 只是質量恆定的特例。
 - **向量方程**：三個分量各自成立， $F_x = ma_x$ 、 $F_y = ma_y$ 、 $F_z = ma_z$ ；複雜問題靠分量拆解。
-- **疊加原理**： $\vec{F}_{net} = \sum_i \vec{F}_i$ ，各力獨立產生自己的加速度分量，互不干擾。
+- **疊加原理**： $\vec{F}_{net} = \sum_i \vec{F}_i$ ，各力獨立產生自己的加速度分量，互不幹擾。
 - **單位與量綱**： $1\,\mathrm{N} = 1\,\mathrm{kg \cdot m/s^2}$ ；量綱檢查是每一道題的免費驗算。
 - **邊界**：速度接近光速時改用 $F = dp/dt$ 且 $p = \gamma m v$ ；微觀世界由量子力學接管；非慣性系需加虛擬力。
 - **推廣的母體**：轉動版本 $\tau = I\alpha$ 、電學版本 $qE = ma$ 、流體版本（納維—斯托克斯方程）全是 $F = ma$ 換裝重演。
@@ -66,7 +66,7 @@ $$
 
 - ** $F$ 必須是合力**：漏掉任一個力（尤其法向力與摩擦力）結果全錯。
 - ** $ma$ 不是力**：等式右邊是力的**效果**，畫自由體圖時不能畫出一個「 $ma$ 力」。
-- **質量恆定才可寫成 $ma$ **：火箭、雨滴吸水、相對論速度都必須回到 $F = dp/dt$ 。
+- **質量恆定纔可寫成 $ma$ **：火箭、雨滴吸水、相對論速度都必須回到 $F = dp/dt$ 。
 - **單位混用**：公斤重（kgf）與牛頓差 $g$ 倍； $1\,\mathrm{kgf} = 9.8\,\mathrm{N}$ 。
 - **非慣性系要補虛擬力**：在加速的車內用 $F = ma$ 卻不加虛擬力，會把「車的加速」誤當成真實力。
 
