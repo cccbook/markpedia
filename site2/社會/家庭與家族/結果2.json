@@ -1,0 +1,74 @@
+{
+  "家庭結構.md": {
+    "zh_disp": "核心家庭",
+    "zh_canon": "核心家庭",
+    "en_disp": "Household",
+    "en_canon": "Household"
+  },
+  "家庭功能.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Family",
+    "en_canon": "Family"
+  },
+  "情感支持.md": {
+    "zh_disp": "社会支持",
+    "zh_canon": "社會支持",
+    "en_disp": "Emotional support",
+    "en_canon": "Sympathy"
+  },
+  "經濟支持.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Financial support",
+    "en_canon": "Financial support"
+  },
+  "代際溝通.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "防治制度.md": {
+    "zh_disp": "庇护所",
+    "zh_canon": "避难所",
+    "en_disp": "Protective order",
+    "en_canon": "Protective order"
+  },
+  "肢體暴力.md": {
+    "zh_disp": "家庭暴力",
+    "zh_canon": "家庭暴力",
+    "en_disp": "Physical abuse",
+    "en_canon": "Physical abuse"
+  },
+  "經濟控制.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Economic abuse",
+    "en_canon": "Economic abuse"
+  },
+  "家庭經濟.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Household income",
+    "en_canon": "Household income"
+  },
+  "家庭所得.md": {
+    "zh_disp": "可支配所得",
+    "zh_canon": "可支配所得",
+    "en_disp": "Household income",
+    "en_canon": "Household income"
+  },
+  "教養支出.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Education policy",
+    "en_canon": "Education policy"
+  },
+  "代間轉移.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Intergenerational mobility",
+    "en_canon": "Social mobility"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "米德.md": {
+    "zh_disp": "米德",
+    "zh_canon": "喬治·賀伯特·米德",
+    "en_disp": "George Herbert Mead",
+    "en_canon": "George Herbert Mead"
+  },
+  "派森.md": {
+    "zh_disp": "塔尔科特·帕森斯",
+    "zh_canon": "塔尔科特·帕森斯",
+    "en_disp": "Talcott Parsons",
+    "en_canon": "Talcott Parsons"
+  },
+  "史瓦茨.md": {
+    "zh_disp": "施瓦茨",
+    "zh_canon": "施瓦茨",
+    "en_disp": "Shalom Schwartz",
+    "en_canon": "Shalom H. Schwartz"
+  },
+  "貝克.md": {
+    "zh_disp": "加里·贝克尔",
+    "zh_canon": "蓋瑞·貝克",
+    "en_disp": "Gary Becker",
+    "en_canon": "Gary Becker"
+  },
+  "弗里德曼.md": {
+    "zh_disp": "米尔顿·弗里德曼",
+    "zh_canon": "米爾頓·佛利民",
+    "en_disp": "Milton Friedman",
+    "en_canon": "Milton Friedman"
+  },
+  "麥克比.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Eleanor Maccoby",
+    "en_canon": "Eleanor Maccoby"
+  },
+  "鮑曼.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Diana Baumrind",
+    "en_canon": "Diana Baumrind"
+  }
+}
