@@ -1,7 +1,3 @@
-
-
-
-
 格式採用標準的 github markdown ，可以用 tex 與 mermaid.
 tex 必須能在 github 上正確呈現。
 
