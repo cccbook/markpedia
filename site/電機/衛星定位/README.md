@@ -22,10 +22,10 @@ tags:
 [三邊測量]: 三邊測量.md
 [原子鐘同步]: 原子鐘同步.md
 [主要系統]: 主要系統.md
-[GPS]: GPS.md
+[GPS]: ../衛星/GPS.md
 [GLONASS]: GLONASS.md
 [Galileo]: Galileo.md
-[北斗]: 北斗.md
+[北斗]: ../衛星/北斗.md
 [精度誤差]: 精度誤差.md
 [幾何精度因子]: 幾何精度因子.md
 [電離層延遲]: 電離層延遲.md
