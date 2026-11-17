@@ -1,0 +1,16 @@
+{
+  "沉澱反應.md": {"zh": ["沉澱反應", "沉澱"], "en": ["Precipitation (chemistry)", "Precipitation"]},
+  "重量分析.md": {"zh": ["重量分析"], "en": ["Gravimetric analysis"]},
+  "滴定分析.md": {"zh": ["滴定"], "en": ["Titration"]},
+  "比色法.md": {"zh": ["比色法", "比色分析"], "en": ["Colorimetry"]},
+  "光譜.md": {"zh": ["光譜", "光譜學"], "en": ["Spectrum", "Spectroscopy"]},
+  "電化學.md": {"zh": ["電化學"], "en": ["Electrochemistry"]},
+  "色層分析.md": {"zh": ["色譜法", "層析"], "en": ["Chromatography"]},
+  "質譜.md": {"zh": ["質譜法", "質譜儀"], "en": ["Mass spectrometry"]},
+  "取樣誤差.md": {"zh": ["抽樣誤差", "取樣誤差"], "en": ["Sampling error"]},
+  "萃取.md": {"zh": ["萃取", "液液萃取"], "en": ["Liquid–liquid extraction"]},
+  "消解.md": {"zh": ["消解", "酸消解"], "en": ["Digestion (chemistry)"]},
+  "標準品.md": {"zh": ["標準物質", "標準品"], "en": ["Reference material"]},
+  "校正曲線.md": {"zh": ["檢量線", "校正曲線"], "en": ["Calibration curve"]},
+  "方法驗證.md": {"zh": ["方法驗證"], "en": ["Analytical quality control", "Method validation"]}
+}

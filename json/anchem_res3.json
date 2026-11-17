@@ -1,0 +1,14 @@
+{
+  "標準品.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Certified reference materials",
+    "en_canon": "Certified reference materials"
+  },
+  "校正曲線.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Calibration curve",
+    "en_canon": "Calibration curve"
+  }
+}

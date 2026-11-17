@@ -1,0 +1,32 @@
+{
+  "比色法.md": {
+    "zh_disp": "分光光度法",
+    "zh_canon": "分光光度法",
+    "en_disp": "Colorimetry",
+    "en_canon": "Colorimetry"
+  },
+  "電化學.md": {
+    "zh_disp": "电化学",
+    "zh_canon": "电化学",
+    "en_disp": "Electrochemistry",
+    "en_canon": "Electrochemistry"
+  },
+  "消解.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Digestion",
+    "en_canon": "Digestion"
+  },
+  "標準品.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Certified reference materials",
+    "en_canon": "Certified reference materials"
+  },
+  "校正曲線.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Calibration curve",
+    "en_canon": "Calibration curve"
+  }
+}

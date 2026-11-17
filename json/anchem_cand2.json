@@ -1,0 +1,7 @@
+{
+  "比色法.md": {"zh": ["比色分析", "分光光度法", "比色计"], "en": ["Colorimetry"]},
+  "電化學.md": {"zh": ["电化学"], "en": ["Electrochemistry"]},
+  "消解.md": {"zh": ["微波消解", "酸消化"], "en": ["Acid digestion", "Digestion"]},
+  "標準品.md": {"zh": ["标准物质", "參考物質"], "en": ["Certified reference materials", "Reference material"]},
+  "校正曲線.md": {"zh": ["标准曲线", "檢量線"], "en": ["Calibration curve"]}
+}

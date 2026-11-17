@@ -1,0 +1,86 @@
+{
+  "沉澱反應.md": {
+    "zh_disp": "沉澱反應",
+    "zh_canon": "沉淀",
+    "en_disp": "Precipitation (chemistry)",
+    "en_canon": "Precipitation (chemistry)"
+  },
+  "重量分析.md": {
+    "zh_disp": "重量分析",
+    "zh_canon": "重量分析法",
+    "en_disp": "Gravimetric analysis",
+    "en_canon": "Gravimetric analysis"
+  },
+  "滴定分析.md": {
+    "zh_disp": "滴定",
+    "zh_canon": "滴定",
+    "en_disp": "Titration",
+    "en_canon": "Titration"
+  },
+  "比色法.md": {
+    "zh_disp": "比色法",
+    "zh_canon": "色度学",
+    "en_disp": "Colorimetry",
+    "en_canon": "Colorimetry"
+  },
+  "光譜.md": {
+    "zh_disp": "光譜",
+    "zh_canon": "光谱",
+    "en_disp": "Spectrum",
+    "en_canon": "Spectrum"
+  },
+  "電化學.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Electrochemistry",
+    "en_canon": "Electrochemistry"
+  },
+  "色層分析.md": {
+    "zh_disp": "色譜法",
+    "zh_canon": "色谱法",
+    "en_disp": "Chromatography",
+    "en_canon": "Chromatography"
+  },
+  "質譜.md": {
+    "zh_disp": "質譜儀",
+    "zh_canon": "质谱法",
+    "en_disp": "Mass spectrometry",
+    "en_canon": "Mass spectrometry"
+  },
+  "取樣誤差.md": {
+    "zh_disp": "抽樣誤差",
+    "zh_canon": "抽樣誤差",
+    "en_disp": "Sampling error",
+    "en_canon": "Sampling error"
+  },
+  "萃取.md": {
+    "zh_disp": "萃取",
+    "zh_canon": "萃取",
+    "en_disp": "Liquid–liquid extraction",
+    "en_canon": "Liquid–liquid extraction"
+  },
+  "消解.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": null,
+    "en_canon": null
+  },
+  "標準品.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Reference material",
+    "en_canon": "Certified reference materials"
+  },
+  "校正曲線.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Calibration curve",
+    "en_canon": "Calibration curve"
+  },
+  "方法驗證.md": {
+    "zh_disp": null,
+    "zh_canon": null,
+    "en_disp": "Analytical quality control",
+    "en_canon": "Analytical quality control"
+  }
+}
